@@ -5,16 +5,16 @@
   icon: 'fab fa-github'
 -
   type: mastadon
-  icon: 'fab fa-orcid'
+  icon: 'fab fa-mastodon'
   url: 'https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6325-9317&sort=date%20desc%2C%20bibcode%20desc&p_=0'
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+#  type: rss
+#  icon: 'fas fa-rss'
+#  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
