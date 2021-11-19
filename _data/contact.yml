@@ -16,10 +16,10 @@
 #  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
--
-   type: mastodon
-   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-   url:  'https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6325-9317&sort=date%20desc%2C%20bibcode%20desc&p_=0'                  # Fill with your mastodon account page
+# -
+#    type: mastodon
+#    icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#    url:  'https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6325-9317&sort=date%20desc%2C%20bibcode%20desc&p_=0'                  # Fill with your mastodon account page
 -
    type: linkedin
    icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
