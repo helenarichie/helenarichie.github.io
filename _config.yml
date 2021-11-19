@@ -23,9 +23,11 @@ title: Helena Richie                          # the main title
 tagline: Astrophysics graduate student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  I'm a second year student in Pitt's Physics PhD 
+  program working with Professor Evan Schneider on creating 
+  high resolution galaxy simulations. I'm interested in how dust
+  affects galaxy evolution, specifically how it gets destroyed and
+  transported throughout galaxies by different feedback mechanisms.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://helenarichie.github.io'
