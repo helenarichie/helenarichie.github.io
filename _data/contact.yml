@@ -26,5 +26,5 @@
   url:  'https://www.linkedin.com/in/helena-richie-54413a167/'                  # Fill with your Linkedin homepage
 -
   type: stack-overflow
-  icon: 'fab fa-stack-overflow'
+  icon: 'fab fa-orcid'
   url:  'https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6325-9317&sort=date%20desc%2C%20bibcode%20desc&p_=0'                  # Fill with your stackoverflow homepage
