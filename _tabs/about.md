@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 2
+order: 1
 ---
 
 

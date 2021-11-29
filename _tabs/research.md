@@ -1,7 +1,7 @@
 ---
 title: Research
 icon: fas fa-meteor
-order: 3
+order: 2
 ---
 
 
