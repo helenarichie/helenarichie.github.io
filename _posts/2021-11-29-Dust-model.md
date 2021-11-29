@@ -1,5 +1,5 @@
 ---
-title:      Passive Scalar Dust Model        # Title
+title:      Dust Model        # Title
 author:     Helena Richie              # Author Name
 date:       2021-11-29 12:06:42 -0500  # Date
 categories: [Research]     # Catagories, no more than 2
