@@ -13,7 +13,7 @@ I have been working on adding a dust model to our group's hydrodynamics code, Ch
 This model accounts for how dust density changes due to the processes of gas-phase metal accretion and thermal sputtering and are modeled by the following equations:  
 \\( \frac{d\rho_{i,\text{dust}}}{dt} = \Big(1-\frac{\rho_{i,\text{dust}}}{\rho_{i,\text{metal}}}\Big)\Big(\frac{\rho_{i,\text{dust}}}{\tau_g}\Big) \\)
 and  
-\(( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3} \))
+\\( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3}. \\)
 
 Unlike many other hydrodynamics codes, Cholla is able to resolve down to parsec scales for isolated galaxy simulations due to its GPU-native construction. This allows us to resolve the dust physics modeled in those equations, instead of relying on sub-grid models, as is the common practice in the field. As a result of this, our current reconcilliation of dust processes and spatial distributions in simulation and observation is quite poor. For example, it is well known through observation that dust exists in the circumgalactic medium (CGM) of galaxies. However, simulations suggest that the mechanisms that transport dust from within galaxies where it is formed to the CGM should destroy dust. This is a problem that we will study with Cholla's new dust model by creating a simulation of a galactic wind to study how its dust content evolves.
 
