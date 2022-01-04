@@ -18,5 +18,7 @@ Because of this, Cholla is uniqely positioned to address many of the open questi
 
 # Testing
 To test this model, I'm creating a Python version of the numerical solutions to the differential equations we're using to model the processes of gas-phase metal accretion and thermal sputtering shown above. The sputtering equation has a simple analytic solution that we can compare with our numerical solution, as is shown below.
-![Sputtering Analytic Solution](/assets/img/posts/sputtering_analytic.png)
+![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 The timescale for sputtering to occur depends on gas temperature, so for cooler gas sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (like \\(T=10^5~K\\) and up), sputtering becomes important at around \\(T=10^8~\text{kyr}\\) and even sooner for higher temperatures.
+
+With gas-phase metal accretion, the picture is not as simple. Without comparing 
