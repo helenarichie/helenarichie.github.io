@@ -33,7 +33,7 @@ The other main process that dust undergoes is thermal sputtering, which is when 
 The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depeleted entirely.
 
 # Model Testing
-To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. The code that I wrote for this can be found [here](https://github.com/helenarichie/research/tree/master/cholla/dust_model). To integrate these equations, I used the forward-Euler method,
+To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. The code that I wrote for this can be found [here](https://github.com/helenarichie/research/tree/master/cholla/dust_model). To integrate the dust model equations, I used the forward-Euler method,
 
 \\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) \\),
 
