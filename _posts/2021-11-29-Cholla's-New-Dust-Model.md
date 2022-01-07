@@ -1,5 +1,5 @@
 ---
-title:      Dust Model Testing        # Title
+title:      Cholla's New Dust Model        # Title
 author:     Helena Richie              # Author Name
 date:       2021-11-30 09:55:42 -0500  # Date
 categories: [Research]     # Catagories, no more than 2
