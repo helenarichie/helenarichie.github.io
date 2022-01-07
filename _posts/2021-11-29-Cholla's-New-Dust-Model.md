@@ -36,11 +36,11 @@ The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperatur
 To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. This was simply the forward-Euler method, with
 \\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) )\\
 
-where \\(f(\rho_n, t))\\ is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so we were able to compare the numerical and analytical solutions directly, as is shown in the following figure:
+where \\( f(\rho_n, t) )\\ is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so we were able to compare the numerical and analytical solutions directly, as is shown in the following figure:
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
-The timescale for sputtering to occur depends on gas temperature, so for cooler gas sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (like \\(T=10^5~K\\) and up), sputtering becomes important at around \\(T=10^8~\text{kyr}\\) and even sooner for higher temperatures.
+The timescale for sputtering to occur depends on gas temperature, so for cooler gas sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (like \\( T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^8~\text{kyr} \\) and even sooner for higher temperatures.
 
 
 ![Accretion Analytic Solution](/assets/img/posts/accretion_numerical.png)
