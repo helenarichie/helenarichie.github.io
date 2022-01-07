@@ -26,7 +26,7 @@ Dust can grow in size by accreting gas-phase metals of the same species, accordi
 
 Here, \\( \tau_g \\) is the growth timescale for dust, and scales inversely with total density and temperature. The accretion rate depends on the dust-to-metal ratio of the cell, and slows as metals are depeleted onto dust. This eventually causes accretion to come to a halt.
 
-The other main process that dust undergoes is thermal sputtering, which is when an energetic particle collides with a dust particle and destroys it. This process is modeled by the following equation:
+The other main process that dust undergoes in a wind is thermal sputtering, which is when an energetic particle collides with a dust molecule and destroys it. This process is modeled by the following equation:
 
  \\( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3} \\).
 
