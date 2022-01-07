@@ -41,7 +41,7 @@ where \\( dt \\) is the integration time-step and \\( f(\rho_n, t) \\) is the ri
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
-The timescale for sputtering to occur depends on gas temperature, so for cooler gas sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (like \\( T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^8~\text{kyr} \\) and even sooner for higher temperatures.
+Here, the solid lines show the analytical solution and the dashed lines show the numerical solution. The timescale for sputtering to occur depends on gas temperature, so for cooler gas sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (like \\( T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^8~\text{kyr} \\) and even sooner for higher temperatures.
 
 
 ![Accretion Analytic Solution](/assets/img/posts/accretion_numerical.png)
