@@ -33,10 +33,11 @@ The other main process that dust undergoes is thermal sputtering, which is when 
 The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depeleted entirely.
 
 # Model Testing
-To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. This was simply the forward-Euler method, with
-\\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) )\\
+To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. This was simply the forward-Euler method:
 
-where \\( f(\rho_n, t) )\\ is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so we were able to compare the numerical and analytical solutions directly, as is shown in the following figure:
+\\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) \\)
+
+where \\( f(\rho_n, t) \\) is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so we were able to compare the numerical and analytical solutions directly, as is shown in the following figure:
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
