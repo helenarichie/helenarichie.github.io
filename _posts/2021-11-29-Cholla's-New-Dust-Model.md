@@ -19,7 +19,7 @@ For a while, the spatial distribution of dust in and around galaxies has been a 
 To understand how dust would behave in a galactic wind, the dust model that I'm writing for Cholla will account for the processes that would be signficant to dust in this environment: gas-phase metal accretion and thermal sputtering. These two processes cause dust to grow and get destroyed, respectively. To model these processes, I'm using differential equations for dust density that are adapted from the [McKinnon et al. (2016) paper](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3775M/abstract) that introduces a dust model to the [Arepo](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract) code.
 
 Dust can grow in size by accreting gas-phase metals of the same species, according to the following equation:
-\\( \frac{d\rho_{i,\text{dust}}}{dt} = \Big(1-\frac{\rho_{i,\text{dust}}}{\rho_{i,\text{metal}}}\Big)\Big(\frac{\rho_{i,\text{dust}}}{\tau_g}\Big) \\).
+\\( \frac{d\rho_{i,\text{dust}}}{dt} = \Big(1-\frac{\rho_{i,\text{dust}}}{\rho_{i,\text{metal}}}\Big)\Big(\frac{\rho_{i,\text{dust}}}{\tau_g}\Big) \\)
 
 Here, \\( \tau_g \\) is the growth timescale for dust, and scales inversely with total density and temperature. It also depends on the dust-to-metal ratio of the cell, and the growth rate of dust slows as metals are depeleted and this ratio increases. This eventually causes accretion to come to a halt.
 
@@ -31,7 +31,10 @@ The other main process that dust undergoes is thermal sputtering, which is when 
 The sputtering timescale \\( \tau_\text{sp} \\) depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depeleted entirely.
 
 # Model Testing
-To test this model, I'm creating a Python version of the numerical solutions to the differential equations we're using to model the processes of gas-phase metal accretion and thermal sputtering shown above. The sputtering equation has a simple analytic solution that we can compare with our numerical solution, as is shown below.
+To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. This was simply the forward-Euler method, with
+\\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) )\\
+
+where \\(f(\rho_n, t))\\ is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so we were able to compare the numerical and analytical solutions directly, as is shown in the following figure:
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
