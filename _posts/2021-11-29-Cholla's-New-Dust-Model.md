@@ -37,7 +37,7 @@ To test this model, I wanted create a Python version of the numerical method I'l
 
 \\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) \\),
 
-where \\( f(\rho_n, t) \\) is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so we were able to compare the numerical and analytical solutions directly, as is shown in the following figure:
+where \\( dt )\\ is the integration time-step and \\( f(\rho_n, t) \\) is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so we were able to compare the numerical and analytical solutions directly, as is shown in the following figure:
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
