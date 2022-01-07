@@ -9,9 +9,13 @@ toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?
 ---
 # Background
-I've been working on adding a dust model to the Cholla hydrodynamics code. 
-Cholla is currently uses its hydrodynamics capabilities to model gas, which is the largest fluid component of galaxies. However, dust is another major fluid component in galaxies that we can use hydrodynamics codes to model. Cholla does not currently have the capability of including dust in its simulations, but it can be incorporated in a fairly straightforward way by treating dust as a passive scalar with its dynamics fully coupled to the gas dynamics. Then, we can study how dust density evolves per cell based on environmental factors such as temperature and gas density. In reality, dust does not strictly follow the dynamics of gas in galaxies, so a later improvement of this model would be to create a particle-based model of dust that is free to flow on its own. But for now, we can learn a lot about how dust affects galaxies from this simple model.
+Lately, I've been working on adding a dust model to the [Cholla hydrodynamics code](https://github.com/cholla-hydro/cholla). Cholla currently uses its hydro capabilities to model gas, which is the largest fluid component of most galaxies. Dust, however, is another important fluid component in galaxies that we can use hydrodynamics codes to study. At the moment, Cholla does not make any attempt to model dust in its simulations, but we can incorporate it in a fairly straightforward way by treating dust as a passive scalar with its dynamics fully coupled to the gas. Then, we can study how the scalar dust density evolves per cell based on other cell quantities such as temperature and gas density. In reality, dust does not strictly follow the dynamics of gas in galaxies, so a later improvement of this model would be to create a particle-based treatment of dust that is free to flow on its own. For now, though, we can learn a lot about how dust affects galaxies from this simple model.
 
+Although dust is a small relatively contribution to the overall fluid content of galaxies, it is deeply intertwined in many of the most important processes that shape galaxy evolution. After forming and enriching the ISM during the late stages of stars' evolution, dust interacts with the gas in galaxies and comes to affect 
+
+Despite its importance in galaxy evolution, astronomers have made some puzzling observations of dust in galaxies. In particular, we have extensive observations of dust in the circumgalactic media (CGMs) of galaxies (e.g. [Ménard et al. 2010](https://ui.adsabs.harvard.edu/abs/2010MNRAS.405.1025M/abstract)), which is interesting because we know that dust does not originate from these regions. 
+
+# Our Dust Model
 To incorporate these effects into our isolated galaxy simulations, I'm developing a model that is adapted from the [McKinnon et al. (2016) paper](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3775M/abstract) that introduces a simple dust model to the [Arepo](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract) code. In this model, we are treating dust as a fluid that is fully coupled to the dynamics of the existing gas, so dust density is simply a passive scalar that depends on the gas density and temperature. 
 This model accounts for how dust density changes due to the processes of gas-phase metal accretion and thermal sputtering and are modeled by the following equations:  
 \\( \frac{d\rho_{i,\text{dust}}}{dt} = \Big(1-\frac{\rho_{i,\text{dust}}}{\rho_{i,\text{metal}}}\Big)\Big(\frac{\rho_{i,\text{dust}}}{\tau_g}\Big) \\)
@@ -19,7 +23,7 @@ and \\( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\tex
 
 Because of this, Cholla is uniqely positioned to address many of the open questions perataining to the effects of dust on galaxy evolution. For example, it is well known through observation that dust exists in the circumgalactic medium (CGM) of galaxies. However, simulations suggest that the mechanisms that transport dust from within galaxies where it is formed to the CGM should destroy dust. Since Cholla can observe the scales at which dust is expected to be destroyed through thermal sputtering, I will address this question by creating a simple simulation of a galactic wind an studying how dust evolves.
 
-# Testing
+# Model Testing
 To test this model, I'm creating a Python version of the numerical solutions to the differential equations we're using to model the processes of gas-phase metal accretion and thermal sputtering shown above. The sputtering equation has a simple analytic solution that we can compare with our numerical solution, as is shown below.
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
