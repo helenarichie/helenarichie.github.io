@@ -28,11 +28,9 @@ Here, \\( \tau_g \\) is the growth timescale for dust, and scales inversely with
 
 The other main process that dust undergoes is thermal sputtering, which is when an energetic particle collides with a dust particle and destroys it. This process is modeled by the following equation:
 
-<p style="text-align: center;">
  \\( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3} \\)
-</p>
 
-The sputtering timescale \\( \tau_\text{sp} \\) depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depeleted entirely.
+The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depeleted entirely.
 
 # Model Testing
 To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. This was simply the forward-Euler method, with
@@ -43,5 +41,9 @@ where \\(f(\rho_n, t))\\ is the right hand side of the accretion or sputtering d
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
 The timescale for sputtering to occur depends on gas temperature, so for cooler gas sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (like \\(T=10^5~K\\) and up), sputtering becomes important at around \\(T=10^8~\text{kyr}\\) and even sooner for higher temperatures.
+
+
+![Accretion Analytic Solution](/assets/img/posts/accretion_numerical.png)
+
 
 With gas-phase metal accretion, the picture is not as simple. In general, gas-phase metal accretion is a non-linear process that depends on a balance of processes. [Draine et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ASPC...12..193D/abstract) describes accretion as a process 
