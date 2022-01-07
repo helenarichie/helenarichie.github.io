@@ -21,11 +21,14 @@ To understand how dust would behave in a galactic wind, the dust model that I'm 
 Dust can grow in size by accreting gas-phase metals of the same species, according to the following equation:
 \\( \frac{d\rho_{i,\text{dust}}}{dt} = \Big(1-\frac{\rho_{i,\text{dust}}}{\rho_{i,\text{metal}}}\Big)\Big(\frac{\rho_{i,\text{dust}}}{\tau_g}\Big) \\).
 
-Here, \\(\tau_g)\\ is the growth timescale for dust, and scales inversely with total density and temperature. It also depends on the dust-to-metal ratio of the cell, and the growth rate of dust slows as metals are depeleted and this ratio increases. This eventually causes accretion to come to a halt.
+Here, \\( \tau_g \\) is the growth timescale for dust, and scales inversely with total density and temperature. It also depends on the dust-to-metal ratio of the cell, and the growth rate of dust slows as metals are depeleted and this ratio increases. This eventually causes accretion to come to a halt.
 
 The other main process that dust undergoes is thermal sputtering, which is when an energetic particle collides with a dust particle and destroys it. This process is modeled by the following equation:
- \\( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3}. \\)
-The sputtering timescale \\(\tau_\text{sp})\\ depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depeleted entirely.
+<p style="text-align: center;">
+ \\( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3} \\)
+</p>
+
+The sputtering timescale \\( \tau_\text{sp} \\) depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depeleted entirely.
 
 # Model Testing
 To test this model, I'm creating a Python version of the numerical solutions to the differential equations we're using to model the processes of gas-phase metal accretion and thermal sputtering shown above. The sputtering equation has a simple analytic solution that we can compare with our numerical solution, as is shown below.
