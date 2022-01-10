@@ -21,12 +21,14 @@ It's hard to determine what's going on from observations alone, so simulations a
 # Our Dust Model
 To understand how dust would behave in a galactic wind, the dust model that I'm writing for Cholla will account for the processes that would be signficant to dust in this environment: gas-phase metal accretion and thermal sputtering. These two processes cause dust to grow and get destroyed, respectively. To model these processes, I'm using differential equations for dust density that are adapted from the [McKinnon et al. (2016) paper](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3775M/abstract) that introduces a dust model to the [Arepo](https://ui.adsabs.harvard.edu/abs/2010MNRAS.401..791S/abstract) code.
 
+## Gas-Phase Metal Accretion
 Dust can grow in size by accreting gas-phase metals of the same species, according to the following equation:
 
 \\( \frac{d\rho_{i,\text{dust}}}{dt} = \Big(1-\frac{\rho_{i,\text{dust}}}{\rho_{i,\text{metal}}}\Big)\Big(\frac{\rho_{i,\text{dust}}}{\tau_g}\Big) \\).
 
 Here, \\( \tau_g \\) is the growth timescale for dust, and scales inversely with total density and temperature. The accretion rate depends on the dust-to-metal ratio of the cell, and slows as metals are depeleted onto dust. This eventually causes accretion to come to a halt.
 
+## Thermal Sputtering
 The other main process that dust undergoes in a wind is thermal sputtering, which is when an energetic particle collides with a dust molecule and destroys it. This process is modeled by the following equation:
 
  \\( \frac{d\rho_{i,\text{dust}}}{dt} = \frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3} \\).
