@@ -8,4 +8,4 @@ pin:        true                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
 math:       false                      # Does this post contain math?
 ---
-Welcome to my research blog! This is where I post ~weekly updates on what I'm working on.
+Welcome to my research blog! This is where I post ~weekly updates about what I'm working on.
