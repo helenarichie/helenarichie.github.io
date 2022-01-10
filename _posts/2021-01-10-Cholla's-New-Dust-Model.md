@@ -44,11 +44,10 @@ where \\( dt \\) is the integration time-step and \\( f(\rho_n, t) \\) is the ri
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
-Here, the solid lines show the analytical solution and the dashed lines show the numerical solution. The timescale for sputtering to occur depends on gas temperature, so for cooler gas, sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (\\( \sim T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^8~\text{kyr} \\) and even sooner for higher temperatures. In general, on the time-scales we're interested in, sputtering only takes place in the hottest gas, as expected.
+Here, the solid lines show the analytical solution and the dashed lines show the numerical solution. The timescale for sputtering to occur depends on gas temperature, so for cooler gas, sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (\\( \sim T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^4~\text{kyr} \\) and later for lower temperatures. In general, on the time-scales that we're interested in, sputtering only takes place in the hottest gas.
 
 For gas-phase metal accretion, the forward-Euler solution gave the following evolution of density:
 
 ![Accretion Analytic Solution](/assets/img/posts/accretion_numerical.png)
 
-
-With gas-phase metal accretion, the picture is not as simple. In general, gas-phase metal accretion is a non-linear process that depends on a balance of processes. [Draine et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ASPC...12..193D/abstract) describes accretion as a process 
+In general, we see that higher temperature gases tend to have dust that grows more quickly. If we were to compare gases of different densities, we would see the trend that higher-density gases also accrete more quickly. These are a result of the growth time-scale, originally introduced by [Draine et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ASPC...12..193D/abstract). 
