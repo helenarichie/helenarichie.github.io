@@ -28,7 +28,10 @@ Dust grows in size by accreting gas-phase metals of the same species, \\( i \\),
 
 Here, \\( \tau_g \\) is the growth timescale for dust, and scales inversely with total density and temperature. The accretion rate depends on the dust-to-metal ratio of the cell, and slows as metals are depleted onto dust. This eventually causes accretion to come to a halt. For now, we're assuming constant solar metallicity, so we'll just calculate the total percentage of metals in the gas based on that and forego the index \\( i \\).
 
-**Useful references:** Density-dependent time-scale: [Draine et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ASPC...12..193D/abstract), [Hirashita (2000)](https://ui.adsabs.harvard.edu/abs/2000PASJ...52..585H/abstract), Density and temperature-dependent time-scale: [Yozin & Bekki (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.443..522Y/abstract), Metal depeletion due to dust grains: [Dwek & Scalo (1980)](https://ui.adsabs.harvard.edu/abs/1980ApJ...239..193D/abstract), [McKee (1989)](https://ui.adsabs.harvard.edu/abs/1989IAUS..135..431M/abstract)
+**Useful references:** 
+Density-dependent time-scale: [Draine et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ASPC...12..193D/abstract), [Hirashita (2000)](https://ui.adsabs.harvard.edu/abs/2000PASJ...52..585H/abstract)
+Density and temperature-dependent time-scale: [Yozin & Bekki (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.443..522Y/abstract)
+Metal depeletion due to dust grains: [Dwek & Scalo (1980)](https://ui.adsabs.harvard.edu/abs/1980ApJ...239..193D/abstract), [McKee (1989)](https://ui.adsabs.harvard.edu/abs/1989IAUS..135..431M/abstract)
 
 ## Thermal Sputtering
 The other main process that dust undergoes in a wind is thermal sputtering, which is when an energetic particle collides with a dust molecule and destroys it. This process is modeled by the following equation:
