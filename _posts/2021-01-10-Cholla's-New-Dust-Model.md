@@ -44,12 +44,16 @@ To test this model, I wanted create a Python version of the numerical method I'l
 
 \\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) \\),
 
-where \\( dt \\) is the integration time-step and \\( f(\rho_n, t) \\) is the right hand side of the accretion or sputtering differential equations given above. The sputtering equation has a well-known analytical solution, so I was able to compare the numerical and analytical solutions directly, as is shown in the following figure:
+where \\( dt \\) is the integration time-step and \\( f(\rho_n, t) \\) is the right hand side of the accretion or sputtering differential equations given above. 
+
+## Sputtering
+The sputtering equation has a well-known analytical solution, so I was able to compare the numerical and analytical solutions directly, as is shown in the following figure:
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
 Here, the solid lines show the analytical solution and the dashed lines show the numerical solution. The timescale for sputtering to occur depends on gas temperature, so for cooler gas, sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (\\( \sim T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^4~\text{kyr} \\) and later for lower temperatures. In general, on the time-scales that we're interested in, sputtering only takes place in the hottest gas.
 
+## Accretion
 For gas-phase metal accretion, the forward-Euler solution gave the following evolution of density:
 
 ![Accretion Analytic Solution](/assets/img/posts/accretion_numerical.png)
