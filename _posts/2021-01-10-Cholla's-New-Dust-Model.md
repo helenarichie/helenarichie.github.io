@@ -40,7 +40,7 @@ The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperatur
 *Useful references:* [Draine & Salpeter (1979a)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231...77D/abstract), [Draine & Salpeter (1979b)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231..438D/abstract)
 
 # Model Testing
-To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. The code that I wrote for this can be found [here](https://github.com/helenarichie/research/tree/master/cholla/dust_model). To integrate the dust model equations, I used the forward-Euler method,
+To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. The code that I wrote for this can be found [here](https://github.com/helenarichie/research/tree/master/cholla/dust_model). The plots below assume a gas number density of \\( 10^{-2}\\). To integrate the dust model equations, I used the forward-Euler method,
 
 \\( \rho_{n+1}=\rho_n+dt\cdot f(\rho_n, t) \\),
 
