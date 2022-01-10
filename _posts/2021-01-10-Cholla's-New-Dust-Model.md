@@ -35,6 +35,8 @@ The other main process that dust undergoes in a wind is thermal sputtering, whic
 
 The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depleted entirely.
 
+Useful references: [Draine & Salpeter 1979a](https://ui.adsabs.harvard.edu/abs/1979ApJ...231...77D/abstract), [Draine & Salpeter 1979b](https://ui.adsabs.harvard.edu/abs/1979ApJ...231..438D/abstract)
+
 # Model Testing
 To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. The code that I wrote for this can be found [here](https://github.com/helenarichie/research/tree/master/cholla/dust_model). To integrate the dust model equations, I used the forward-Euler method,
 
