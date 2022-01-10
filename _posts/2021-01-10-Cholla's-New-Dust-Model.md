@@ -28,7 +28,7 @@ Dust grows in size by accreting gas-phase metals of the same species, \\( i \\),
 
 Here, \\( \tau_g \\) is the growth timescale for dust, and scales inversely with total density and temperature. The accretion rate depends on the dust-to-metal ratio of the cell, and slows as metals are depleted onto dust. This eventually causes accretion to come to a halt. For now, we're assuming constant solar metallicity, so we'll just calculate the total percentage of metals in the gas based on that and forego the index \\( i \\).
 
-*Useful references:* [Draine et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ASPC...12..193D/abstract), [Hirashita (2000)](https://ui.adsabs.harvard.edu/abs/2000PASJ...52..585H/abstract), [Yozin & Bekki (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.443..522Y/abstract)
+**Useful references:** [Draine et al. (1990)](https://ui.adsabs.harvard.edu/abs/1990ASPC...12..193D/abstract), [Hirashita (2000)](https://ui.adsabs.harvard.edu/abs/2000PASJ...52..585H/abstract), [Yozin & Bekki (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.443..522Y/abstract)
 
 ## Thermal Sputtering
 The other main process that dust undergoes in a wind is thermal sputtering, which is when an energetic particle collides with a dust molecule and destroys it. This process is modeled by the following equation:
@@ -37,7 +37,7 @@ The other main process that dust undergoes in a wind is thermal sputtering, whic
 
 The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depleted entirely.
 
-*Useful references:* [Draine & Salpeter (1979a)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231...77D/abstract), [Draine & Salpeter (1979b)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231..438D/abstract)
+**Useful references:** [Draine & Salpeter (1979a)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231...77D/abstract), [Draine & Salpeter (1979b)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231..438D/abstract)
 
 # Model Testing
 To test this model, I wanted create a Python version of the numerical method I'll be applying to these equations in Cholla. The code that I wrote for this can be found [here](https://github.com/helenarichie/research/tree/master/cholla/dust_model). The plots below assume a gas number density of \\( 10^{-2}\\). To integrate the dust model equations, I used the forward-Euler method,
