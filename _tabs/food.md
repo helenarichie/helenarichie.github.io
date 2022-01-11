@@ -1,5 +1,5 @@
 ---
 title: Food
-icon: fas fa-bread-slice
+icon: fa-regular fa-bread-slice
 order: 3
 ---
