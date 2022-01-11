@@ -1,5 +1,5 @@
 ---
-title:      I Haven't Coded in C++ in 3 Months--Here's a List of Things I Forgot       # Title
+title:      I Haven't Coded in C++ in Three Months--Here's a List of Things I Forgot       # Title
 author:     Helena Richie              # Author Name
 date:       2022-01-11 09:55:42 -0500  # Date
 categories: [Research]     # Catagories, no more than 2
