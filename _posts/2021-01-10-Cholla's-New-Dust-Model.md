@@ -56,7 +56,7 @@ The sputtering equation has a well-known analytical solution, so I was able to c
 
 ![Sputtering Analytic Solution](/assets/img/posts/sputtering_numerical.png)
 
-Here, the solid lines show the analytical solution and the dashed lines show the numerical solution. The timescale for sputtering to occur depends on gas temperature, so for cooler gas, sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (\\( \sim T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^4~\text{kyr} \\) and later for lower temperatures. In general, on the time-scales that we're interested in, sputtering only takes place in the hottest gas.
+Here, the solid lines show the analytical solution and the dashed lines show the numerical solution. The timescale for sputtering to occur depends on gas temperature, so for cooler gas, sputtering has little effect on the dust content of a fluid. However, in higher temperature gas (\\( \sim T=10^5~K \\) and up), sputtering becomes important at around \\( T=10^4~\text{yr} \\) and later for lower temperatures. In general, on the time-scales that we're interested in, sputtering only takes place in the hottest gas.
 
 ## Accretion
 For gas-phase metal accretion, the forward-Euler solution gave the following evolution of density:
