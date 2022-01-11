@@ -40,7 +40,7 @@ The other main process that dust undergoes in a wind is thermal sputtering, whic
 
  \\( \frac{d\rho_{i,\text{dust}}}{dt} = -\frac{\rho_{i,\text{dust}}}{\tau_\text{sp}/3} \\).
 
-The sputtering timescale, \\( \tau_\text{sp} \\), depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depleted entirely.
+The sputtering timescale, \\( \tau_\text{sp} \\) , depends only on gas temperature, and decreases as gas temperature increases. In this model, dust sputters away exponentially over time until it has been depleted entirely.
 
 **Useful references:** [Draine & Salpeter (1979a)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231...77D/abstract), [Draine & Salpeter (1979b)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231..438D/abstract)
 
