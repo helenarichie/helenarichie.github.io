@@ -1,5 +1,5 @@
 ---
-title:      A Journey From Image to Lightcurve      # Title
+title:      From Image to Lightcurve      # Title
 author:     Helena Richie              # Author Name
 date:       2022-04-14 09:55:42 -0500  # Date
 categories: [Research, Outreach]     # Catagories, no more than 2
