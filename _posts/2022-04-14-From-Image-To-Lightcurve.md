@@ -15,7 +15,7 @@ As an assignment in my graduate galaxies course this spring, I was tasked with m
 [![Photometry Demo](https://img.youtube.com/vi/T4mSG8iG4xY/0.jpg)](https://youtu.be/T4mSG8iG4xY)
 </span>
 
-This video shows a slideshow of the 100 or so images collected of the star WASP-52 as the planet WASP-52b transits in front of it. Then, it demonstrates how the brightness of that star can be quantified in each image using its point spread function, and finally it shows how that point spread function ultimately tells us that the star got briefly dimmer as WASP-52b passed in front of it during the 2 hours during which this data was collected. 
+This video shows a slideshow of the 100 or so images collected of the star WASP-52 as the planet WASP-52b transited in front of it. Then, it demonstrates how the brightness of that star can be quantified in each image using its point spread function, and finally it shows how that point spread function ultimately tells us that the star got briefly dimmer as WASP-52b passed in front of it during the 2 hours during which this data was collected. 
 
 I like this visualization because it can be used as a tool for both the general public and new researchers working with photometric data to get an understanding of what photometric data is measuring, exactly, and what factors might affect it. A 3D histogram is one of the easiest ways to see that measurements of a brighter star will have higher levels of _something_ that they can think of as light, and that data points in a light curve are just a result of totaling up the levels in the spots where the star's light hit the sensor of a camera.
 
