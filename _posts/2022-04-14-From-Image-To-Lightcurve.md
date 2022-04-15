@@ -9,7 +9,7 @@ toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?
 ---
 # Visualizing Photometric Data
-As an assignment in my graduate galaxies course this spring, I was tasked with making a visualization of some sort of astronomical data or concept using an interactive display or animation that might eventually be useful in a research or public talk. I decided to make a figure that I had frequently reached for when explaining what lightcurves of exoplanet transits actually represent during public talks about my undergraduate research group, [STEPUP](https://sites.pitt.edu/~stepup/).
+As an assignment in my graduate galaxies course this spring, I was tasked with making a visualization of some sort of astronomical data or concept using an interactive display or animation that might eventually be useful in a research or public talk. I decided to make a figure that I had frequently reached for when explaining what lightcurves of exoplanet transits actually represent during public talks about my undergraduate research group, [STEPUP](https://sites.pitt.edu/~stepup/). The resulting animation can be seen below:
 
 <span style="display:block;text-align:center">
 [![Photometry Demo](https://img.youtube.com/vi/T4mSG8iG4xY/0.jpg)](https://youtu.be/T4mSG8iG4xY)
