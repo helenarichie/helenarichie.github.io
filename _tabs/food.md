@@ -9,7 +9,7 @@ order: 3
 ## Baked Alaska
 <img src="/assets/img/tabs/food/alaska.jpg" width="200" height="200" align="left" />
 <img src="/assets/img/tabs/food/alaska1.jpg" width="200" height="200"/>
-You would not believe how easy it is to make baked alaska. The pound cake and french meringue are homemade, and I want to learn how to make the ice cream from scratch next.
+This is surpisingly easy to make! The pound cake and french meringue are homemade, and I want to learn how to make the ice cream from scratch next.
 
 
 # March 12th, 2022
