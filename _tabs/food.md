@@ -10,7 +10,6 @@ order: 3
 <img src="/assets/img/tabs/food/alaska.jpg" width="200" height="200" align="left" />
 <img src="/assets/img/tabs/food/alaska1.jpg" width="200" height="200"/>
 <p>This is surprisingly easy to make! The pound cake and french meringue are homemade, and I want to learn how to make the ice cream from scratch next.</p>
-<br>
 
 
 
@@ -18,9 +17,7 @@ order: 3
 <h2>More Mushroom Mezzalune</h2>
 
 <img src="/assets/img/tabs/food/mezzaluna2.jpg" width="200" height="200" align="left" />
-<br>
 <p>I never get tired of how cute these are.</p>
-<br>
 
 
 
