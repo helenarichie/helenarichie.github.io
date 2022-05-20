@@ -53,6 +53,9 @@ order: 3
 
 # Chicken Pad Thai
 ## July 10th, 2021
+![mezzaluna](/assets/img/tabs/food/padthai.jpg)
+Recreating pad thai as best as we can at home without a wok. I just use a dutch oven over high heat, and it's pretty tasty! Pad thai sauce is a mix of sweet, sour, salt, and spice.
+
 
 # Mushroom Mezzaluna
 ## June 26th, 2021
