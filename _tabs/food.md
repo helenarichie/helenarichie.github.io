@@ -3,7 +3,7 @@ title: Food
 icon: fas fa-bread-slice
 order: 3
 ---
-## A little food blog with some pics of food that I made that spark joy!
+## A little blog with some pics of food I made that spark joy!
 
 # March 13th, 2022
 ## Baked Alaska
