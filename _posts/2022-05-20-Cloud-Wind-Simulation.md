@@ -8,4 +8,3 @@ pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
 math:       false                      # Does this post contain math?
 ---
-This 
