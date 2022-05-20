@@ -26,39 +26,52 @@ order: 3
 
 # January 13th, 2022
 ## Fancy Mushroom Mezzaluna
+<img src="/assets/img/tabs/food/whiskeysour.jpg" width="200" height="200" />
 
 
 # January 11th, 2022
 ## Vegan Whiskey Sours
+<img src="/assets/img/tabs/food/whiskeysour.jpg" width="200" height="200" />
 
 
 # December 27th, 2021
 ## Carbonara With Homemade Linguine
+<img src="/assets/img/tabs/food/carbonara.jpg" width="200" height="200" />
 
 
 # November 14th, 2021
 ## Lasagna Bolognese
+<img src="/assets/img/tabs/food/bolognese.jpg" width="200" height="200" />
+<img src="/assets/img/tabs/food/lasagnapasta.jpg" width="200" height="200" />
+<img src="/assets/img/tabs/food/lasagna.jpg" width="200" height="200" />
+<p> We came so close to having the perfect lasagna made from scratch, but had a mishap getting the pasta prepared to go into the lasagna. 0/10 would not recommend soaking fresh pasta in hot water to cook it before assembly. Just put it straight in the lasagna. We ended up using store-bought lasanga noodles that were undercooked when we took it out. Sigh. Spent all day simmering the ragu bolognese and made homemade beschamel for one of the layers, it was so good. I'll probably never make this again! </p>
 
 
 # November 12th, 2021
 ## Sourdough Bread
+<img src="/assets/img/tabs/food/sourdough2a.jpg" width="200" height="200" />
+<img src="/assets/img/tabs/food/sourdough2b.jpg" width="200" height="200" />
+<p> Made this with a blend of whole wheat and white bread flour, it was pretty good. </p>
 
 
 # October 22nd, 2021
 ## Sourdough Bread
+<img src="/assets/img/tabs/food/sourdough1.jpg" width="200" height="200" />
+<p> This was my first loaf where I had good oven spring, I was so happy! </p>
 
 # October 20th, 2021
 ## Focaccia
+<img src="/assets/img/tabs/food/facaccia.jpg" width="200" height="200" />
 
 
 # October 14th, 2021
 ## Homemade Linguine Pasta With Homemade Pesto Alla Genovese
-The mortar and pestle for the pesto is a game changer!
+<img src="/assets/img/tabs/food/pestopasta.jpg" width="200" height="200" />
 
 # October 1st, 2021
 ## Barbecue Chicken Pizza and Spicy Veggie Pizza
 <img src="/assets/img/tabs/food/pizza.jpg" width="200" height="200" />
-Granny pies are the best way to make homemade pizza without a pizza oven, and habanero olive oil is an amazing pizza topping.
+<p> Habanero olive oil is my favorite pizza topping. </p>
 
 # September 5th, 2021
 ## Ribeye Steak With Steak Fries and Asparagus With Hollandaise
