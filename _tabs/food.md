@@ -60,5 +60,4 @@ Recreating pad thai as best as we can at home without a wok. I just use a dutch 
 # Mushroom Mezzaluna
 ## June 26th, 2021
 <img src="/assets/img/tabs/food/mezzaluna1.jpg" width="200" height="200" />
-![mezzaluna](/assets/img/tabs/food/mezzaluna1.jpg)
 Mezzaluna filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute!
