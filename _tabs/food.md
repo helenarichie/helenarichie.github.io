@@ -62,13 +62,14 @@ Granny pies are the best way to make homemade pizza without a pizza oven, and ha
 
 # September 5th, 2021
 ## Ribeye Steak With Steak Fries and Asparagus With Hollandaise
-<img src="/assets/img/tabs/food/ribeye.jpg" width="200" height="200" />
-I felt like I was going to die after I ate this.
+<img src="/assets/img/tabs/food/ribeye.jpg" width="200" height="200" /> 
+<p> I felt like I was going to die after I ate this. </p>
+
 
 # August 20th, 2021
 ## Turkey Salami Sandwiches on Homemade Sourdough
 <img src="/assets/img/tabs/food/sandwiches.jpg" width="200" height="200" />
-The best camping food.
+<p> My favorite treat for car camping! </p>
 
 # July 10th, 2021
 ## Chicken Pad Thai
