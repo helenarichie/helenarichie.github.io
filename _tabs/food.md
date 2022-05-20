@@ -22,7 +22,7 @@ I never get tired of how cute these are.
 # February 4th, 2022
 ## Sourdough Bread
 <img src="/assets/img/tabs/food/sourdough3.jpg" width="200" height="200" align="left" />
-<img src="/assets/img/tabs/food/sourdough3a.jpg" width="200" height="200" align="left" />
+<img src="/assets/img/tabs/food/sourdough3a.jpg" width="200" height="200" />
 I was starting to think I was hot shit at this point in my sourdough journey, but don't worry subsequent loaves humbled me again.
 
 
@@ -51,7 +51,7 @@ This meal is one of our staples, so we decided to make a lavish version with a b
 
 # January 11th, 2022
 ## Vegan Whiskey Sours
-<img src="/assets/img/tabs/food/whiskeysour.jpg" width="200" height="200" salign="left" />
+<img src="/assets/img/tabs/food/whiskeysour.jpg" width="200" height="200" align="left" />
 This is when I learned that aquafaba is just garbanzo bean juice, and is an excellent alternative that prevents me from having to drink raw egg whites. Plus you have beans for hummus!
 
 
