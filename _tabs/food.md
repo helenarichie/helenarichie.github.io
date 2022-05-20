@@ -60,7 +60,7 @@ The best camping food.
 
 # Chicken Pad Thai
 ## July 10th, 2021
-<img src="/assets/img/tabs/food/mezzaluna1.jpg" width="200" height="200" />
+<img src="/assets/img/tabs/food/padthai.jpg" width="200" height="200" />
 
 
 # Mushroom Mezzaluna
