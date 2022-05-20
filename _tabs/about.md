@@ -5,7 +5,7 @@ order: 1
 ---
 
 ![About me picture](/assets/img/tabs/shenandoah.jpg)
-Hi, I'm Helena! I'm a second year graduate student in the University of Pittsburgh's Physics PhD program working with [Professor Evan Schneider](https://evaneschneider.org/) on using hydrodynamics simulations to study galaxy evolution. I did my undergrad at Pitt, and during that time was lead of a group known as [STEPUP](https://sites.pitt.edu/~stepup/) that uses instruments at Pitt's Allegheny Observatory to detect exoplanets via transit photometry. Right now I'm interested in studying the effects of resolved dust models on isolated galaxy simulations, and applications of those results to larger scale simulations. When I'm not at work, I like to garden, cook, bake, and make whiskey cocktails. I also like skiing, running, yoga, backpacking, and bouldering!
+Hi, I'm Helena! I'm a second year graduate student in the University of Pittsburgh's Physics PhD program working with [Professor Evan Schneider](https://evaneschneider.org/) on using hydrodynamics simulations to study galaxy evolution. I did my undergrad at Pitt, and during that time lead a group known as [STEPUP](https://sites.pitt.edu/~stepup/) that uses instruments at Pitt's Allegheny Observatory to detect exoplanets via transit photometry. Right now I'm interested in studying the effects of resolved dust models on isolated galaxy simulations, and applications of those results to larger scale simulations. When I'm not at work, I like to garden, cook, bake, and make whiskey cocktails. I also like skiing, running, yoga, backpacking, and bouldering!
 
 # Education
 B.S., Physics & Astronomy, University of Pittsburgh (2020)  
