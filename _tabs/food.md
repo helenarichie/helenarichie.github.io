@@ -37,7 +37,7 @@ order: 3
 # February 1st, 2022
 ## Chana Masala
 <body>
-<img src="/assets/img/tabs/food/pie.jpg" width="200" height="200" align="left" />
+<img src="/assets/img/tabs/food/chanamasala.jpg" width="200" height="200" align="left" />
 <p>Another use for your leftover whiskey sour garbanzo beans.</p>
 </body>
 
