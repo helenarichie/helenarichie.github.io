@@ -169,5 +169,5 @@ order: 3
 ## Mushroom Mezzalune
 <body>
 <img src="/assets/img/tabs/food/mezzaluna1.jpg" width="200" height="200" align="left" />
-<p>Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute!
+<p>Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute!</p>
 </body>
