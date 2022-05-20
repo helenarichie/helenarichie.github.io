@@ -89,7 +89,7 @@ This was my first loaf where I had good oven spring, I was so happy!
 
 # October 20th, 2021
 ## Focaccia
-<img src="/assets/img/tabs/food/facaccia.jpg" width="200" height="200" align="left" />
+<img src="/assets/img/tabs/food/focaccia.jpg" width="200" height="200" align="left" />
 
 
 
