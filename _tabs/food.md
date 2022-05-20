@@ -3,6 +3,8 @@ title: Food
 icon: fas fa-bread-slice
 order: 3
 ---
+# A Little Food Blog
+Just some pics of food that I made that spark joy!
 
 # March 13th, 2022
 ## Baked Alaska
@@ -75,14 +77,14 @@ order: 3
 
 # September 5th, 2021
 ## Ribeye Steak With Steak Fries and Asparagus With Hollandaise
-<img src="/assets/img/tabs/food/ribeye.jpg" width="200" height="200" align="left" /> 
+<img src="/assets/img/tabs/food/ribeye.JPEG" width="200" height="200" align="left" /> 
 <p> I felt like I was going to die after I ate this. </p>
 
 
 # August 20th, 2021
 ## Turkey Salami Sandwiches on Homemade Sourdough
 <img src="/assets/img/tabs/food/sandwiches.jpg" width="200" height="200" align="left" />
-<p> My favorite treat for car camping! </p>
+<p> Didn't cook any of this besides the bread but they're just my favorite treat for car camping. </p>
 
 # July 10th, 2021
 ## Chicken Pad Thai
