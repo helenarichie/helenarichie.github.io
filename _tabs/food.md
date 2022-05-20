@@ -54,10 +54,11 @@ order: 3
 # Chicken Pad Thai
 ## July 10th, 2021
 ![mezzaluna](/assets/img/tabs/food/padthai.jpg)
-Recreating pad thai as best as we can at home without a wok. I just use a dutch oven over high heat, and it's pretty tasty! Pad thai sauce is a mix of sweet, sour, salt, and spice.
+Recreating pad thai as best as we can at home without a wok. I just use a dutch oven over high heat, and it's pretty tasty! This pad thai sauce is a mix of sweet, sour, salt, and spice, made out of brown sugar, .
 
 
 # Mushroom Mezzaluna
 ## June 26th, 2021
+<img src="/assets/img/tabs/food/mezzaluna1.jpg" width="200" height="200" />
 ![mezzaluna](/assets/img/tabs/food/mezzaluna1.jpg)
-Mezzaluna filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. I didn't know this, but the difference between ravioli and mezzaluna is that mezzaluna are folded on one side, making them a bit easier to assemble. Mezzaluna just means "half moon" in Italian. So good and so cute!
+Mezzaluna filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute!
