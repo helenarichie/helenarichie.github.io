@@ -14,7 +14,7 @@ Just some pics of food that I made that spark joy!
 
 
 # March 12th, 2022
-## More Mushroom Mezzaluna
+## More Mushroom Mezzalune
 <img src="/assets/img/tabs/food/mezzaluna3.jpg" width="200" height="200" align="left" />
 <p> I never get tired of how cute these are. </p>
 
@@ -38,7 +38,7 @@ Just some pics of food that I made that spark joy!
 <p> Homemade pie crust is my natural enemy. Even though it's uggers, it was so good. </p>
 
 # January 13th, 2022
-## Fancy Mushroom Mezzaluna
+## Fancy Mushroom Mezzalune
 <img src="/assets/img/tabs/food/mushrooms.jpg" width="200" height="200" align="left" />
 <img src="/assets/img/tabs/food/mezzaluna3.jpg" width="200" height="200" align="left" />
 <p> This meal is one of our staples, so we decided to make a lavish version with a blend of oyster, shiitake, and baby bella mushrooms. I really didn't notice much of a difference between the finished products, but we felt pretty fancy! </p>
@@ -108,6 +108,6 @@ Just some pics of food that I made that spark joy!
 
 
 # June 26th, 2021
-## Mushroom Mezzaluna
+## Mushroom Mezzalune
 <img src="/assets/img/tabs/food/mezzaluna1.jpg" width="200" height="200" align="left" />
-<p> Mezzaluna filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute! </p>
+<p> Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute! </p>
