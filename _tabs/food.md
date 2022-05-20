@@ -18,7 +18,7 @@ order: 3
 # March 12th, 2022
 ## More Mushroom Mezzalune
 <body>
-<img src="/assets/img/tabs/food/mezzaluna3.jpg" width="200" height="200" align="left" />
+<img src="/assets/img/tabs/food/mezzaluna2.jpg" width="200" height="200" align="left" />
 <p>I never get tired of how cute these are.</p>
 </body>
 
