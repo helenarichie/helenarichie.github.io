@@ -29,7 +29,7 @@ I never get tired of how cute these are.
 ![Desktop View](/assets/img/tabs/food/sourdough3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough3a.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I was starting to think I was hot shit at this point in my sourdough journey, but don't worry subsequent loaves have since humbled me.
+I was starting to think I was hot shit at this point in my sourdough journey, but subsequent loaves have since humbled me again.
 
 
 
@@ -38,7 +38,7 @@ I was starting to think I was hot shit at this point in my sourdough journey, bu
 ### Chana Masala
 ![Desktop View](/assets/img/tabs/food/chanamasala.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Another use for your leftover whiskey sour garbanzo beans.
+Another use for my leftover whiskey sour garbanzo beans!
 
 
 
@@ -47,7 +47,7 @@ Another use for your leftover whiskey sour garbanzo beans.
 ### Blueberry Pie
 ![Desktop View](/assets/img/tabs/food/pie.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Homemade pie crust is my natural enemy. Even though it's uggers, it was so good.
+Homemade pie crust is my natural enemy, but this was still delicious.
 
 
 
@@ -57,7 +57,7 @@ Homemade pie crust is my natural enemy. Even though it's uggers, it was so good.
 ![Desktop View](/assets/img/tabs/food/mushrooms.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/mezzaluna3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-This meal is one of our staples, so we decided to make a lavish version with a blend of oyster, shiitake, and baby bella mushrooms. I really didn't notice much of a difference between the finished products, but we felt pretty fancy!
+This meal is one of our staples, so we decided to make a bougie version with a blend of oyster, shiitake, and baby bella mushrooms. I really didn't notice a huge difference between the finished products, but we felt pretty fancy!
 
 
 
@@ -66,7 +66,7 @@ This meal is one of our staples, so we decided to make a lavish version with a b
 ### Vegan Whiskey Sours
 ![Desktop View](/assets/img/tabs/food/whiskeysour.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-This is when I learned that aquafaba is just garbanzo bean juice, and is an excellent alternative that prevents me from having to drink raw egg whites. Plus you have beans for hummus!
+This is when I learned that aquafaba is just garbanzo bean juice, and an excellent alternative ingredient for whiskey sours that prevents me from having to drink raw egg whites. Plus you have beans for hummus!
 
 
 
@@ -85,7 +85,7 @@ Copied Kenji and used the leftover egg white to make a whiskey sour and it was p
 ![Desktop View](/assets/img/tabs/food/lasagna.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/lasagnapasta.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-We came so close to having the perfect lasagna made from scratch, but had a mishap getting the pasta prepared to go into the lasagna. 0/10 would not recommend soaking fresh pasta in hot water to cook it before assembly. Just put it straight in the lasagna. We ended up using store-bought lasagna noodles that were undercooked when we took it out. Sigh. Spent all day simmering the ragu bolognese and made homemade beschamel for one of the layers, it was so good. I'll probably never make this again!
+We came so close to having the perfect lasagna made from scratch, but had a mishap getting the pasta prepared to go into the lasagna. 0/10 would not recommend soaking fresh pasta in hot water to cook it before assembly. Just put it straight in the lasagna. We ended up using store-bought lasagna noodles that were undercooked when we took it out of the oven. Sigh. Spent all day simmering the ragu bolognese and made homemade beschamel for one of the layers, which were both amazing. I'll probably never make this again!
 
 
 
@@ -95,7 +95,7 @@ We came so close to having the perfect lasagna made from scratch, but had a mish
 ![Desktop View](/assets/img/tabs/food/sourdough2a.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough2b.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Made this with a blend of whole wheat and white bread flour, it was pretty good. The ear was so beautiful, too!
+Made this with a blend of whole wheat and white bread flour and it was pretty good. The ear was so beautiful, too!
 
 
 
@@ -104,7 +104,7 @@ Made this with a blend of whole wheat and white bread flour, it was pretty good.
 ### Sourdough Bread
 ![Desktop View](/assets/img/tabs/food/sourdough1.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-This was my first loaf where I had good oven spring, I was so happy!
+This was my first loaf where I had good oven spring. I was so happy!
 
 
 
