@@ -3,7 +3,7 @@ title: Food
 icon: fas fa-bread-slice
 order: 3
 ---
-*A little blog with some pics of food I made that spark joy!*
+*Just some pics of food I made that spark joy!*
 
 
 ## March 13th, 2022
