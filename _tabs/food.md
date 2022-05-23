@@ -10,7 +10,8 @@ order: 3
 ### Baked Alaska
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Desktop View](/assets/img/tabs/food/alaska.jpg){: width="589" height="357 style="max-width: 50%" .normal}  |  ![Desktop View](/assets/img/tabs/food/alaska1.jpg){: width="589" height="357" style="max-width: 50%" .normal}
+
+![Desktop View](/assets/img/tabs/food/alaska.jpg) |  ![Desktop View](/assets/img/tabs/food/alaska1.jpg)
 \This is surprisingly easy to make! The pound cake and french meringue are homemade, and I want to learn how to make the ice cream from scratch next.
 
 
