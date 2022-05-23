@@ -18,7 +18,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## March 12th, 2022
 ### More Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mezzaluna2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\I never get tired of how cute these are.
+<br>
+I never get tired of how cute these are.
 
 
 
@@ -27,7 +28,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ### Sourdough Bread
 ![Desktop View](/assets/img/tabs/food/sourdough3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough3a.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\I was starting to think I was hot shit at this point in my sourdough journey, but don't worry subsequent loaves humbled me again.
+<br>
+I was starting to think I was hot shit at this point in my sourdough journey, but don't worry subsequent loaves humbled me again.
 
 
 
@@ -35,7 +37,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## February 1st, 2022
 ### Chana Masala
 ![Desktop View](/assets/img/tabs/food/chanamasala.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\Another use for your leftover whiskey sour garbanzo beans.
+<br>
+Another use for your leftover whiskey sour garbanzo beans.
 
 
 
@@ -43,7 +46,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## January 31st, 2022
 ### Blueberry Pie
 ![Desktop View](/assets/img/tabs/food/pie.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\Homemade pie crust is my natural enemy. Even though it's uggers, it was so good.
+<br>
+Homemade pie crust is my natural enemy. Even though it's uggers, it was so good.
 
 
 
@@ -52,7 +56,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ### Fancy Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mushrooms.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/mezzaluna3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\This meal is one of our staples, so we decided to make a lavish version with a blend of oyster, shiitake, and baby bella mushrooms. I really didn't notice much of a difference between the finished products, but we felt pretty fancy!
+<br>
+This meal is one of our staples, so we decided to make a lavish version with a blend of oyster, shiitake, and baby bella mushrooms. I really didn't notice much of a difference between the finished products, but we felt pretty fancy!
 
 
 
@@ -60,14 +65,16 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## January 11th, 2022
 ### Vegan Whiskey Sours
 ![Desktop View](/assets/img/tabs/food/whiskeysour.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\This is when I learned that aquafaba is just garbanzo bean juice, and is an excellent alternative that prevents me from having to drink raw egg whites. Plus you have beans for hummus!
+<br>
+This is when I learned that aquafaba is just garbanzo bean juice, and is an excellent alternative that prevents me from having to drink raw egg whites. Plus you have beans for hummus!
 
 
 
 ## December 27th, 2021
 ### Carbonara With Homemade Linguine
 ![Desktop View](/assets/img/tabs/food/carbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\Copied Kenji and used the leftover egg white to make a whiskey sour and it was pretty yummy!
+<br>
+Copied Kenji and used the leftover egg white to make a whiskey sour and it was pretty yummy!
 
 
 
@@ -77,7 +84,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ![Desktop View](/assets/img/tabs/food/bolognese.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/lasagnapasta.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/lasagna.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\We came so close to having the perfect lasagna made from scratch, but had a mishap getting the pasta prepared to go into the lasagna. 0/10 would not recommend soaking fresh pasta in hot water to cook it before assembly. Just put it straight in the lasagna. We ended up using store-bought lasanga noodles that were undercooked when we took it out. Sigh. Spent all day simmering the ragu bolognese and made homemade beschamel for one of the layers, it was so good. I'll probably never make this again!
+<br>
+We came so close to having the perfect lasagna made from scratch, but had a mishap getting the pasta prepared to go into the lasagna. 0/10 would not recommend soaking fresh pasta in hot water to cook it before assembly. Just put it straight in the lasagna. We ended up using store-bought lasagna noodles that were undercooked when we took it out. Sigh. Spent all day simmering the ragu bolognese and made homemade beschamel for one of the layers, it was so good. I'll probably never make this again!
 
 
 
@@ -86,7 +94,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ### Sourdough Bread
 ![Desktop View](/assets/img/tabs/food/sourdough2a.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough2b.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\Made this with a blend of whole wheat and white bread flour, it was pretty good. The ear was so beautiful, too!
+<br>
+Made this with a blend of whole wheat and white bread flour, it was pretty good. The ear was so beautiful, too!
 
 
 
@@ -94,7 +103,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## October 22nd, 2021
 ### Sourdough Bread
 ![Desktop View](/assets/img/tabs/food/sourdough1.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\This was my first loaf where I had good oven spring, I was so happy!
+<br>
+This was my first loaf where I had good oven spring, I was so happy!
 
 
 
@@ -107,7 +117,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## October 14th, 2021
 ### Homemade Linguine Pasta With Homemade Pesto Alla Genovese
 ![Desktop View](/assets/img/tabs/food/pestopasta.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\I wish I could eat this fresh pesto every day, but it's not quite worth all the work it takes to grind it up with a mortar and pestle...
+<br>
+I wish I could eat this fresh pesto every day, but it's not quite worth all the work it takes to grind it up with a mortar and pestle...
 
 
 
@@ -115,7 +126,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ### Barbecue Chicken Pizza and Spicy Veggie Pizza
 
 ![Desktop View](/assets/img/tabs/food/pizza.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\Habanero olive oil is my favorite pizza topping.
+<br>
+Habanero olive oil is my favorite pizza topping.
 
 
 
@@ -123,7 +135,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## September 5th, 2021
 ### Ribeye Steak With Steak Fries and Asparagus With Hollandaise
 ![Desktop View](/assets/img/tabs/food/ribeye.JPEG){: width="589" height="357" style="max-width: 40%" .normal}
-\I felt like I was going to die after I ate this.
+<br>
+I felt like I was going to die after I ate this.
 
 
 
@@ -131,7 +144,8 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## August 20th, 2021
 ### Turkey Salami Sandwiches on Homemade Sourdough
 ![Desktop View](/assets/img/tabs/food/sandwiches.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\Didn't cook any of this besides the bread but they're just my favorite treat for car camping and I need to share that!
+<br>
+Didn't cook any of this besides the bread but they're just my favorite treat for car camping and I need to share that!
 
 
 
@@ -145,4 +159,5 @@ This is surprisingly easy to make! The pound cake and french meringue are homema
 ## June 26th, 2021
 ### Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mezzaluna1.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-\Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute!
+<br>
+Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute!
