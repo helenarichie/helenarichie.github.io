@@ -121,7 +121,7 @@ order: 3
 
 ## September 5th, 2021
 ### Ribeye Steak With Steak Fries and Asparagus With Hollandaise
-![Desktop View](/assets/img/tabs/food/ribeye.jpg){: width="589" height="357" style="max-width: 50%" .normal}
+![Desktop View](/assets/img/tabs/food/ribeye.JPEG){: width="589" height="357" style="max-width: 50%" .normal}
 \I felt like I was going to die after I ate this.
 
 
