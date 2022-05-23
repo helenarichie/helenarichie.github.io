@@ -29,7 +29,7 @@ I never get tired of how cute these are.
 ![Desktop View](/assets/img/tabs/food/sourdough3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough3a.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I was starting to think I was hot shit at this point in my sourdough journey, but subsequent loaves have since humbled me again.
+I was starting to think I was hot shit at this point in my sourdough journey, but subsequent loaves have humbled me again.
 
 
 
