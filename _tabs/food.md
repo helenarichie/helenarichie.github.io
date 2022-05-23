@@ -82,8 +82,8 @@ Copied Kenji and used the leftover egg white to make a whiskey sour and it was p
 ## November 14th, 2021
 ### Lasagna Bolognese
 ![Desktop View](/assets/img/tabs/food/bolognese.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-![Desktop View](/assets/img/tabs/food/lasagnapasta.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/lasagna.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+![Desktop View](/assets/img/tabs/food/lasagnapasta.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 We came so close to having the perfect lasagna made from scratch, but had a mishap getting the pasta prepared to go into the lasagna. 0/10 would not recommend soaking fresh pasta in hot water to cook it before assembly. Just put it straight in the lasagna. We ended up using store-bought lasagna noodles that were undercooked when we took it out. Sigh. Spent all day simmering the ragu bolognese and made homemade beschamel for one of the layers, it was so good. I'll probably never make this again!
 
