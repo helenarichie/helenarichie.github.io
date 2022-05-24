@@ -2,7 +2,7 @@
 title:      From Image to Lightcurve      # Title
 author:     Helena Richie              # Author Name
 date:       2022-04-14 09:55:42 -0500  # Date
-categories: [Research, Outreach]     # Catagories, no more than 2
+categories: [Outreach]     # Catagories, no more than 2
 tags:       [Photometry, Data Visualization]  # Tags, any number
 pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
