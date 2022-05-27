@@ -20,7 +20,9 @@ A simple process that we can study to use to understand how clouds evolve in out
 
 ## Cloud Wind Simulations
 To study the process of dust evolution in winds, I'm making a simple simulation of a dusty cloud in a wind tunnel. The setup of that simulation will be a stationary, spherical cloud in a $1\times1\times2~kpc$ box with a wind boundary at the end closest to the cloud. This is a figure from a preliminary simulation I ran that is a simpler version of this setup, where instead of using a wind boundary, I added a background velocity of $200~km/s$ to medium.
-![Desktop View](/assets/img/tabs/food/wind.png){: width="972" height="589" }
+![Desktop View](/assets/img/posts/gas.png){: width="972" height="589" }
 _Gas number density._
-![Desktop View](/assets/img/tabs/food/dustwind.png){: width="972" height="589" }
-_Dust number density_
+![Desktop View](/assets/img/posts/dust.png){: width="972" height="589" }
+_Dust number density._!
+![Desktop View](/assets/img/posts/velocity.png){: width="972" height="589" }
+_Gas velocity._!
