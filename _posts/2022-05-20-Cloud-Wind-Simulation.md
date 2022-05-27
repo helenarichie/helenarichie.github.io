@@ -12,6 +12,7 @@ math:       true                      # Does this post contain math?
 Observations and simulations have both shown us that galactic outflows contain individual "clouds", or small, dense regions of relatively cool material. In general, galactic winds are composed of several phases of gas, with a "hot" phase of $n\approx10^{-2.5}~\text{cm}^{-3}$ and $T\approx 10^{6.5}~\text{K}$ and a "cold" phase of $n\approx10^{2}~\text{cm}^{-3}$ and $T\approx 10^{2}~\text{K}$.
 
 At face value, observations do not give us a clear picture of how clouds end up in outflows. Small, cool clouds moving at high velocities in a hot medium is an interesting picture from a dynamical point of view, considering that 
+*Pressure equilibrium putting constraints on densities.*
 
 Much work has been done to understand just how these cool clouds end up in the CGM, and how they're transported through outflows without being destroyed. Observations have shown cold clouds moving out of galaxies at high speeds, which is puzzling because of the timescales dense clouds of gas should be destroyed by hydrodynamic instabilities on. Using simulations, we're able to see how individual clouds are affected by their 
 
@@ -23,6 +24,6 @@ To study the process of dust evolution in winds, I'm making a simple simulation 
 ![Desktop View](/assets/img/posts/gas.png){: width="972" height="589" }
 _Gas number density._
 ![Desktop View](/assets/img/posts/dust.png){: width="972" height="589" }
-_Dust number density._!
+_Dust number density._
 ![Desktop View](/assets/img/posts/velocity.png){: width="972" height="589" }
-_Gas velocity._!
+_Gas velocity._
