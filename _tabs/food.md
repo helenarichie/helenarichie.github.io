@@ -5,6 +5,13 @@ order: 3
 ---
 *Just some pics of food I made that spark joy!*
 
+## May 25th, 2022
+### Miso Salmon Nori Wraps
+![Desktop View](/assets/img/tabs/food/salmon.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+Made a miso, mirin, rice vinegar, and brown sugar marinade for the salmon and then ate it in a little nori wrap with rice. This was my first time buying furikake and kewpie mayo, which was life changing. Sooo yummy.
+
+
 
 ## March 13th, 2022
 ### Baked Alaska
