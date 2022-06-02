@@ -24,5 +24,4 @@ To study the process of dust evolution in winds, I'm making a simple simulation 
 <br>
 ![Desktop View](/assets/img/posts/gas.png){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/posts/dust.png){: width="589" height="357" style="max-width: 40%" .normal}
-![Desktop View](/assets/img/posts/velocity.png){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
