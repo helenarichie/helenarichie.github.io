@@ -5,6 +5,31 @@ order: 3
 ---
 *Just some pics of food I made that spark joy!*
 
+
+## June 5th, 2022
+### Kimchi Carbonara (first attempt)
+![Desktop View](/assets/img/tabs/food/kimchicarbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+One of my favorite restaurants in Pittsburgh, Cobra, is a Korean barbecue place that changed my life forever by giving me kimchi carbonara. It had delicious udon noodles that had been made into a carbonara with pork belly, egg, kimchi, and who knows what else. But for some reason that I cannot comprehend they took it off of the menu! So it has become my mission to reverse engineer it. This is what I would call a failed, but delicious first attempt. The pork belly was way overcooked and there was a mishap cooking the udon, so we had to switch to rice. We used miso and pork fat for the carbonara, and then added in the kimchi which I think is on the right track. Note to self: add even more kimchi next time.
+
+
+
+## June 4th, 2022
+### Onigiri
+![Desktop View](/assets/img/tabs/food/onigiri.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+I finally bought onigiri molds and I will never recover.
+
+
+
+## June 4th, 2022
+### Prosciutto and Veggie Pizza
+![Desktop View](/assets/img/tabs/food/pizza2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+A well-deserved treat after spending the day shoveling two tons of mulch.
+
+
+
 ## May 25th, 2022
 ### Miso Salmon Nori Wraps
 ![Desktop View](/assets/img/tabs/food/salmon.jpg){: width="589" height="357" style="max-width: 40%" .normal}
