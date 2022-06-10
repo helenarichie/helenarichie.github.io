@@ -11,7 +11,10 @@ math:       true                      # Does this post contain math?
 # Simulating Dusty Clouds With Cholla
 
 ## Cloud Wind Dynamics
+The dynamics of an interaction between a cool, dense, spherical cloud and a warmer or hot planar shock is a well-studied problem. The seminal paper by [Klein et al. (1994)](http://adsabs.harvard.edu/doi/10.1086/173554) outlines a study of this problem in two dimensions, ignoring radiative losses, thermal conduction, magnetic fields, and gravitational forces. While certainly an oversimplification, this formulation provides useful insight into this problem.<br>
+In short, this study showed that small clouds are destroyed in several "cloud crushing times", $t_{cc}$. A cloud crushing time is defined as the amount of time it takes for a shock to cross through a cloud, $t_{cc}=\chi^{1/2}a_0/v_b$, where $a_0$ is the radius of the spherical cloud and $v_b$ is the speed of the shock wave in the intercloud medium. $\chi$ is the ratio between the densities of the cloud and medium in which it sits. 
 
+The constraint that this result applies to small clouds means is a result of assuming that the pressure behind the shock wave in the intercloud medium is constant.
 
 ## Cloud Wind Simulations
 To study how dust evolves in galactic outflows, we first turn to the simple problem of dust transport in an isolated wind simulation. I started with a cloud of radius 0.1$~\text{kpc}$ in a 2$\times$1$\times$1$~\text{kpc}^3$ tunnel. I used a grid size of 256$\times$128$\times$128$~\text{pix}^3$, so our resolution was around 7.8$~\text{pc}/\text{pix}$.<br>
@@ -23,3 +26,4 @@ To create the wind tunnel, I applied a velocity of $10~\text{km}/\text{s}$ in th
 ![Desktop View](/assets/img/posts/gas.png){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/posts/dust.png){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
+For this cloud, the cloud crushing time is $t_{cc}=\chi^{1/2}a_0/v_b=9.8\times10^{7}~\text{yr}$, with $a_0=0.1~\text{kpc}$ being the radius of the cloud and $v_b=10~\text{km}/\text{s}$ is the speed of the wind.
