@@ -27,4 +27,5 @@ To create the wind tunnel, I applied a velocity of $10~\text{km}/\text{s}$ in th
 ![Desktop View](/assets/img/posts/gas.png){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/posts/dust.png){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-For this cloud, the cloud crushing time is $t_{cc}=\chi^{1/2}a_0/v_b=9.8\times10^{7}~\text{yr}$, with $a_0=0.1~\text{kpc}$ being the radius of the cloud and $v_b=10~\text{km}/\text{s}$ is the speed of the wind.
+For this cloud, the cloud crushing time is $t_{cc}=\chi^{1/2}a_0/v_b=9.8\times10^{7}~\text{yr}$, with $a_0=0.1~\text{kpc}$ being the radius of the cloud and $v_b=10~\text{km}/\text{s}$ is the speed of the wind. The below plot shows the evolution of dust-to-gas ratio throughout the simulation.
+![Desktop View](/assets/img/posts/dtgr.png){: width="589" height="357" style="max-width: 40%" .normal}
