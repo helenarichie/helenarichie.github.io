@@ -1,5 +1,5 @@
 ---
-title:      Sputtering Reference Tables       # Title
+title:      Sputtering Reference Table       # Title
 author:     Helena Richie              # Author Name
 date:       2022-06-21 12:00:42 -0500  # Date
 categories: [Research]     # Catagories, no more than 2
