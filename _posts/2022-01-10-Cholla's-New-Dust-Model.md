@@ -33,7 +33,7 @@ Density-dependent time-scale: [Draine et al. (1990)](https://ui.adsabs.harvard.e
 
 Density and temperature-dependent time-scale: [Yozin & Bekki (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.443..522Y/abstract)
 
-Metal depeletion due to dust grains: [Dwek & Scalo (1980)](https://ui.adsabs.harvard.edu/abs/1980ApJ...239..193D/abstract), [McKee (1989)](https://ui.adsabs.harvard.edu/abs/1989IAUS..135..431M/abstract)
+Metal depletion due to dust grains: [Dwek & Scalo (1980)](https://ui.adsabs.harvard.edu/abs/1980ApJ...239..193D/abstract), [McKee (1989)](https://ui.adsabs.harvard.edu/abs/1989IAUS..135..431M/abstract)
 
 ## Thermal Sputtering
 The other main process that dust undergoes in a wind is thermal sputtering, which is when an energetic particle collides with a dust molecule and destroys it. This process is modeled by the following equation:
