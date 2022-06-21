@@ -10,7 +10,7 @@ order: 3
 ### Kimchi Carbonara (first attempt)
 ![Desktop View](/assets/img/tabs/food/kimchicarbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-One of my favorite restaurants in Pittsburgh, Cobra, is a Korean barbecue place that changed my life forever by giving me kimchi carbonara. It had delicious udon noodles that had been made into a carbonara with pork belly, egg, kimchi, and who knows what else. But for some reason that I cannot comprehend they took it off of the menu! So it has become my mission to reverse engineer it. This is what I would call a failed, but delicious first attempt. The pork belly was way overcooked and there was a mishap cooking the udon, so we had to switch to rice. We used miso and pork fat for the carbonara, and then added in the kimchi which I think is on the right track. Note to self: add even more kimchi next time.
+One of my favorite restaurants in Pittsburgh, Cobra, is a Korean barbecue place that changed my life forever by giving me kimchi carbonara. It had delicious udon noodles that had been made into a carbonara with pork belly, egg, kimchi, and who knows what else. But for some reason (that I cannot comprehend) they took it off of the menu, so it has become my mission to reverse engineer it. This is what I would call a failed, but delicious, first attempt. The pork belly was way overcooked and there was a mishap cooking the udon, so we had to switch to flat rice noodles. We used miso and pork fat for the carbonara, and then added in the kimchi which I think is on the right track, although next time I would double the kimchi.
 
 
 
