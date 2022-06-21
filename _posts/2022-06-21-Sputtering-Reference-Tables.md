@@ -9,6 +9,8 @@ toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?
 ---
 Sputtering Timescales
+
+
 | Temp$~[K]$ | $n=0.01~\text{cm}^{-3}$ | $n=0.1~\text{cm}^{-3}$ | $n=1~\text{cm}^{-3}$ 
 |-|-|-|-
 | $10^1$ | $1.8\times10^{20}~[yr]$ | $1.8\times10^{19}~[yr]$ | $1.8\times10^{18}~[yr]$ 
@@ -23,4 +25,4 @@ Sputtering Timescales
 
 
 <br>
-$tau_\text{sp}=a\Bigg|\frac{da}{dt}\Bigg|^{-1}\approx(0.17~\text{Gyr})\Bigg(\frac{a_{-1}}{\rho_{-27}}\Bigg)\Bigg[\Bigg(\frac{T_0}{T}\Bigg)^\omega+1\Bigg]$<br>
+$\tau_\text{sp}=a\Bigg|\frac{da}{dt}\Bigg|^{-1}\approx(0.17~\text{Gyr})\Bigg(\frac{a_{-1}}{\rho_{-27}}\Bigg)\Bigg[\Bigg(\frac{T_0}{T}\Bigg)^\omega+1\Bigg]$<br>
