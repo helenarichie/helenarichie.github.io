@@ -8,9 +8,6 @@ pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?
 ---
-Sputtering Timescales
-
-
 | Temp$~[K]$ | $n=0.01~\text{cm}^{-3}$ | $n=0.1~\text{cm}^{-3}$ | $n=1~\text{cm}^{-3}$ 
 |-|-|-|-
 | $10^1$ | $1.8\times10^{20}~[yr]$ | $1.8\times10^{19}~[yr]$ | $1.8\times10^{18}~[yr]$ 
