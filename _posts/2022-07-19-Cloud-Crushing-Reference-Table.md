@@ -23,6 +23,3 @@ The cloud crushing time is given by: $t_{cc}=\frac{\chi^{1/2}a_0}{v_b}.$ So, for
 | $10^3~\text{K}$ | $6.8\times10^{7}~\text{yr}$ | $6.8\times10^{6}~\text{yr}$ | $6.8\times10^{5}~\text{yr}$ 
 
 
-
-<br>
-$\tau_\text{sp}=a\Big|\frac{da}{dt}\Big|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big]$<br>
