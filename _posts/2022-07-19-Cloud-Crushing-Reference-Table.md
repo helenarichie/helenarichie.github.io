@@ -1,7 +1,7 @@
 ---
-title:      Sputtering Reference Table       # Title
+title:      Cloud Crushing Reference Table       # Title
 author:     Helena Richie              # Author Name
-date:       2022-06-21 12:00:42 -0500  # Date
+date:       2022-07-19 12:00:42 -0500  # Date
 categories: [Research]     # Catagories, no more than 2
 tags:       [Cholla, Dust, Simulations, Hydrodynamics]  # Tags, any number
 pin:        false                      # Should this post be pinned?
@@ -10,6 +10,9 @@ math:       true                      # Does this post contain math?
 ---
 
 The cloud crushing time is given by: $t_{cc}=\frac{\chi^{1/2}a_0}{v_b}.$ So, for a cloud of radius $a_0=0.1~\text{kpc}$, the cloud crushing times are:
+
+
+
 | $\chi$ | $v_b=10~\text{km}\text{s}^{-1}$ | $v_b=100~\text{km}\text{s}^{-1}$ | $v_b=1000~\text{km}\text{s}^{-1}$
 |-|-|-|-
 | $10^{-2}$ | $1.8\times10^{20}~\text{yr}$ | $1.8\times10^{19}~\text{yr}$ | $1.8\times10^{18}~\text{yr}$ 
