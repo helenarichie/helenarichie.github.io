@@ -17,6 +17,6 @@ The cloud crushing time is given by: $t_{cc}=\frac{\chi^{1/2}a_0}{v_b}.$ So, for
 |-|-|-|-|-
 | $10^2$ | Cold atomic cloud embedded<br>in warm neutral or ionized medium,<br>Warm gas embedded in coronal gas | $9.8\times10^{6}~\text{yr}$ | $9.8\times10^{5}~\text{yr}$ | $9.8\times10^{4}~\text{yr}$ 
 | $10^3$ | Molecular gas in warm gas | $3.1\times10^{7}~\text{yr}$ | $3.1\times10^{6}~\text{yr}$ | $3.1\times10^{5}~\text{yr}$ 
-| $10^4$ | Cold atomic gas in coronal gas | $9.8\times10^{6}~\text{yr}$ | $9.8\times10^{5}~\text{yr}$ | $9.8\times10^{4}~\text{yr}$ 
+| $10^4$ | Cold atomic gas in coronal gas | $9.8\times10^{7}~\text{yr}$ | $9.8\times10^{6}~\text{yr}$ | $9.8\times10^{5}~\text{yr}$ 
 
 
