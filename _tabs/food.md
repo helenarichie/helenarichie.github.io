@@ -6,7 +6,7 @@ order: 3
 *Just some pics of food I made that spark joy!*
 
 
-## June 5th, 2022
+## June 28th, 2022
 ### Army of Onigiri Soldiers
 ![Desktop View](/assets/img/tabs/food/onigirisoldiers.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
