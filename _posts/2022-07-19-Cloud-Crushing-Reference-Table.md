@@ -15,11 +15,11 @@ The cloud crushing time is given by: $t_{cc}=\frac{\chi^{1/2}a_0}{v_b}.$ So, for
 
 | $\chi$ | $v_b=10~\text{km}\text{s}^{-1}$ | $v_b=100~\text{km}\text{s}^{-1}$ | $v_b=1000~\text{km}\text{s}^{-1}$
 |-|-|-|-
-| $10^{-2}$ | $1.8\times10^{20}~\text{yr}$ | $1.8\times10^{19}~\text{yr}$ | $1.8\times10^{18}~\text{yr}$ 
-| $10^{-1}~\text{K}$ | $5.8\times10^{17}~\text{yr}$ | $5.8\times10^{16}~\text{yr}$ | $5.8\times10^{15}~\text{yr}$ 
-| $1~\text{K}$ | $1.8\times10^{15}~\text{yr}$ | $1.8\times10^{14}~\text{yr}$ | $1.8\times10^{13}~\text{yr}$ 
-| $10^1~\text{K}$ | $5.8\times10^{12}~\text{yr}$ | $5.8\times10^{11}~\text{yr}$ | $5.8\times10^{10}~\text{yr}$ 
-| $10^2~\text{K}$ | $1.8\times10^{10}~\text{yr}$ | $1.8\times10^{9}~\text{yr}$ | $1.8\times10^{8}~\text{yr}$ 
-| $10^3~\text{K}$ | $6.8\times10^{7}~\text{yr}$ | $6.8\times10^{6}~\text{yr}$ | $6.8\times10^{5}~\text{yr}$ 
+| $10^{-2}$ | $9.8\times10^{4}~\text{yr}$ | $9.8\times10^{3}~\text{yr}$ | $9.8\times10^{2}~\text{yr}$ 
+| $10^{-1}$ | $3.1\times10^{5}~\text{yr}$ | $3.1\times10^{4}~\text{yr}$ | $3.1\times10^{3}~\text{yr}$ 
+| $1$ | $9.8\times10^{5}~\text{yr}$ | $9.8\times10^{4}~\text{yr}$ | $9.8\times10^{3}~\text{yr}$ 
+| $10^1$ | $3.1\times10^{6}~\text{yr}$ | $3.1\times10^{5}~\text{yr}$ | $3.1\times10^{4}~\text{yr}$ 
+| $10^2$ | $9.8\times10^{6}~\text{yr}$ | $9.8\times10^{5}~\text{yr}$ | $9.8\times10^{4}~\text{yr}$ 
+| $10^3$ | $3.1\times10^{7}~\text{yr}$ | $3.1\times10^{6}~\text{yr}$ | $3.1\times10^{5}~\text{yr}$ 
 
 
