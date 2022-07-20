@@ -7,6 +7,13 @@ order: 3
 
 
 ## June 5th, 2022
+### Army of Onigiri Soldiers
+![Desktop View](/assets/img/tabs/food/onigirisoldiers.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+## June 5th, 2022
 ### Kimchi Carbonara (first attempt)
 ![Desktop View](/assets/img/tabs/food/kimchicarbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
