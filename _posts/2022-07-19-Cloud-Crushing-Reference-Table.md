@@ -20,3 +20,4 @@ The cloud crushing time is given by: $t_{cc}=\frac{\chi^{1/2}a_0}{v_b}.$ So, for
 | $10^4$ | Cold atomic gas in coronal gas | $9.8\times10^{7}~\text{yr}$ | $9.8\times10^{6}~\text{yr}$ | $9.8\times10^{5}~\text{yr}$ 
 
 
+In general, cold molecular gas exists at around $\sim10~\text{K}$, cold atomic gas is $\sim10^2~\text{K}$, warm neutral or photoionized warm ionized gas is $\sim10^4~\text{K}$, and hot coronal gas is $\sim10^6~\text{K}$. The information for these phases and the cloud crushing scales are taken from [Klein et al. (1994)](http://adsabs.harvard.edu/doi/10.1086/173554).
