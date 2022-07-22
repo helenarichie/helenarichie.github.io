@@ -2,7 +2,7 @@
 title:      Cholla's New Dust Model        # Title
 author:     Helena Richie              # Author Name
 date:       2022-01-10 09:55:42 -0500  # Date
-categories: [Research]     # Catagories, no more than 2
+categories: [Research, Dust Model]     # Catagories, no more than 2
 tags:       [Cholla, Dust, Numerical Methods, Winds]  # Tags, any number
 pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
