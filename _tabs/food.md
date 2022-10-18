@@ -5,6 +5,89 @@ order: 3
 ---
 *Just some pics of food I made that spark joy!*
 
+## October 16th, 2022
+### Pumpkin Cupcakes With Cream Cheese Frosting
+![Desktop View](/assets/img/tabs/food/pumpkin_cupcake.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## October 12th, 2022
+### Weeknight Spaghetti Marinara
+![Desktop View](/assets/img/tabs/food/spaghett.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## October 7th, 2022
+### Tagliatelle Carbonara
+![Desktop View](/assets/img/tabs/food/tagliatelle.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+![Desktop View](/assets/img/tabs/food/carbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## October 1st, 2022
+### Fish Tacos With Pineapple Habanero Salsa
+![Desktop View](/assets/img/tabs/food/salsa.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+![Desktop View](/assets/img/tabs/food/tacos.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+Habaneros from our garden!
+
+
+
+## September 15th, 2022
+### Sleeping Twin Sourdough Loaves
+![Desktop View](/assets/img/tabs/food/buns.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+![Desktop View](/assets/img/tabs/food/buns_oven.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## September 12th, 2022
+### Even More Mushroom Mezzalune
+![Desktop View](/assets/img/tabs/food/mezzaluna4.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## August 25th, 2022
+### Tomato Avocado Salad on Homemade Sourdough Toast
+![Desktop View](/assets/img/tabs/food/tomato_avocado.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## August 22nd, 2022
+### Fresh Spaghetti Marinara
+![Desktop View](/assets/img/tabs/food/marinara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## August 11th, 2022
+### Scorched Shishito Peppers
+![Desktop View](/assets/img/tabs/food/shishito.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## July 2nd, 2022
+### Thumbprints
+![Desktop View](/assets/img/tabs/food/thumbprint_wedding.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+Wedding cookie table duties.
+
+
+
 
 ## June 28th, 2022
 ### Army of Onigiri Soldiers
