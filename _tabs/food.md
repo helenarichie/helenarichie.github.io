@@ -24,7 +24,7 @@ order: 3
 ## October 7th, 2022
 ### Tagliatelle Carbonara
 ![Desktop View](/assets/img/tabs/food/tagliatelle.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-![Desktop View](/assets/img/tabs/food/carbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+![Desktop View](/assets/img/tabs/food/tag_carb.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 
 
