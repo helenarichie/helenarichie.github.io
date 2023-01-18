@@ -13,7 +13,7 @@ math:       true                      # Does this post contain math?
 
 To tackle the question of how dust is tranported in galactic winds, I've been thinking about the primary mechanism that destroys dust in galaxies, sputtering. Sputtering shrinks dust grains, as the individual atoms that are bound to it are knocked off by incoming energetic ions. After enough of these collisions have taken place, dust grains can be destroyed entirely.
 
-![Sputtering Schematic](/assets/img/posts/sputtering.tiff)
+![Sputtering Schematic](/assets/img/posts/sputtering.png)
 
 Although the theory of this process is fairly well understood, it is quite complex. As such, modeling sputtering in our hydrodynamics simulation is a challenge. The following equation (from [Bruce Draine's ISM book](https://www.astro.princeton.edu/~draine/book/index.html)) gives a general definition of sputtering, for a stationary dust grain:
 
