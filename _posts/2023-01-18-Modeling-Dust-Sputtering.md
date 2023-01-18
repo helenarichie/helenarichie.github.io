@@ -17,4 +17,4 @@ To tackle the question of how dust is tranported in galactic winds, I've been th
 
 Although the theory of this process is fairly well understood, it is quite complex. As such, modeling sputtering in our hydrodynamics simulation is a challenge. 
 
-\\( \frac{da}{dt} = -\frac{m_x}{4\rho} \sum_i n_i \int_{E_{\text{min}}^\inf \Big(\frac{2E}{m_i}\Big)^{1/2}\Big(1-\frac{Z_ieU}{E}\Big)Y_\text{sput}(E-Z_ieU) \\).
+\\( \frac{da}{dt} = - \frac{m_x}{4\rho} \sum_i n_i \int_{E_{\text{min}}}^\infty \Big(\frac{2E}{m_i}\Big)^{1/2} \Big(1-\frac{Z_ieU}{E}\Big)Y_\text{sput}(E-Z_ieU) \\).
