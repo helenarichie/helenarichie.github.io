@@ -11,7 +11,7 @@ math:       true                      # Does this post contain math?
 
 # Sputtering
 
-To tackle the question of how dust is tranported in galactic winds, I've been thinking about the primary mechanism that destroys dust in galaxies, sputtering. Sputtering shrinks dust grains, as the individual atoms that are bound to it are knocked off by incoming energetic ions. After enough of these collisions have taken place, dust grains can be destroyed entirely.
+To tackle the question of how dust is tranported in galactic winds, I've been thinking about the primary mechanism that destroys dust in galaxies, sputtering. Sputtering shrinks dust grains, as the individual atoms that are bound to it get knocked off by incoming energetic ions. After enough of these collisions have taken place, dust grains can be destroyed entirely.
 
 ![Sputtering Schematic](/assets/img/posts/sputtering.png)
 
@@ -19,4 +19,5 @@ Although the theory of this process is fairly well understood, it is quite compl
 
 \\( \frac{da}{dt} = - \frac{m_x}{4\rho} \sum_i n_i \int_{E_{\text{min}}}^\infty \Big(\frac{2E}{m_i}\Big)^{1/2} \Big(1-\frac{Z_ieU}{E}\Big)Y_\text{sput}(E-Z_ieU) \\).
 
-$a$ is the grain radius, $i$ is the projectile species, $f_E$ is the energy distribution function, $(1-Z_ieU/E)$ is the Coulomb focusing factor, and $Y_\text{sput}$ is the sputtering yield. 
+$a$ is the grain radius, $i$ is the projectile species, $f_E$ is the energy distribution function, $(1-Z_ieU/E)$ is the Coulomb focusing factor, and $Y_\text{sput}$ is the sputtering yield. The sputtering yield depends on the impact energy of the projectile ion, that ion's mass and charge, and the composition of the target. This yield, however, can only be measured empirically, so fitting formulas for specific species are required to model them. An added complication to this formulation is that if the grain is moving relative to the gas, the velocity distribution as seen by the grain must be used.
+
