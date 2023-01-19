@@ -13,7 +13,7 @@ math:       true                      # Does this post contain math?
 
 To tackle the question of how dust is tranported in galactic winds, I've been thinking about the primary mechanism that destroys dust at high temperatures in galaxies, sputtering. 
 
-In very simple terms, you can think of sputtering as the gradual shrinking of dust grains, as the individual electrons and ions that are bound to dust grains are knocked off by impingent energetic electrions and ions (as is shown in the below cartoon). After enough of these collisions have taken place, dust grains can be destroyed entirely.
+In very simple terms, you can think of sputtering as the gradual shrinking of dust grains, as the individual electrons and ions that are bound to dust grains are knocked off by impingent energetic electrons and ions (as is shown in the below cartoon). After enough of these collisions have taken place, dust grains can be destroyed entirely.
 
 ![Sputtering Schematic](/assets/img/posts/sputtering.png)
 
