@@ -17,7 +17,7 @@ In very simple terms, you can think of sputtering as the gradual shrinking of du
 
 ![Sputtering Schematic](/assets/img/posts/sputtering.png)
 
-At cooler temperatures ($T\lessim10^4~K$), impingent electrons and ions are more likely to stick to dust grains, so photoemission of electrons from grains by incident UV photons is the only way in which grains shrink. However, when temperatures are higher, energetic charged particles (electrons and ions) are capable of ejecting electrons from the surface of the grain. Eventually, the grain can become so positively or negatively charged that the presence of strong electric fields can cause the emission of electrons or ions from the dust grain (field emission). The sputtering rate for a non-rotating, stationary, spehrical target or radius $a$, potential $U$, in a Maxwellian gas of temperature $T$ is given by:
+At cooler temperatures ($T\lesssim10^4~K$), impingent electrons and ions are more likely to stick to dust grains, so photoemission of electrons from grains by incident UV photons is the only way in which grains shrink. However, when temperatures are higher, energetic charged particles (electrons and ions) are capable of ejecting electrons from the surface of the grain. Eventually, the grain can become so positively or negatively charged that the presence of strong electric fields can cause the emission of electrons or ions from the dust grain (field emission). The sputtering rate for a non-rotating, stationary, spehrical target or radius $a$, potential $U$, in a Maxwellian gas of temperature $T$ is given by:
 
 \\( \frac{da}{dt} = - \frac{m_x}{4\rho} \sum_i n_i \int_{E_{\text{min}}}^\infty \Big(\frac{2E}{m_i}\Big)^{1/2} \Big(1-\frac{Z_ieU}{E}\Big)Y_\text{sput}(E-Z_ieU) \\).
 
