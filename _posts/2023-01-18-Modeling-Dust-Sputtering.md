@@ -35,5 +35,6 @@ This concept was first introduced by [Tielens et al. (1994)](https://ui.adsabs.h
 [Bohdansky (1984)](https://ui.adsabs.harvard.edu/abs/1984NIMPB...2..587B/abstract). The end result of this work are simple polynomial fits to sputtering yields as a function of temperature that only depend on grain species, which is the basis of most modern sputtering models seen in the literature today. The equations for sputtering rates are given below:
 
 \\( \frac{dN_\text{sp}}{dt}=2\pi a^2v_g\sum n_i Y_i(E=0.5m_i v_g^2)\,\,(\text{non-thermal}) \\)
-\\( \frac{dN_\text{sp}}{dt}=2\pi a^2\Sigma n_i \langel Y_iv\rangel \,\, (\text{thermal}) \\) 
+
+\\( \frac{dN_\text{sp}}{dt}=2\pi a^2\Sigma n_i \langle Y_iv\rangle \,\, (\text{thermal}) \\) 
 
