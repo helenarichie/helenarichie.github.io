@@ -42,5 +42,6 @@ The primary difference between these two is the velocity dependence that the non
 
 <img src="/assets/img/posts/tielens_yields.png" alt="Tielens (1994) Universal Sputtering Yields" width="400"/>
 
-These curves are described in Tielens et al. (1994) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains, and preceding sections of that paper detail how the yield for each material was calculated.
+These curves are given in units of $\text{cm}^{3} \AA \text{yr}^{-1}$ described numerically in Tielens et al. (1994) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains, and preceding sections of that paper detail how the yield for each material was calculated. These yields the angle averaged over all ion impact angles. This paper did not give sputtering yields for non-thermal sputtering.
 
+[Nozawa, Kozada, and Habe (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...648..435N/abstract) built on this work by calculating both sputtering yields for thermal sputtering as a function of temperature, and non-thermal sputtering as a function of relative velocity for an even wider range of dust species.
