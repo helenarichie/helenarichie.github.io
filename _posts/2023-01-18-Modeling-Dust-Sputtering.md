@@ -38,7 +38,9 @@ This concept was first introduced by [Tielens et al. (1994)](https://ui.adsabs.h
 
 \\( \frac{dN_\text{sp}}{dt}=2\pi a^2\sum n_i \langle Y_iv\rangle \,\, (\text{thermal}) \\) 
 
-The primary difference between these two is the velocity dependence that the non-thermal form has, in addition to temperature and density dependence. Using the universal yields that resulting from this paper (shown below), the thermal form depends only on density and temperature.
+The primary difference between these two is the velocity dependence that the non-thermal form has, in addition to gas temperature and density dependence. Using the universal yields that resulting from this paper (shown below), the thermal form depends only on gas density and temperature.
 
 <img src="/assets/img/posts/tielens_yields.png" alt="Tielens (1994) Universal Sputtering Yields" width="400"/>
+
+These curves are described in Tielens et al. (1994) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains, and preceding sections of that paper detail how the yield for each material was calculated.
 
