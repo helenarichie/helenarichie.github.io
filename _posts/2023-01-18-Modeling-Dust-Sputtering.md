@@ -36,5 +36,9 @@ This concept was first introduced by [Tielens et al. (1994)](https://ui.adsabs.h
 
 \\( \frac{dN_\text{sp}}{dt}=2\pi a^2v_g\sum n_i Y_i(E=0.5m_i v_g^2)\,\,(\text{non-thermal}) \\)
 
-\\( \frac{dN_\text{sp}}{dt}=2\pi a^2\Sigma n_i \langle Y_iv\rangle \,\, (\text{thermal}) \\) 
+\\( \frac{dN_\text{sp}}{dt}=2\pi a^2\sum n_i \langle Y_iv\rangle \,\, (\text{thermal}) \\) 
+
+The primary difference between these two is the velocity dependence that the non-thermal form has, in addition to temperature and density dependence. Using the universal yields that resulting from this paper (shown below), the thermal form depends only on density and temperature.
+
+<img src="/assets/img/posts/tielens_yields.png" alt="Tielens (1994) Universal Sputtering Yields" width="400"/>
 
