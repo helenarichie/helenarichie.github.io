@@ -71,7 +71,7 @@ In this section, I'll give three different examples to show how the theory of sp
 
 This paper treats dust as dynamically coupled to gas, and tracks the evolution in dust mass as:
 
-\\( \Big(\frac{\text{d}M_\text{i,dust}}{\text{d}t}\Big)_\text{sp}=-\frac{M_\text{i,dust}}{\tau_\text{sp}/3} \\).
+\\( \frac{\text{d}M_\text{i,dust}}{\text{d}t}=-\frac{M_\text{i,dust}}{\tau_\text{sp}/3} \\).
 
 Here, $\tau_\text{sp}$ comes from the formula given by Tsai and Mathews (1995):
 
