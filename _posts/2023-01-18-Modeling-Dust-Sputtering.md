@@ -67,7 +67,7 @@ This formula is a good approximation for both graphite and silicate when $\tilde
 
 In this section, I'll give three different examples to show how the theory of sputtering modeling developed above is being implemented to model dust evolution in modern simulations.
 
-## McKinnon et al. (2017)
+## [McKinnon et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.1505M/abstract)
 
 This paper treats dust as dynamically coupled to gas, and tracks the evolution in dust mass as:
 
@@ -83,6 +83,17 @@ This does not give a complete treatment of sputtering, however, because the abov
 
 where $M_\text{g}$ is the gas mass within a cell, $\epsilon$ is the efficiency with which grains are destroyed by SN shocks, $\gamma$ is the local Type II SN rate, and $M_\text{s}(100)$ is the mass of gas shocked to at least $100~\text{km}\text{s}^{-1}$.
 
-## Hu et al. (2019)
+## [Hu et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3252H/abstract)
 
-## Bocchio et al. (2014)
+This paper also treats dust as dynamically coupled to gas, but it directly treats thermal and non-thermal sputtering. Their overall sputtering rate is given by
+
+\\( \frac{dm_\text{dust}}{dt}=N_\text{gr}\frac{dm_\text{gr}}{dt}=3N_\text{gr}m_\text{gr}\frac{\dot{a}}{a}=\frac{3n_\text{H}m_\text{dust}}{a}Y_\text{tot}\\)
+
+where $m_\text{dust}$ is the dust mass of a cell, $N_\text{gr}=m_\text{dust}/m_\text{gr}$ is the number of grains, and $Y_\text{tot}$ is the total erosion rate (or sputtering yield). This paper uses the sputtering yields from Nozawa, Kozasa, and Habe (2006), and Table 1 in their paper gives the polynomial coefficients to describe the rates for thermal and non-thermal sputtering for carbon and silicon grains. For non-thermal sputtering, though, $Y_\text{nth}$ is a function of the relative velocity between dust and gas, so they also have a way to track dust dynamics. They derive the dust equation of motion and use a sub-cycling technique to solve it for the relative velocity when it is nonzero:
+
+\\( \frac{\text{d}\bf{v}_\text{rel}}{\text{d}t}=-\frac{\bf{v}_\text{rel}}{t_\text{rel}}-\bf{a}_\text{hydro} \\),
+
+where $t_\text{rel}\equiv(t_\text{drag}^{-1}-(\nabla\cdot\bf{v}_\text{gas})/2)^{-1}$.
+
+## [Bocchio et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014A%26A...570A..32B/abstract)
+
