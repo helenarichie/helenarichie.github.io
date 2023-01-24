@@ -48,9 +48,13 @@ The universal yields for thermal sputtering resulting from this paper are shown 
 
 These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and are described numerically in [Tielens et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994ApJ...431..321T/abstract) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains. Preceding sections of this paper detail how the yield for each material was calculated.
 
-Tsai and Mathews (1995) derived a commonly-used analytic form of the thermal sputtering rate based on the work of Tielens et al. (1994).
+Tsai and Mathews (1995) derived a commonly-used analytic form of the thermal sputtering rate based on the work of Tielens et al. (1994):
 
 \\( \frac{da}{dt}=-\tilde{h}\Big(\frac{\rho}{m_p}\Big)\Big[\Big(\frac{T_d}{T}\Big)^\omega+1\Big]^{-1} \\)
+
+This formula is a good approximation for both graphite and silicate when $\tilde{h}=3.2\times10^{-18}~\text{cm}^4\text{s}^{-1}$, $\omega=2.5$, and $T_d=2\times10^6~\text{K}$. They also introduce the "local sputtering time" (now more frequently known as the sputtering timescale) as:
+
+\\( t_\text{sp}=a\Big|\frac{da}{dt}\Big|^{-1} \\)
 
 [Nozawa, Kozada, and Habe (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...648..435N/abstract) built on the work of Tielens et al. (1994) by calculating sputtering rates both for thermal sputtering and non-thermal sputtering for an even wider range of dust species. They do this by introducing newly determined sputtering yields using a similar method as Tielens et al. (1994), but with a slightly improved version of the [Bohdansky (1984)](https://ui.adsabs.harvard.edu/abs/1984NIMPB...2..587B/abstract) universal sputtering relation, an improved fitting method for the free parameter in this model, and using the EDDY code ([Ohya and Kawata, 1997](https://ui.adsabs.harvard.edu/abs/1997JaJAP..36L.298O/abstract)) to constrain species for which no experimental data exists. They used these yields to give sputtering rates as a function of temperature for thermal sputtering, and as function of relative velocity for non-thermal sputtering, shown below.
 
