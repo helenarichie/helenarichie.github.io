@@ -54,7 +54,7 @@ These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and 
 
 This formula is a good approximation for both graphite and silicate when $\tilde{h}=3.2\times10^{-18}~\text{cm}^4\text{s}^{-1}$, $\omega=2.5$, and $T_d=2\times10^6~\text{K}$. They also introduce the "local sputtering time" (now more frequently known as the sputtering timescale) as:
 
-\\( t_\text{sp}=a\Big\|\frac{da}{dt}\Big\|^{-1} \\).
+\\( t_\text{sp}=a\Big\|\frac{\text{d}a}{\text{d}t}\Big\|^{-1} \\).
 
 [Nozawa, Kozada, and Habe (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...648..435N/abstract) built on the work of Tielens et al. (1994) by calculating sputtering rates both for thermal sputtering and non-thermal sputtering for an even wider range of dust species. They do this by introducing newly determined sputtering yields using a method similar to Tielens et al. (1994), but used a slightly improved version of the Bohdansky (1984) universal sputtering relation, with an improved fitting method for the free parameter in this model, and using the EDDY code ([Ohya and Kawata, 1997](https://ui.adsabs.harvard.edu/abs/1997JaJAP..36L.298O/abstract)) to constrain species for which no experimental data exists. They used these yields to give sputtering rates as a function of temperature for thermal sputtering, and as function of relative velocity for non-thermal sputtering, shown below.
 
@@ -71,23 +71,23 @@ In this section, I'll give three different examples to show how the theory of sp
 
 This paper treats dust as dynamically coupled to gas, and tracks the evolution in dust mass as:
 
-\\( \Big(\frac{dM_\text{i,dust}}{dt}\Big)_\text{sp}=-\frac{M_\text{i,dust}}{\tau_\text{sp}/3} \\).
+\\( \Big(\frac{\text{d}M_\text{i,dust}}{\text{d}t}\Big)_\text{sp}=-\frac{M_\text{i,dust}}{\tau_\text{sp}/3} \\).
 
 Here, $tau_\text{sp}$ comes from the formula given by Tsai and Mathews (1995):
 
-\\( \tau_\text{sp}=a\Big\|\frac{da}{dt}\Big\|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big] \\).
+\\( \tau_\text{sp}=a\Big\|\frac{\text{d}a}{\text{d}t}\Big\|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big] \\).
 
-This does not give a complete treatment of sputtering, however, because the above only accounts for thermal sputtering. To account for the effects of non-thermal sputtering, which takes place primarily in supernova shocks, this paper uses a grain destruction model that was introduced in [McKinnon et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3775M/abstract). This model indirectly treats non-thermal sputtering using an overall destruction timescale,
+This does not give a complete treatment of sputtering, however, because the above only accounts for thermal sputtering. To account for the effects of non-thermal sputtering, which takes place primarily in supernova shocks, this paper uses a subgrid grain destruction model that was introduced in [McKinnon et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3775M/abstract). This model indirectly treats non-thermal sputtering using an overall destruction timescale,
 
 \\( \tau_\text{d}=\frac{M_\text{g}}{\epsilon\gamma M_\text{s}(100)} \\),
 
-where $M_\text{g}$ is the gas mass within a cell, $\epsilon$ is the efficiency with which grains are destroyed by SN shocks, $\gamma$ is the local Type II SN rate, and $M_\text{s}(100)$ is the mass of gas shocked to at least $100~\text{km}\text{s}^{-1}$.
+where $M_\text{g}$ is the gas mass within a cell, $\epsilon$ is the efficiency with which grains are destroyed by SN shocks, $\gamma$ is the local Type II SN rate, and $M_\text{s}(100)$ is the mass of gas shocked to at least $100~\text{km}\text{s}^{-1}$. In general, this prescription is not as flexible, since it requires more assumptions about SN shocks and grain physics.
 
 ## [Hu et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3252H/abstract)
 
 This paper also treats dust as dynamically coupled to gas, but it directly treats thermal and non-thermal sputtering. Their overall sputtering rate is given by
 
-\\( \frac{dm_\text{dust}}{dt}=N_\text{gr}\frac{dm_\text{gr}}{dt}=3N_\text{gr}m_\text{gr}\frac{\dot{a}}{a}=\frac{3n_\text{H}m_\text{dust}}{a}Y_\text{tot}\\)
+\\( \frac{\text{d}m_\text{dust}}{\text{d}t}=N_\text{gr}\frac{\text{d}m_\text{gr}}{\text{d}t}=3N_\text{gr}m_\text{gr}\frac{\dot{a}}{a}=\frac{3n_\text{H}m_\text{dust}}{a}Y_\text{tot}\\)
 
 where $m_\text{dust}$ is the dust mass of a cell, $N_\text{gr}=m_\text{dust}/m_\text{gr}$ is the number of grains, and $Y_\text{tot}$ is the total erosion rate (or sputtering yield). This paper uses the sputtering yields from Nozawa, Kozasa, and Habe (2006), and Table 1 in their paper gives the polynomial coefficients to describe the rates for thermal and non-thermal sputtering for carbon and silicon grains. For non-thermal sputtering, though, $Y_\text{nth}$ is a function of the relative velocity between dust and gas, so they also have a way to track dust dynamics. They derive the dust equation of motion and use a sub-cycling technique to solve it for the relative velocity when it is nonzero:
 
@@ -97,9 +97,8 @@ where $t_\text{rel}\equiv(t_\text{drag}^{-1}-(\nabla\cdot\bf{v}_\text{gas})/2)^{
 
 ## [Bocchio et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014A%26A...570A..32B/abstract)
 
-Instead of using the aritficial distinction of thermal and non-thermal sputtering, this paper uses a skewed Maxwellian distribution in its sputtering formulation. The sputtering rate is exactly the same as the formula introduced for non-thermal sputtering in Tielens et al. (1994), but it uses a skewed Maxwellian velocity distribution, shown in the figure below.
+Instead of using the aritficial distinction of thermal and non-thermal sputtering, this paper uses a skewed Maxwellian distribution to calculate its sputtering rates. The equation for sputtering rate is exactly the same as the formula introduced for non-thermal sputtering in Tielens et al. (1994) (given above), but it uses a skewed Maxwellian velocity distribution, shown in the figure below.
 
 <img src="/assets/img/posts/skm_dist.jpeg" alt="Bocchio Skewed Maxwellian" width="400"/>
 
-The solid lines show the case when the drift velocity is zero, the dotted lines show a drift velocity is $35~\text{km}\text{s}^{-1}$, and the dashed lines show $V_\text{drift}=200~\text{km}\text{s}^{-1}$. This figure demonstrates the shortcoming in the non-thermal sputtering formulation--the relative velocity between is really a combination of thermal motion of gas and drift velocity of dust. As such, the non-thermal sputtering treatment isn't as good of an approximation for higher gas temperatures. Indeed, for $V_\text{drift}=30~\text{km}\text{s}^{-1}$, the blue inertial sputtering velocity lines up well with $10^4~\text{K}$ gas, but not for $10^5~\text{K}$ gas, and there is a much wider spread in the $10^5~\text{K}$ gas velocity distribution. In general, at higher velocities inertial sputtering is a reasonable approximation.
-
+The solid lines show the case when the drift velocity is zero, the dotted lines show a drift velocity of $35~\text{km}\text{s}^{-1}$, and the dashed lines show $V_\text{drift}=200~\text{km}\text{s}^{-1}$. This figure demonstrates one of the shortcomings of the non-thermal sputtering formulation--the relative velocity between gas and dust is really a combination of gas thermal motions and dust drift velocities. As such, the non-thermal sputtering treatment isn't as good of an approximation for higher gas temperatures. Indeed, for $V_\text{drift}=30~\text{km}\text{s}^{-1}$, the blue inertial sputtering velocity lines up well with $10^4~\text{K}$ gas, but not for $10^5~\text{K}$ gas, and there is a much wider spread in the $10^5~\text{K}$ gas velocity distribution. In general, at higher velocities inertial sputtering is a reasonable approximation. Using this approach eliminates the need to track dust dynamics in order to calculate the total sputtering rate.
