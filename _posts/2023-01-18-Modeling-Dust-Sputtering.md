@@ -13,11 +13,11 @@ math:       true                      # Does this post contain math?
 
 To understand how dust is transported in galactic winds, I've been thinking about the primary mechanism that destroys dust at high temperatures in galaxies, sputtering. 
 
-In very simple terms, you can think of sputtering as the gradual shrinking of dust grains, as individual electrons and ions that are bound to dust grains are knocked off by impingent energetic electrons and ions (as is shown in the below cartoon). After enough of these collisions have taken place, dust grains can be destroyed entirely.
+In very simple terms, you can think of sputtering as the gradual shrinking of dust grains, as individual electrons and ions that are bound to dust grains are knocked off by impingent energetic electrons and ions. After enough of these collisions have taken place, dust grains can be destroyed entirely.
 
 ![Sputtering Schematic](/assets/img/posts/sputtering.png)
 
-The real picture is more complicated, but this is a simple mental image to have for the [linear cascade process](https://en.wikipedia.org/wiki/Collision_cascade#:~:text=In%20linear%20cascades%20the%20set,atoms%20(TKA)%2C%20etc.) that takes place when ions sputter away dust grains. 
+The real picture is more complicated than this cartoon, but this is a simple mental image to have for the [linear cascade process](https://en.wikipedia.org/wiki/Collision_cascade#:~:text=In%20linear%20cascades%20the%20set,atoms%20(TKA)%2C%20etc.) that takes place when ions sputter away dust grains. 
 
 Sputtering only occurs at sufficiently high temperatures, because at cooler temperatures ($T\lesssim10^4~K$), impingent electrons and ions aren't energetic enough to knock off bound atoms, and are more likely to stick to dust grains. In this regime, photoemission of electrons from grains by incident UV photons is the main way by which grains shrink, but it's subdominant in a grain's overall evolution. However, when the temperature is high enough, charged particles (electrons and ions) are energetic enough that they are capable of ejecting atoms from the surface of the grain through the transfer of kinetic energy. Eventually, the grain can become so positively or negatively charged that the presence of strong electric fields can cause the emission of atoms from the dust grain (field emission). Both of these effects are included in the general definition of sputtering. The sputtering rate for a non-rotating, stationary, spherical target of radius $a$, potential $U$, in a Maxwellian gas of temperature $T$ is given by:
 
