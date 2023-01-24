@@ -85,7 +85,7 @@ where $M_\text{g}$ is the gas mass within a cell, $\epsilon$ is the efficiency w
 
 ## [Hu et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3252H/abstract)
 
-This paper also treats dust as dynamically coupled to gas, but it directly treats thermal and non-thermal sputtering. Their overall sputtering rate is given by
+This paper also treats dust as dynamically coupled to gas, but it directly models thermal and non-thermal sputtering. Their overall sputtering rate is given by
 
 \\( \frac{\text{d}m_\text{dust}}{\text{d}t}=N_\text{gr}\frac{\text{d}m_\text{gr}}{\text{d}t}=3N_\text{gr}m_\text{gr}\frac{\dot{a}}{a}=\frac{3n_\text{H}m_\text{dust}}{a}Y_\text{tot}\\)
 
