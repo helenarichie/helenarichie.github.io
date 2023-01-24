@@ -50,3 +50,11 @@ These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and 
 ![Nozawa et al. (2006) Thermal Rate](/assets/img/posts/rate_thermal.jpeg "thermal") ![Nozawa et al. (2006) Non-Thermal Rate](assets/img/posts/rate_nonthermal.jpeg "nonthermal")
 
 # Modern Sputtering Modeling
+
+In this section, I'll give three different examples to show how the theory of sputtering modeling developed above is being implemented to model dust evolution in modern simulations.
+
+## McKinnon et al. (2017)
+
+## Hu et al. (2019)
+
+## Bochio et al. (2014)
