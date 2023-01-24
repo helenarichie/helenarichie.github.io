@@ -36,9 +36,9 @@ Note that the rates shown in this figure only apply for stationary grains. For c
 This concept was first introduced by [Tielens et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994ApJ...431..321T/abstract). Aside from introducing this useful formalism (in the form of the two equations below), their study also gave sputtering yields as a function of incident projectile energy and mass for different compositions of dust grains: graphite, silicates, silicon carbide, iron, and specific grain mantle materials (icy and organic refractory). Note that this model shifts from the consideration of unique species of ions to a "universal" law for sputtering yields, which was first introduced by 
 [Bohdansky (1984)](https://ui.adsabs.harvard.edu/abs/1984NIMPB...2..587B/abstract). The end result of this work are simple polynomial fits to thermal sputtering yields as a function of temperature averaged over all ion impact angles that only depend on grain species, which is the basis for most modern sputtering models seen in the literature today. The equations for sputtering rates are given below:
 
-\\( \frac{dN_\text{sp}}{dt}=2\pi a^2v_g\sum n_i Y_i(E=0.5m_i v_g^2)\,\,(\text{non-thermal}) \\)
+\\( \frac{\text{d}N_\text{sp}}{\text{d}t}=2\pi a^2v_g\sum n_i Y_i(E=0.5m_i v_g^2)\,\,(\text{non-thermal}) \\)
 
-\\( \frac{dN_\text{sp}}{dt}=2\pi a^2\sum n_i \langle Y_iv\rangle \,\, (\text{thermal}) \\) 
+\\( \frac{\text{d}N_\text{sp}}{\text{d}t}=2\pi a^2\sum n_i \langle Y_iv\rangle \,\, (\text{thermal}) \\) 
 
 The primary difference between these two equations is the velocity dependence that the non-thermal form has. Both depend on gas temperature and density. 
 
@@ -50,7 +50,7 @@ These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and 
 
 [Tsai and Mathews (1995)](https://ui.adsabs.harvard.edu/abs/1996ApJ...468..571T/abstract) derived a commonly-used analytic form of the thermal sputtering rate based on the work of Tielens et al. (1994):
 
-\\( \frac{da}{dt}=-\tilde{h}\Big(\frac{\rho}{m_p}\Big)\Big[\Big(\frac{T_d}{T}\Big)^\omega+1\Big]^{-1} \\)
+\\( \frac{\text{d}a}{\text{d}t}=-\tilde{h}\Big(\frac{\rho}{m_p}\Big)\Big[\Big(\frac{T_d}{T}\Big)^\omega+1\Big]^{-1} \\)
 
 This formula is a good approximation for both graphite and silicate when $\tilde{h}=3.2\times10^{-18}~\text{cm}^4\text{s}^{-1}$, $\omega=2.5$, and $T_d=2\times10^6~\text{K}$. They also introduce the "local sputtering time" (now more frequently known as the sputtering timescale) as:
 
