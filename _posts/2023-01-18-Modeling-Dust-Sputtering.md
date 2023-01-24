@@ -75,7 +75,7 @@ This paper treats dust as dynamically coupled to gas, and tracks the evolution i
 
 Here, $tau_\text{sp}$ comes from the formula given by Tsai and Mathews (1995):
 
-\\( \tau_\text{sp}=a\Big|\frac{da}{dt}\Big|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big] \\).
+\\( \tau_\text{sp}=a\Big\|\frac{da}{dt}\Big\|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big] \\).
 
 This does not give a complete treatment of sputtering, however, because the above only accounts for thermal sputtering. To account for the effects of non-thermal sputtering, which takes place primarily in supernova shocks, this paper uses a grain destruction model that was introduced in [McKinnon et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3775M/abstract). This model indirectly treats non-thermal sputtering using an overall destruction timescale,
 
@@ -96,4 +96,10 @@ where $m_\text{dust}$ is the dust mass of a cell, $N_\text{gr}=m_\text{dust}/m_\
 where $t_\text{rel}\equiv(t_\text{drag}^{-1}-(\nabla\cdot\bf{v}_\text{gas})/2)^{-1}$.
 
 ## [Bocchio et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014A%26A...570A..32B/abstract)
+
+Instead of using the aritficial distinction of thermal and non-thermal sputtering, this paper uses a skewed Maxwellian distribution in its sputtering formulation. The sputtering rate is exactly the same as the formula introduced for non-thermal sputtering in Tielens et al. (1994), but it uses a skewed Maxwellian velocity distribution, shown in the figure below.
+
+<img src="/assets/img/posts/skm_dist.jpeg" alt="Bocchio Skewed Maxwellian" width="400"/>
+
+The solid lines show the case when the drift velocity is zero, the dotted lines show a drift velocity is $35~\text{km}\text{s}^{-1}$, and the dashed lines show $V_\text{drift}=200~\text{km}\text{s}^{-1}$. This figure demonstrates the shortcoming in the non-thermal sputtering formulation--the relative velocity between is really a combination of thermal motion of gas and drift velocity of dust. As such, the non-thermal sputtering treatment isn't as good of an approximation for higher gas temperatures. Indeed, for $V_\text{drift}=30~\text{km}\text{s}^{-1}$, the blue inertial sputtering velocity lines up well with $10^4~\text{K}$ gas, but not for $10^5~\text{K}$ gas, and there is a much wider spread in the $10^5~\text{K}$ gas velocity distribution. In general, at higher velocities inertial sputtering is a reasonable approximation.
 
