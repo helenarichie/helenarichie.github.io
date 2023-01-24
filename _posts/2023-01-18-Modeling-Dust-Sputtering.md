@@ -46,7 +46,7 @@ The universal yields for thermal sputtering resulting from this paper are shown 
 
 <img src="/assets/img/posts/tielens_yields.png" alt="Tielens (1994) Universal Sputtering Yields" width="400"/>
 
-These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and are described numerically in Tielens et al. (1994) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains. Preceding sections of this paper detail how the yield for each material was calculated.
+These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and are described numerically in Tielens et al. (1994) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains. Preceding sections of the paper detail how the yield for each material was calculated.
 
 [Tsai and Mathews (1995)](https://ui.adsabs.harvard.edu/abs/1996ApJ...468..571T/abstract) derived a commonly-used analytic form of the thermal sputtering rate based on the work of Tielens et al. (1994):
 
