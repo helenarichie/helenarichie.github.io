@@ -27,11 +27,11 @@ $i$ is the projectile species, $f_E$ is the energy distribution function, $(1-Z_
 
 # Formulation History
 
-Much of the work in formulating sputtering theory is done in [Draine and Salpeter (1979)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231...77D/abstract), where they consider the forces acting on a grain of dust in hot gas, and calculate the potentials and sputtering yields for grains of different sizes and compositions. To calculate the potential, they consider drag forces (collision and Coulomb drag) and Loretnz force, and calculate the total potential due to impingent electrons, ions, photons, and field emission. By analyzing how these forces act on dust in regimes of astrophysical interest they were able to conclude that dust can be considered as dynamically coupled to the magnetic field (i.e. that drag forces are not usually not significant compared to Lorentz force). They also use experimental data to constrain sputtering yields. The result of this paper is the first model of sputtering rates as a function of temperature for iron, silicate, graphite, and $H_2O$ dust grains, which are shown in the figure below.
+Much of the work in formulating sputtering theory is done in Draine and Salpeter (1979), where they consider the forces acting on a grain of dust in hot gas, and calculate the potentials and sputtering yields for grains of different sizes and compositions. To calculate the potential, they consider drag forces (collision and Coulomb drag) and Loretnz force, and calculate the total potential due to impingent electrons, ions, photons, and field emission. By analyzing how these forces act on dust in regimes of astrophysical interest they were able to conclude that dust can be considered as dynamically coupled to the magnetic field (i.e. that drag forces are not usually not significant compared to Lorentz force). They also use experimental data to constrain sputtering yields. The result of this paper is the first model of sputtering rates as a function of temperature for iron, silicate, graphite, and $H_2O$ dust grains, which are shown in the figure below.
 
 <img src="/assets/img/posts/sputtering_rates.png" alt="Draine and Salpeter (1979) Sputtering Rates" width="400"/>
 
-Note that the rates shown in this figure only apply for stationary grains. For continuous distributions of hot ionized gas, this prescription is perfectly acceptable under the assumption that dust grains are dynamically coupled to gas through magnetic fields. When you need to deal with shocks, however, things can get complicated. In shocks, dust can't be treated as stationary with respect to gas, because the relative velocities between gas and dust can be quite high. This is because grains are not betatron accelerated like they are under non-shock conditions. Instead, they're accelerated by drag forces until they're once again at rest with respect to gas. Thus, our simplified treatment of sputtering breaks down. A less generalized version of the sputtering rate (that uses a skewed Maxwelliand distribution, accounting for relative velocities and gas thermal motions) can ben used, and is given in [Draine and Salpeter (1979)](https://ui.adsabs.harvard.edu/abs/1979ApJ...231...77D/abstract). Alternatively, you can treat the two different regimes ($v_\text{rel}=0$ and $v_\text{rel}\neq0$) as two different types of sputtering: thermal and non-thermal (or inertial), respectively.
+Note that the rates shown in this figure only apply for stationary grains. For continuous distributions of hot ionized gas, this prescription is perfectly acceptable under the assumption that dust grains are dynamically coupled to gas through magnetic fields. When you need to deal with shocks, however, things can get complicated. In shocks, dust can't be treated as stationary with respect to gas, because the relative velocities between gas and dust can be quite high. This is because grains are not betatron accelerated like they are under non-shock conditions. Instead, they're accelerated by drag forces until they're once again at rest with respect to gas. Thus, our simplified treatment of sputtering breaks down. A less generalized version of the sputtering rate (that uses a skewed Maxwellian distribution, accounting for relative velocities and gas thermal motions) can ben used, and is given in Draine and Salpeter (1979). Alternatively, you can treat the two different regimes ($v_\text{rel}=0$ and $v_\text{rel}\neq0$) as two different types of sputtering: thermal and non-thermal (or inertial), respectively.
 
 This concept was first introduced by [Tielens et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994ApJ...431..321T/abstract). Aside from introducing this useful formalism (in the form of the two equations below), their study also gave sputtering yields as a function of incident projectile energy and mass for different compositions of dust grains: graphite, silicates, silicon carbide, iron, and specific grain mantle materials (icy and organic refractory). Note that this model shifts from the consideration of unique species of ions to a "universal" law for sputtering yields, which was first introduced by 
 [Bohdansky (1984)](https://ui.adsabs.harvard.edu/abs/1984NIMPB...2..587B/abstract). The end result of this work are simple polynomial fits to thermal sputtering yields as a function of temperature averaged over all ion impact angles that only depend on grain species, which is the basis for most modern sputtering models seen in the literature today. The equations for sputtering rates are given below:
@@ -46,17 +46,17 @@ The universal yields for thermal sputtering resulting from this paper are shown 
 
 <img src="/assets/img/posts/tielens_yields.png" alt="Tielens (1994) Universal Sputtering Yields" width="400"/>
 
-These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and are described numerically in [Tielens et al. (1994)](https://ui.adsabs.harvard.edu/abs/1994ApJ...431..321T/abstract) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains. Preceding sections of this paper detail how the yield for each material was calculated.
+These curves are given in units of $\text{cm}^{3} \text{Å} \text{yr}^{-1}$ and are described numerically in Tielens et al. (1994) in Table 4, which gives coefficients for the fith-order polynomial fit for five types of dust grains. Preceding sections of this paper detail how the yield for each material was calculated.
 
-Tsai and Mathews (1995) derived a commonly-used analytic form of the thermal sputtering rate based on the work of Tielens et al. (1994):
+[Tsai and Mathews (1995)](https://ui.adsabs.harvard.edu/abs/1996ApJ...468..571T/abstract) derived a commonly-used analytic form of the thermal sputtering rate based on the work of Tielens et al. (1994):
 
 \\( \frac{da}{dt}=-\tilde{h}\Big(\frac{\rho}{m_p}\Big)\Big[\Big(\frac{T_d}{T}\Big)^\omega+1\Big]^{-1} \\)
 
 This formula is a good approximation for both graphite and silicate when $\tilde{h}=3.2\times10^{-18}~\text{cm}^4\text{s}^{-1}$, $\omega=2.5$, and $T_d=2\times10^6~\text{K}$. They also introduce the "local sputtering time" (now more frequently known as the sputtering timescale) as:
 
-\\( t_\text{sp}=a\Big|\frac{da}{dt}\Big|^{-1} \\)
+\\( t_\text{sp}=a\Big|\frac{da}{dt}\Big|^{-1} \\).
 
-[Nozawa, Kozada, and Habe (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...648..435N/abstract) built on the work of Tielens et al. (1994) by calculating sputtering rates both for thermal sputtering and non-thermal sputtering for an even wider range of dust species. They do this by introducing newly determined sputtering yields using a similar method as Tielens et al. (1994), but with a slightly improved version of the [Bohdansky (1984)](https://ui.adsabs.harvard.edu/abs/1984NIMPB...2..587B/abstract) universal sputtering relation, an improved fitting method for the free parameter in this model, and using the EDDY code ([Ohya and Kawata, 1997](https://ui.adsabs.harvard.edu/abs/1997JaJAP..36L.298O/abstract)) to constrain species for which no experimental data exists. They used these yields to give sputtering rates as a function of temperature for thermal sputtering, and as function of relative velocity for non-thermal sputtering, shown below.
+[Nozawa, Kozada, and Habe (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...648..435N/abstract) built on the work of Tielens et al. (1994) by calculating sputtering rates both for thermal sputtering and non-thermal sputtering for an even wider range of dust species. They do this by introducing newly determined sputtering yields using a method similar to Tielens et al. (1994), but used a slightly improved version of the Bohdansky (1984) universal sputtering relation, with an improved fitting method for the free parameter in this model, and using the EDDY code ([Ohya and Kawata, 1997](https://ui.adsabs.harvard.edu/abs/1997JaJAP..36L.298O/abstract)) to constrain species for which no experimental data exists. They used these yields to give sputtering rates as a function of temperature for thermal sputtering, and as function of relative velocity for non-thermal sputtering, shown below.
 
 <p float="left">
   <img src="/assets/img/posts/rate_thermal.jpeg" width="250" />
@@ -68,6 +68,20 @@ This formula is a good approximation for both graphite and silicate when $\tilde
 In this section, I'll give three different examples to show how the theory of sputtering modeling developed above is being implemented to model dust evolution in modern simulations.
 
 ## McKinnon et al. (2017)
+
+This paper treats dust as dynamically coupled to gas, and tracks the evolution in dust mass as:
+
+\\( \Big(\frac{dM_\text{i,dust}}{dt}\Big)_\text{sp}=-\frac{M_\text{i,dust}}{\tau_\text{sp}/3} \\).
+
+Here, $tau_\text{sp}$ comes from the formula given by Tsai and Mathews (1995):
+
+\\( \tau_\text{sp}=a\Big|\frac{da}{dt}\Big|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big] \\).
+
+This does not give a complete treatment of sputtering, however, because the above only accounts for thermal sputtering. To account for the effects of non-thermal sputtering, which takes place primarily in supernova shocks, this paper uses a grain destruction model that was introduced in [McKinnon et al. (2016)](https://ui.adsabs.harvard.edu/abs/2016MNRAS.457.3775M/abstract). This model indirectly treats non-thermal sputtering using an overall destruction timescale,
+
+\\( \tau_\text{d}=\frac{M_\text{g}}{\epsilon\gamma M_\text{s}(100)} \\),
+
+where $M_\text{g}$ is the gas mass within a cell, $\epsilon$ is the efficiency with which grains are destroyed by SN shocks, $\gamma$ is the local Type II SN rate, and $M_\text{s}(100)$ is the mass of gas shocked to at least $100~\text{km}\text{s}^{-1}$.
 
 ## Hu et al. (2019)
 
