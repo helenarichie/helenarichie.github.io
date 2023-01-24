@@ -91,7 +91,7 @@ This paper also treats dust as dynamically coupled to gas, but it directly treat
 
 where $m_\text{dust}$ is the dust mass of a cell, $N_\text{gr}=m_\text{dust}/m_\text{gr}$ is the number of grains, and $Y_\text{tot}$ is the total erosion rate (or sputtering yield). This paper uses the sputtering yields from Nozawa, Kozasa, and Habe (2006), and Table 1 in their paper gives the polynomial coefficients to describe the rates for thermal and non-thermal sputtering for carbon and silicon grains. For non-thermal sputtering, though, $Y_\text{nth}$ is a function of the relative velocity between dust and gas, so they also have a way to track dust dynamics. They derive the dust equation of motion and use a sub-cycling technique to solve it for the relative velocity when it is nonzero:
 
-\\( \frac{\text{d}\bf{v_\text{rel}}{\text{d}t}=-\frac{\bf{v_\text{rel}}}{t_\text{rel}}-\bf{a}_\text{hydro} \\),
+\\( \frac{\text{d}\bf{v_\text{rel}}}{\text{d}t}=-\frac{\bf{v_\text{rel}}}{t_\text{rel}}-\bf{a_\text{hydro}} \\),
 
 where $t_\text{rel}\equiv(t_\text{drag}^{-1}-(\nabla\cdot\bf{v}_\text{gas})/2)^{-1}$.
 
