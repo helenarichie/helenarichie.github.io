@@ -73,7 +73,7 @@ This paper treats dust as dynamically coupled to gas, and tracks the evolution i
 
 \\( \Big(\frac{\text{d}M_\text{i,dust}}{\text{d}t}\Big)_\text{sp}=-\frac{M_\text{i,dust}}{\tau_\text{sp}/3} \\).
 
-Here, $tau_\text{sp}$ comes from the formula given by Tsai and Mathews (1995):
+Here, $\tau_\text{sp}$ comes from the formula given by Tsai and Mathews (1995):
 
 \\( \tau_\text{sp}=a\Big\|\frac{\text{d}a}{\text{d}t}\Big\|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big] \\).
 
@@ -91,7 +91,7 @@ This paper also treats dust as dynamically coupled to gas, but it directly treat
 
 where $m_\text{dust}$ is the dust mass of a cell, $N_\text{gr}=m_\text{dust}/m_\text{gr}$ is the number of grains, and $Y_\text{tot}$ is the total erosion rate (or sputtering yield). This paper uses the sputtering yields from Nozawa, Kozasa, and Habe (2006), and Table 1 in their paper gives the polynomial coefficients to describe the rates for thermal and non-thermal sputtering for carbon and silicon grains. For non-thermal sputtering, though, $Y_\text{nth}$ is a function of the relative velocity between dust and gas, so they also have a way to track dust dynamics. They derive the dust equation of motion and use a sub-cycling technique to solve it for the relative velocity when it is nonzero:
 
-\\( \frac{\text{d}\bf{v}_\text{rel}}{\text{d}t}=-\frac{\bf{v}_\text{rel}}{t_\text{rel}}-\bf{a}_\text{hydro} \\),
+\\( \frac{\text{d}\bf{v_\text{rel}}{\text{d}t}=-\frac{\bf{v_\text{rel}}}{t_\text{rel}}-\bf{a}_\text{hydro} \\),
 
 where $t_\text{rel}\equiv(t_\text{drag}^{-1}-(\nabla\cdot\bf{v}_\text{gas})/2)^{-1}$.
 
