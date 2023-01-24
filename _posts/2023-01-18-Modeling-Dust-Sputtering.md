@@ -65,7 +65,7 @@ This formula is a good approximation for both graphite and silicate when $\tilde
 
 # Modern Sputtering Modeling
 
-In this section, I'll give three different examples to show how the theory of sputtering modeling developed above is being implemented to model dust evolution in modern simulations.
+In this section, I'll give three different examples to show how the sputtering models developed above are being implemented to model dust evolution in modern simulations.
 
 ## [McKinnon et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.1505M/abstract)
 
