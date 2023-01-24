@@ -58,7 +58,7 @@ This formula is a good approximation for both graphite and silicate when $\tilde
 
 [Nozawa, Kozada, and Habe (2006)](https://ui.adsabs.harvard.edu/abs/2006ApJ...648..435N/abstract) built on the work of Tielens et al. (1994) by calculating sputtering rates both for thermal sputtering and non-thermal sputtering for an even wider range of dust species. They do this by introducing newly determined sputtering yields using a method similar to Tielens et al. (1994), but used a slightly improved version of the Bohdansky (1984) universal sputtering relation, with an improved fitting method for the free parameter in this model, and using the EDDY code ([Ohya and Kawata, 1997](https://ui.adsabs.harvard.edu/abs/1997JaJAP..36L.298O/abstract)) to constrain species for which no experimental data exists. They used these yields to give sputtering rates as a function of temperature for thermal sputtering, and as function of relative velocity for non-thermal sputtering, shown below.
 
-<p float="left">
+<p float="inline-start">
   <img src="/assets/img/posts/rate_thermal.jpeg" width="250" />
   <img src="/assets/img/posts/rate_nonthermal.jpeg" width="250" />
 </p>
