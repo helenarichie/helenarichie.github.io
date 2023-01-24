@@ -17,7 +17,7 @@ In very simple terms, you can think of sputtering as the gradual shrinking of du
 
 ![Sputtering Schematic](/assets/img/posts/sputtering.png)
 
-The mechanism isn't quite as simple as an ion bumping into a bound atom and knocking it off, it's really a [linear cascade process](https://en.wikipedia.org/wiki/Collision_cascade#:~:text=In%20linear%20cascades%20the%20set,atoms%20(TKA)%2C%20etc.), but this simple mental image will suffice for our purposes. 
+The real picture is more complicated, but this is a simple mental image to have for the [linear cascade process](https://en.wikipedia.org/wiki/Collision_cascade#:~:text=In%20linear%20cascades%20the%20set,atoms%20(TKA)%2C%20etc.) that takes place when ions sputter away dust grains. 
 
 Sputtering only occurs at sufficiently high temperatures, because at cooler temperatures ($T\lesssim10^4~K$), impingent electrons and ions are more likely to stick to dust grains. In this regime, photoemission of electrons from grains by incident UV photons is the main way by which grains shrink, but it's sub-dominant in overall grain evolution. However, when the temperature is high enough, charged particles (electrons and ions) are energetic enough that they are capable of ejecting atoms from the surface of the grain through the transfer of kinetic energy. Eventually, the grain can become so positively or negatively charged that the presence of strong electric fields can cause the emission of atoms from the dust grain (field emission). Both of these effects are included in the general definition of sputtering. The sputtering rate for a non-rotating, stationary, spehrical target of radius $a$, potential $U$, in a Maxwellian gas of temperature $T$ is given by:
 
