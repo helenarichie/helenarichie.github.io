@@ -4,8 +4,17 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-![About me picture](/assets/img/tabs/shenandoah.jpg)
-Hi, I'm Helena! I'm a second year graduate student in the University of Pittsburgh's Physics PhD program working with [Professor Evan Schneider](https://evaneschneider.org/) on using hydrodynamics simulations to study galaxy evolution. I did my undergrad at Pitt, and during that time lead a group known as [STEPUP](https://sites.pitt.edu/~stepup/) that uses instruments at Pitt's Allegheny Observatory to detect exoplanets via transit photometry. Right now I'm interested in studying the effects of resolved dust models on isolated galaxy simulations, and applications of those results to larger scale simulations. When I'm not at work, I like to garden, cook, bake, and make whiskey cocktails. I also like skiing, running, yoga, backpacking, and bouldering!
+<img src="/assets/img/tabs/shenandoah.jpg" alt="About me picture" width="400"/>
+
+Hi, I'm Helena! I'm a third year graduate student in the University of Pittsburgh's Physics PhD program working with [Professor Evan Schneider](https://evaneschneider.org/). My research is focused on using high resolution hydrodynamics simulations to study the co-evolution of dust and galaxies. 
+
+
+
+During my time as an undergrad at Pitt, I lead a group known as [STEPUP](https://sites.pitt.edu/~stepup/) that uses instruments at Pitt's Allegheny Observatory to detect exoplanets via transit photometry. I wrote a photometry pipline for STEPUP to anaylze its data that is publically available at [https://github.com/mwvgroup/STEPUP_image_analysis](https://github.com/mwvgroup/STEPUP_image_analysis).
+
+
+Outside of work, I enjoy cooking, baking, and various forms of exercise (yoga, bouldering, skiing, running, etc.).
+
 
 # Education
 B.S., Physics & Astronomy, University of Pittsburgh (2020)  
