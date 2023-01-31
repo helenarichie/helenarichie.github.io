@@ -6,14 +6,13 @@ order: 1
 
 <img src="/assets/img/tabs/shenandoah.jpg" alt="About me picture" width="400"/>
 
-Hi, I'm Helena! I'm a third year graduate student in the University of Pittsburgh's Physics PhD program working with [Evan Schneider](https://evaneschneider.org/). My research is focused on using high resolution hydrodynamics simulations to study the co-evolution of dust and galaxies. Right now, I'm running simulations of dust in winds to understand whether or not galactic outflows are a viable explanation for how dust ends up in the circumgalactic medium.  
-
+Hi, I'm Helena! I'm a third year graduate student in the University of Pittsburgh's Physics PhD program working with [Evan Schneider](https://evaneschneider.org/) on using high resolution hydrodynamics simulations to study galaxy evolution. My research is focused on studying the co-evolution of dust and galaxies. Right now, I'm running simulations of dust in galactic winds to see whether or not dust can survive in them in order to understand how dust ends up in the circumgalactic medium. To make these simulations, I'm using the [Cholla hydrodynamics code](https://github.com/cholla-hydro/cholla), which is a GPU-based code that can simulate entire galaxies with a fixed resolution of less than a few parsecs. I have added a simple model of dust sputtering to Cholla, and plan to expand this model to include more mechanisms for dust evolution.
 
 
 During my time as an undergrad at Pitt, I lead a group known as [STEPUP](https://sites.pitt.edu/~stepup/) that uses instruments at Pitt's Allegheny Observatory to detect exoplanets via transit photometry. I wrote a photometry pipline for STEPUP to anaylze its data that is publically available at [https://github.com/mwvgroup/STEPUP_image_analysis](https://github.com/mwvgroup/STEPUP_image_analysis).
 
 
-Outside of work, I enjoy cooking, baking, and various forms of exercise (yoga, bouldering, skiing, running, etc.).
+Outside of work, I enjoy cooking, baking, and various forms of exercise (yoga, bouldering, skiing, running, etc.)!
 
 
 # Education
