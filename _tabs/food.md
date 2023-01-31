@@ -5,6 +5,57 @@ order: 3
 ---
 *Just some pics of food I made that spark joy!*
 
+
+## January 15th, 2023
+### Leftover raspberry jam
+![Desktop View](/assets/img/tabs/food/raspberry_jam.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+## January 15th, 2023
+### Leftover raspberry jam
+![Desktop View](/assets/img/tabs/food/raspberry_jam.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+## January 14th, 2023
+### Brown sugar cake with raspberry Swiss buttercream
+![Desktop View](/assets/img/tabs/food/raspberry_cake.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+## December 8th, 2022
+### Taro ice cream
+![Desktop View](/assets/img/tabs/food/turmeric_pie.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+I highly recommend the KitchenAid ice cream attachment.
+
+
+## December 8th, 2022
+### Taro ice cream
+![Desktop View](/assets/img/tabs/food/turmeric_pie.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+I highly recommend the KitchenAid ice cream attachment.
+
+
+
+## November 24th, 2022
+### Spiced pumpkin cheesecake
+![Desktop View](/assets/img/tabs/food/turmeric_pie.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+## November 14th, 2022
+### Cacio e pepe
+![Desktop View](/assets/img/tabs/food/cacio_best.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
 ## October 16th, 2022
 ### Pumpkin Cupcakes With Cream Cheese Frosting
 ![Desktop View](/assets/img/tabs/food/pumpkin_cupcake.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
