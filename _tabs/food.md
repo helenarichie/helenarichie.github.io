@@ -13,12 +13,6 @@ order: 3
 
 
 
-## January 15th, 2023
-### Leftover raspberry jam
-![Desktop View](/assets/img/tabs/food/raspberry_jam.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-<br>
-
-
 
 ## January 14th, 2023
 ### Brown sugar cake with raspberry Swiss buttercream
@@ -29,14 +23,7 @@ order: 3
 
 ## December 8th, 2022
 ### Taro ice cream
-![Desktop View](/assets/img/tabs/food/turmeric_pie.jpg){: width="589" height="357" style="max-width: 40%" .normal}
-<br>
-I highly recommend the KitchenAid ice cream attachment.
-
-
-## December 8th, 2022
-### Taro ice cream
-![Desktop View](/assets/img/tabs/food/turmeric_pie.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+![Desktop View](/assets/img/tabs/food/taro.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 I highly recommend the KitchenAid ice cream attachment.
 

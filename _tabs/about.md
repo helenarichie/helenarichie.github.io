@@ -6,7 +6,7 @@ order: 1
 
 <img src="/assets/img/tabs/shenandoah.jpg" alt="About me picture" width="400"/>
 
-Hi, I'm Helena! I'm a third year graduate student in the University of Pittsburgh's Physics PhD program working with [Professor Evan Schneider](https://evaneschneider.org/). My research is focused on using high resolution hydrodynamics simulations to study the co-evolution of dust and galaxies. 
+Hi, I'm Helena! I'm a third year graduate student in the University of Pittsburgh's Physics PhD program working with [Evan Schneider](https://evaneschneider.org/). My research is focused on using high resolution hydrodynamics simulations to study the co-evolution of dust and galaxies. Right now, I'm running simulations of dust in winds to understand whether or not galactic outflows are a viable explanation for how dust ends up in the circumgalactic medium.  
 
 
 
