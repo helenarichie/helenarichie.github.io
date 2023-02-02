@@ -23,11 +23,10 @@ title: Helena Richie                          # the main title
 tagline: Astrophysics graduate student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  I'm a second year student in Pitt's Physics PhD 
-  program working with Professor Evan Schneider on creating 
-  high resolution galaxy simulations. I'm interested in how dust
-  affects galaxy evolution, specifically how it gets destroyed and
-  transported throughout galaxies by different feedback mechanisms.
+  I'm a Physics PhD candidate at the University of Pittsburgh
+  working with Professor Evan Schneider on creating high resolution
+  galaxy simulations. I'm interested in how dust affects galaxy evolution, 
+  specifically how it evolves and moves throughout galaxies.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://helenarichie.github.io'
@@ -51,7 +50,7 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/helena-richie-54413a167/
     - https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6325-9317&sort=date%20desc%2C%20bibcode%20desc&p_=0
-    - https://calendar.google.com/calendar/embed?src=helenarichie%40gmail.com&ctz=America%2FNew_York
+    # - https://calendar.google.com/calendar/embed?src=helenarichie%40gmail.com&ctz=America%2FNew_York
     - https://www.strava.com/athletes/89858405
 
 google-site-verification: vHNcANNBLev9EY-1JhE0Pio0U4FnSZrmYtgbQI4DcN0 # change to your verification string
