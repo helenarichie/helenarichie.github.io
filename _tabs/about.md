@@ -16,8 +16,8 @@ Outside of work, I enjoy cooking, baking, and various forms of exercise (yoga, b
 I firmly believe that outreach is one of the most effective ways to open physics up to marginalized genders and minorities that are all too often deterred by the exclusionary attitudes that exist in this field. Without the suport I received from caring mentors as an aspiring astronomer, I would not have made the decision to pursue astrophysics, so providing that support for others is very important to me. To connect with students who may be interested in pursuing physics, I regularly participate in programs like [Adopt-a-Physicist](https://www.adoptaphysicist.org/user/ProfileAdopt.cfm?ID=49509), and other local outreach programs hosted by Pitt, Carnegie Mellon University, and local high schools. I'm also always happy to provide personal mentorship to students who just need someone to answer their questions or affirm their experiences. Please feel free to contact me with questions or outreach opportunities!
 
 # Education
-B.S., Physics & Astronomy, University of Pittsburgh (2020)  
-B.S., Mathematics, University of Pittsburgh (2020)  
-Ph.D., Physics, University of Pittsburgh (ongoing)  
+B.S., Physics & Astronomy, University of Pittsburgh (2020)   
+B.S., Mathematics, University of Pittsburgh (2020)   
+Ph.D., Physics, University of Pittsburgh (ongoing)   
 
 # [Curriculum Vitae](/assets/img/tabs/CV.pdf)
