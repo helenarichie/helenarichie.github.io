@@ -2,6 +2,7 @@
 title: Research
 icon: fas fa-meteor
 order: 2
+math: true
 ---
 
 
