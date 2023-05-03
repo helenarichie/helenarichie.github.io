@@ -24,4 +24,4 @@ math:       true                      # Does this post contain math?
 <br>
 $\tau_\text{sp}=a\Big|\frac{da}{dt}\Big|^{-1}\approx(0.17~\text{Gyr})\Big(\frac{a_{-1}}{\rho_{-27}}\Big)\Big[\Big(\frac{T_0}{T}\Big)^\omega+1\Big]$<br>
 
-These numbers assume a constant grain radius of $0.1~\mu m$.
+These numbers assume a constant grain radius of 0.1 $\mu$m.
