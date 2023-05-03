@@ -15,9 +15,9 @@ math:       true                      # Does this post contain math?
 | $10^3~\text{K}$ | $1.8\times10^{16}~\text{yr}$ | $1.8\times10^{15}~\text{yr}$ | $1.8\times10^{14}~\text{yr}$ | $1.8\times10^{13}~\text{yr}$ 
 | $10^4~\text{K}$ | $5.8\times10^{13}~\text{yr}$ | $5.8\times10^{12}~\text{yr}$ | $5.8\times10^{11}~\text{yr}$ | $5.8\times10^{10}~\text{yr}$ 
 | $10^5~\text{K}$ | $1.8\times10^{11}~\text{yr}$ | $1.8\times10^{10}~\text{yr}$ | $1.8\times10^{9}~\text{yr}$ | $1.8\times10^{8}~\text{yr}$ 
-| $10^6~\text{K}$ | $5.8\times10^{8}~\text{yr}$ | $6.8\times10^{7}~\text{yr}$ | $6.8\times10^{6}~\text{yr}$ | $6.8\times10^{5}~\text{yr}$ 
-| $10^7~\text{K}$ | $1.8\times10^{8}~\text{yr}$ | $1.0\times10^{7}~\text{yr}$ | $1.0\times10^{6}~\text{yr}$ | $1.0\times10^{5}~\text{yr}$ 
-| $10^8~\text{K}$ | $5.8\times10^{8}~\text{yr}$ | $1.0\times10^{7}~\text{yr}$ | $1.0\times10^{6}~\text{yr}$ | $1.0\times10^{5}~\text{yr}$ 
+| $10^6~\text{K}$ | $6.8\times10^{8}~\text{yr}$ | $6.8\times10^{7}~\text{yr}$ | $6.8\times10^{6}~\text{yr}$ | $6.8\times10^{5}~\text{yr}$ 
+| $10^7~\text{K}$ | $1.0\times10^{8}~\text{yr}$ | $1.0\times10^{7}~\text{yr}$ | $1.0\times10^{6}~\text{yr}$ | $1.0\times10^{5}~\text{yr}$ 
+| $10^8~\text{K}$ | $1.0\times10^{8}~\text{yr}$ | $1.0\times10^{7}~\text{yr}$ | $1.0\times10^{6}~\text{yr}$ | $1.0\times10^{5}~\text{yr}$ 
 
 
 
