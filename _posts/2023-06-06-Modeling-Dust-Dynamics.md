@@ -1,5 +1,5 @@
 ---
-title:      Dust Dynamics       # Title
+title:      Modeling Dust Dynamics       # Title
 author:     Helena Richie              # Author Name
 date:       2023-06-06 12:00:42 -0500  # Date
 categories: [Research, Dust]     # Catagories, no more than 2
@@ -12,3 +12,9 @@ math:       true                      # Does this post contain math?
 When simulating dust, a major simplification in modeling can be made through assumptions about dust dynamics. Namely, dust dynamics (which are hard to calculate in Eulerian hydrodynamics simulations) can be ignored under the assumption that they are fully coupled to the dynamics of gas. This assumption can be made because dust grains are often charged, causing them to closely follow the ISM's magnetic fields, much like gas. Dust and gas are spatially coincident as long as the radius at which dust gyrates around magnetic fields is small. This radius is just the Larmor radius, and is defined as:
 
 \\( r_\textrm{L} = \frac{m_\textrm{gr}v_\textrm{rel}}{Z_\textrm{gr}eB} \\).
+
+This can also be written as 
+
+\\( r_\textrm{L} \approx 8.5 \times 10^{-3}\,\textrm{pc}\,Z_\textrm{gr}^{-1} \Big(\frac{a}{0.1~\mu\textrm{m}}\Big)^3 \Big(\frac{v_\textrm{rel}}{\textrm{km}\,\textrm{s}^{-1}}\Big) \Big(\frac{B}{3~\mu\textrm{G}}\Big)^{-1}  \\)
+
+([Hu et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3252H/abstract)).
