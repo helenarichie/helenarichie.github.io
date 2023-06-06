@@ -17,4 +17,8 @@ This can also be written as
 
 \\( r_\textrm{L} \approx 8.5 \times 10^{-3}\,\textrm{pc}\,Z_\textrm{gr}^{-1} \Big(\frac{a}{0.1~\mu\textrm{m}}\Big)^3 \Big(\frac{v_\textrm{rel}}{\textrm{km}\,\textrm{s}^{-1}}\Big) \Big(\frac{B}{3~\mu\textrm{G}}\Big)^{-1}  \\)
 
-([Hu et al. (2019)](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3252H/abstract)).
+([Hu et al. 2019](https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.3252H/abstract)).
+
+$v_\textrm{rel}$ is the relative velocity between gas and dust and $a$ is the grain radius. From this we can see that for large grains and/or grains with a high relative velocity, the Larmor radius can become quite high and this assumption can break down.
+
+This leads to two questions: _how common are large grains_ and _when does $v_\textrm{rel}$ become large_?
