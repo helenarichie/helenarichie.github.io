@@ -21,4 +21,6 @@ This can also be written as
 
 $v_\textrm{rel}$ is the relative velocity between gas and dust and $a$ is the grain radius. From this we can see that for large grains and/or grains with a high relative velocity, the Larmor radius can become quite high and this assumption can break down.
 
-This leads to two questions: _how common are large grains_ and _when does $v_\textrm{rel}$ become large_?
+This leads to several questions: _when do dust grains decouple_, _how common are large grains_, and _when does $v_\textrm{rel}$ become large_?
+
+Briefly answering the first question--([Slavin et al. (2004)](https://ui.adsabs.harvard.edu/abs/2004ApJ...614..796S/abstract)) found that for grains with sizes $\geqsim0.1~\mu\textrm{m}$ in shocks faster than $\sim50~\textrm{km}\,\textrm{s}^{-1}$ decoupling of gas and dust is usually important.
