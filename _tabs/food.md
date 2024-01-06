@@ -8,7 +8,7 @@ order: 3
 
 ## January 15th, 2023
 ### Leftover raspberry jam
-![Desktop View](/assets/img/tabs/food/raspberry_jam.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+![Desktop View](/assets/img/tabs/food/raspberry_jam.jpg){: width="589" height="357" style="max-width: 40%" .low}
 <br>
 
 
@@ -138,7 +138,7 @@ Wedding cookie table duties.
 ### Kimchi Carbonara (first attempt)
 ![Desktop View](/assets/img/tabs/food/kimchicarbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-One of my favorite restaurants in Pittsburgh, Cobra, is a Korean barbecue place that changed my life forever by giving me kimchi carbonara. It had delicious udon noodles that had been made into a carbonara with pork belly, egg, kimchi, and who knows what else. But for some reason (that I cannot comprehend) they took it off of the menu, so it has become my mission to reverse engineer it. This is what I would call a failed, but delicious, first attempt. The pork belly was way overcooked and there was a mishap cooking the udon, so we had to switch to flat rice noodles. We used miso and pork fat for the carbonara, and then added in the kimchi which I think is on the right track, although next time I would double the kimchi.
+Inspired by Cobra's kimchi carbonara. Used miso and pork fat for the carbonara. More kimchi next time.
 
 
 
@@ -154,7 +154,6 @@ I finally bought onigiri molds and I will never recover.
 ### Prosciutto and Veggie Pizza
 ![Desktop View](/assets/img/tabs/food/pizza2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-A well-deserved treat after spending the day shoveling two tons of mulch.
 
 
 
@@ -162,7 +161,6 @@ A well-deserved treat after spending the day shoveling two tons of mulch.
 ### Miso Salmon Nori Wraps
 ![Desktop View](/assets/img/tabs/food/salmon.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Made a miso, mirin, rice vinegar, and brown sugar marinade for the salmon and then ate it in a little nori wrap with rice. This was my first time buying furikake and kewpie mayo, which was life changing. Sooo yummy.
 
 
 
@@ -171,7 +169,6 @@ Made a miso, mirin, rice vinegar, and brown sugar marinade for the salmon and th
 ![Desktop View](/assets/img/tabs/food/alaska.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/alaska1.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-This is surprisingly easy to make! The pound cake and french meringue are homemade, and I want to learn how to make the ice cream from scratch next.
 
 
 
@@ -189,7 +186,7 @@ I never get tired of how cute these are.
 ![Desktop View](/assets/img/tabs/food/sourdough3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough3a.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I was starting to think I was hot shit at this point in my sourdough journey, but subsequent loaves have humbled me again.
+I was starting to think I was hot shit at this point in my sourdough journey, but subsequent loaves have humbled me.
 
 
 
@@ -198,7 +195,6 @@ I was starting to think I was hot shit at this point in my sourdough journey, bu
 ### Chana Masala
 ![Desktop View](/assets/img/tabs/food/chanamasala.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Another use for my leftover whiskey sour garbanzo beans!
 
 
 
@@ -217,7 +213,7 @@ Homemade pie crust is my natural enemy, but this was still delicious.
 ![Desktop View](/assets/img/tabs/food/mushrooms.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/mezzaluna3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-This meal is one of our staples, so we decided to make a bougie version with a blend of oyster, shiitake, and baby bella mushrooms. I really didn't notice a huge difference between the finished products, but we felt pretty fancy!
+Oyster, shiitake, and baby bella mushrooms.
 
 
 
@@ -226,7 +222,6 @@ This meal is one of our staples, so we decided to make a bougie version with a b
 ### Vegan Whiskey Sours
 ![Desktop View](/assets/img/tabs/food/whiskeysour.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-This is when I learned that aquafaba is just garbanzo bean juice, and an excellent alternative ingredient for whiskey sours that prevents me from having to drink raw egg whites. Plus you have beans for hummus!
 
 
 
@@ -234,8 +229,7 @@ This is when I learned that aquafaba is just garbanzo bean juice, and an excelle
 ### Carbonara With Homemade Linguine
 ![Desktop View](/assets/img/tabs/food/carbonara.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Copied Kenji and used the leftover egg white to make a whiskey sour and it was pretty yummy!
-
+Copied Kenji and used the leftover egg white to make a whiskey sour.
 
 
 
@@ -245,7 +239,7 @@ Copied Kenji and used the leftover egg white to make a whiskey sour and it was p
 ![Desktop View](/assets/img/tabs/food/lasagna.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/lasagnapasta.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-We came so close to having the perfect lasagna made from scratch, but a mishap getting the pasta prepared to go into the lasagna thwarted us. 0/10 would not recommend soaking fresh pasta in hot water to cook it before assembly. Just put it straight in the lasagna. We ended up using store-bought lasagna noodles that were undercooked when we took it out of the oven. Sigh. Spent all day simmering the ragu bolognese and made homemade beschamel for one of the layers, which were both amazing. I'll probably never make this again!
+Came so close to making the perfect lasagna from scratch, but flopped. I'll probably never make this again!
 
 
 
@@ -278,7 +272,6 @@ This was my first loaf where I had good oven spring. I was so happy!
 ### Homemade Linguine Pasta With Homemade Pesto Alla Genovese
 ![Desktop View](/assets/img/tabs/food/pestopasta.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I wish I could eat this fresh pesto every day, but it's not quite worth all the work it takes to grind it up with a mortar and pestle...
 
 
 
@@ -287,13 +280,12 @@ I wish I could eat this fresh pesto every day, but it's not quite worth all the 
 
 ![Desktop View](/assets/img/tabs/food/pizza.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Habanero olive oil is my favorite pizza topping.
 
 
 
 
 ## September 5th, 2021
-### Ribeye Steak With Steak Fries and Asparagus With Hollandaise
+### Ribeye Steak, Steak Fries, and Asparagus With Hollandaise
 ![Desktop View](/assets/img/tabs/food/ribeye.JPEG){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 I felt like I was going to die after I ate this.
@@ -320,4 +312,4 @@ Didn't cook any of this besides the bread but they're just my favorite treat for
 ### Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mezzaluna1.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. So good and so cute!
+Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. Cute!
