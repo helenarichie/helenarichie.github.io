@@ -11,11 +11,11 @@ math:       true                      # Does this post contain math?
 
 # Overview
 
-To understand how dust is transported in galactic winds, I've been thinking about the primary mechanism that destroys dust at high temperatures in galaxies, sputtering. 
+To understand how dust is transported in galactic winds, I've been thinking about the primary mechanism that destroys dust at high gas temperatures in galaxies, sputtering. 
 
-In very simple terms, you can think of sputtering as the gradual shrinking of dust grains, as individual electrons and ions that are bound to dust grains are knocked off by impingent energetic electrons and ions. After enough of these collisions have taken place, dust grains can be destroyed entirely.
+In very simple terms, sputtering can be thought of as the gradual shrinking of dust grains, as individual electrons and ions that are bound to dust grains are knocked off by incident energetic electrons and ions. After enough of these collisions have taken place, dust grains can be destroyed entirely.
 
-![Sputtering Schematic](/assets/img/posts/sputtering.png)
+<img src="/assets/img/posts/sputtering.png" alt="Sputtering Schematic" width="400"/>
 
 The real picture is more complicated than this cartoon, but this is a simple mental image to have for the [linear cascade process](https://en.wikipedia.org/wiki/Collision_cascade#:~:text=In%20linear%20cascades%20the%20set,atoms%20(TKA)%2C%20etc.) that takes place when ions sputter away dust grains. 
 
@@ -63,7 +63,7 @@ This formula is a good approximation for both graphite and silicate when $\tilde
   <img src="/assets/img/posts/rate_nonthermal.jpeg" width="250" />
 </p>
 
-# Modern Sputtering Modeling
+# Modeling Sputtering
 
 In this section, I'll give three different examples of papers that model sputtering to show how the sputtering models developed above are being implemented to model dust evolution in modern simulations.
 
