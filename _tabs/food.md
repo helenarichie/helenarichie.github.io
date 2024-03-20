@@ -1,7 +1,7 @@
 ---
 title: Food
 icon: fas fa-bread-slice
-order: 3
+order: 7
 ---
 *Just some pics of food I made that spark joy!*
 
