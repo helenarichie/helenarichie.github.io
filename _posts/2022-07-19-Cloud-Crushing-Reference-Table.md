@@ -2,8 +2,8 @@
 title:      Cloud Crushing Reference Table       # Title
 author:     Helena Richie              # Author Name
 date:       2022-07-19 12:00:42 -0500  # Date
-categories: [Research, Cloud Wind Simulation]     # Catagories, no more than 2
-tags:       [Cholla, Clouds, Simulations, Hydrodynamics]  # Tags, any number
+categories: [Research, Wind Tunnel Simulations]     # Catagories, no more than 2
+tags:       [Cholla, Wind Tunnel Simulations, Hydrodynamics]  # Tags, any number
 pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?

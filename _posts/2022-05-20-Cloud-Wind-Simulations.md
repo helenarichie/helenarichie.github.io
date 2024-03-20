@@ -3,7 +3,7 @@ title:      Cloud-Wind Simulations       # Title
 author:     Helena Richie              # Author Name
 date:       2022-05-20 12:00:42 -0500  # Date
 categories: [Research, Wind Tunnel Simulations]     # Catagories, no more than 2
-tags:       [Cholla, Dust, Simulations, Hydrodynamics, Winds]  # Tags, any number
+tags:       [Cholla, Dust, Wind Tunnel Simulations, Hydrodynamics]  # Tags, any number
 pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?

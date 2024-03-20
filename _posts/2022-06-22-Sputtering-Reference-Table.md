@@ -2,8 +2,8 @@
 title:      Sputtering Reference Table       # Title
 author:     Helena Richie              # Author Name
 date:       2022-06-21 12:00:42 -0500  # Date
-categories: [Research, Dust Model]     # Catagories, no more than 2
-tags:       [Cholla, Dust, Simulations, Hydrodynamics]  # Tags, any number
+categories: [Research, Dust]     # Catagories, no more than 2
+tags:       [Sputtering]  # Tags, any number
 pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?

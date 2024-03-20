@@ -3,7 +3,7 @@ title:      Modeling Dust Dynamics       # Title
 author:     Helena Richie              # Author Name
 date:       2023-06-06 12:00:42 -0500  # Date
 categories: [Research, Dust]     # Catagories, no more than 2
-tags:       [Dust, Dynamics, Dust destruction]  # Tags, any number
+tags:       [Dust, Dust Dynamics, Dust Destruction]  # Tags, any number
 pin:        false                      # Should this post be pinned?
 toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?
