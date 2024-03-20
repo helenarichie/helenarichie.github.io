@@ -26,9 +26,8 @@ I started with a cloud of radius 0.1$~\text{kpc}$ in a 2$\times$1$\times$1$~\tex
 
 ![Desktop View](/assets/img/posts/gas.png){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/posts/dust.png){: width="589" height="357" style="max-width: 40%" .normal}
-<br>
 For this cloud, the cloud crushing time is $t_{cc}=\chi^{1/2}a_0/v_b=9.8\times10^{7}~\text{yr}$, with $a_0=0.1~\text{kpc}$ being the radius of the cloud and $v_b=10~\text{km}/\text{s}$ is the speed of the wind. The below plot shows the evolution of dust-to-gas ratio throughout the simulation.<br>
-![Desktop View](/assets/img/posts/dtgr.png){: width="589" height="357" style="max-width: 40%" .normal}<br>
+![Desktop View](/assets/img/posts/dtgr.png){: width="589" height="357" style="max-width: 40%" .normal}
 Here, we see some change in dust-to-gas ratio over time at the boundaries, but not a ton. Looking at a slice of the temperature of the simulation could shed some light on how the dust density should be changing.<br>
-![Desktop View](/assets/img/posts/temp.png){: width="589" height="357" style="max-width: 40%" .normal}<br>
+![Desktop View](/assets/img/posts/temp.png){: width="589" height="357" style="max-width: 40%" .normal}
 Here, we can see that the central temperature of the cloud isn't changing too rapidly, so the inside of the cloud is staying at a of around $10^4~\text{K}$. At this temperature, dust has a sputtering timescale that is comparable to or longer than the time of the simulation, so it makes sense that we wouldn't see too much change in the dust density.
