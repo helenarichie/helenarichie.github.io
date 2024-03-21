@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-<img src="/assets/img/tabs/ocracoke.jpg" alt="About me picture" width="400"/>
+<img src="/assets/img/tabs/ocracoke.jpg" alt="About me picture" width="500"/>
 
-Hi, I'm Helena! I'm a fourth year graduate student in the University of Pittsburgh's Physics PhD program working with [Evan Schneider](https://evaneschneider.org/) on using high resolution hydrodynamics simulations to study galaxy evolution. My research is focused on studying the co-evolution of dust and galaxies. Right now, I'm running simulations of individual dusty clouds in galactic winds in order to understand how dust ends up in the circumgalactic medium. To make these simulations, I'm using the [Cholla hydrodynamics code](https://github.com/cholla-hydro/cholla), which is a GPU-based code that can simulate entire galaxies with a fixed resolution of less than a few parsecs. I have added a simple model of dust sputtering to Cholla, and plan to expand this model to include more mechanisms for dust evolution.
+Hi, I'm Helena! I'm a fourth year graduate student in the University of Pittsburgh's Physics PhD program working with [Evan Schneider](https://evaneschneider.org/) on using high resolution hydrodynamics simulations to study galaxy evolution. My research is focused on studying the co-evolution of dust and galaxies. Right now, I'm running simulations of individual dusty clouds in galactic winds in order to understand how dust ends up in the circumgalactic medium. To make these simulations, I'm using the [Cholla hydrodynamics code](https://github.com/cholla-hydro/cholla), which is a GPU-based code that can simulate entire galaxies with a fixed resolution of less than a few parsecs. I've added a simple model of dust sputtering to Cholla, and plan to expand this model to create simulations of full galaxies with dust.
 
 During my time as an undergrad at Pitt, I lead a group called [STEPUP](https://sites.pitt.edu/~stepup/) that uses instruments at Pitt's Allegheny Observatory to detect exoplanets via transit photometry. I wrote a photometry pipline for STEPUP to anaylze its data that is publically available at the [STEPUP Image Analysis GitHub](https://github.com/mwvgroup/STEPUP_image_analysis).
 
