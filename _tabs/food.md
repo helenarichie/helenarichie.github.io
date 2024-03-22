@@ -29,6 +29,14 @@ order: 7
 
 
 
+## March 19th, 2023
+### Shoyu Ramen
+![Desktop View](/assets/img/tabs/food/ramen2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
 ## January 15th, 2023
 ### Leftover raspberry jam
 ![Desktop View](/assets/img/tabs/food/raspberry_jam.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
