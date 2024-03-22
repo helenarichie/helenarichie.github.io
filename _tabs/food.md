@@ -6,34 +6,51 @@ order: 7
 *Just some pics of food I made that spark joy!*
 
 
-## November 23rd, 2023
-### Brown sugar cake with raspberry Swiss buttercream
-![Desktop View](/assets/img/tabs/food/raspberry_cake2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+## December 30th, 2023
+### Thumbprints
+![Desktop View](/assets/img/tabs/food/thumbprints.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 
 
 
+## July 28th, 2023
+### Chocolate Chip Cookies
+![Desktop View](/assets/img/tabs/food/chocchip.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
 
-## March 19th, 2023
+
+## December 14th, 2023
+### Pizza
+![Desktop View](/assets/img/tabs/food/pizza3.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+I got a pizza oven.
+
+
+## July 14th, 2023
 ### Pasta and Fennel Salad
 ![Desktop View](/assets/img/tabs/food/salads.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 
 
 
-## March 19th, 2023
+## April 9th, 2023
 ### Almond Macarons
 ![Desktop View](/assets/img/tabs/food/macaron.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 
 
 
+## March 12th, 2023
+### Brown sugar cake with raspberry Swiss buttercream
+![Desktop View](/assets/img/tabs/food/raspberry_cake2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
 
-## March 19th, 2023
+
+
+## February 26th, 2023
 ### Shoyu Ramen
 ![Desktop View](/assets/img/tabs/food/ramen2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-
 
 
 
@@ -41,7 +58,6 @@ order: 7
 ### Leftover raspberry jam
 ![Desktop View](/assets/img/tabs/food/raspberry_jam.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-
 
 
 
@@ -66,7 +82,6 @@ I highly recommend the KitchenAid ice cream attachment.
 <br>
 
 
-
 ## November 14th, 2022
 ### Cacio e pepe
 ![Desktop View](/assets/img/tabs/food/cacio_best.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
@@ -81,12 +96,10 @@ I highly recommend the KitchenAid ice cream attachment.
 
 
 
-
 ## October 12th, 2022
 ### Weeknight Spaghetti Marinara
 ![Desktop View](/assets/img/tabs/food/spaghett.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-
 
 
 
@@ -95,7 +108,6 @@ I highly recommend the KitchenAid ice cream attachment.
 ![Desktop View](/assets/img/tabs/food/tagliatelle.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/tag_carb.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-
 
 
 
@@ -116,12 +128,10 @@ Habaneros from our garden!
 
 
 
-
 ## September 12th, 2022
 ### Even More Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mezzaluna4.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-
 
 
 
@@ -132,12 +142,10 @@ Habaneros from our garden!
 
 
 
-
 ## August 22nd, 2022
 ### Fresh Spaghetti Marinara
 ![Desktop View](/assets/img/tabs/food/marinara.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-
 
 
 
@@ -148,13 +156,11 @@ Habaneros from our garden!
 
 
 
-
 ## July 2nd, 2022
 ### Thumbprints
 ![Desktop View](/assets/img/tabs/food/thumbprint_wedding.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 Wedding cookie table duties.
-
 
 
 
@@ -170,7 +176,6 @@ Wedding cookie table duties.
 ![Desktop View](/assets/img/tabs/food/kimchicarbonara.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 Inspired by Cobra's kimchi carbonara. Used miso and pork fat for the carbonara. More kimchi next time.
-
 
 
 
@@ -197,7 +202,6 @@ I never get tired of how cute these are.
 
 
 
-
 ## February 4th, 2022
 ### Sourdough Bread
 ![Desktop View](/assets/img/tabs/food/sourdough3.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
@@ -207,12 +211,10 @@ I was starting to think I was hot shit at this point in my sourdough journey, bu
 
 
 
-
 ## February 1st, 2022
 ### Chana Masala
 ![Desktop View](/assets/img/tabs/food/chanamasala.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-
 
 
 
@@ -224,14 +226,12 @@ Homemade pie crust is my natural enemy, but this was still delicious.
 
 
 
-
 ## January 13th, 2022
 ### Fancy Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mushrooms.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/mezzaluna3.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 Oyster, shiitake, and baby bella mushrooms.
-
 
 
 
@@ -260,14 +260,12 @@ Came so close to making the perfect lasagna from scratch, but flopped. I'll prob
 
 
 
-
 ## November 12th, 2021
 ### Sourdough Bread
 ![Desktop View](/assets/img/tabs/food/sourdough2a.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough2b.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 Made this with a blend of whole wheat and white bread flour and it was pretty good. The ear was so beautiful, too!
-
 
 
 
@@ -300,7 +298,6 @@ This was my first loaf where I had good oven spring. I was so happy!
 
 
 
-
 ## September 5th, 2021
 ### Ribeye Steak, Steak Fries, and Asparagus With Hollandaise
 ![Desktop View](/assets/img/tabs/food/ribeye.JPEG){: width="589" height="357" style="max-width: 40%" .normal}
@@ -309,13 +306,11 @@ I felt like I was going to die after I ate this.
 
 
 
-
 ## August 20th, 2021
 ### Turkey Salami Sandwiches on Homemade Sourdough
 ![Desktop View](/assets/img/tabs/food/sandwiches.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 Didn't cook any of this besides the bread but they're just my favorite treat for car camping and I need to share that!
-
 
 
 
