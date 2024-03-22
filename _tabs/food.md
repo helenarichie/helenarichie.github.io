@@ -173,13 +173,6 @@ Inspired by Cobra's kimchi carbonara. Used miso and pork fat for the carbonara. 
 
 
 
-## June 4th, 2022
-### Onigiri
-![Desktop View](/assets/img/tabs/food/onigiri.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
-<br>
-I finally bought onigiri molds and I will never recover.
-
-
 
 ## June 4th, 2022
 ### Prosciutto and Veggie Pizza
