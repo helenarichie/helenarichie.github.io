@@ -21,4 +21,4 @@ Here, we see a \\(100~\text{pc}\\) radius cloud in our slow wind model. In this 
 
 This ended up being true _even_ when dust is completely exposed to the hot wind (i.e. experiences zero cloud shielding). The total fraction of dust that survives depends on the ability of the mixed phase of gas (which forms at the interface of the cool cloud and hot wind) to rapidly cool and condense onto the cloud.
 
-![Cloud Survival](/assets/img/posts/cloud_dest.png){: width="650" height="357" style="max-width: 40%" .low}
+![Cloud Survival](/assets/img/posts/cloud_dest.png){: width="750" height="357" style="max-width: 40%" .low}
