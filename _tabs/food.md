@@ -60,7 +60,7 @@ I highly recommend the KitchenAid ice cream attachment.
 
 
 ## October 7th, 2022
-### Tagliatelle Carbonara
+### Tagliatelle Bolognese
 ![Desktop View](/assets/img/tabs/food/tagliatelle.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/tag_carb.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
@@ -153,13 +153,6 @@ I finally bought onigiri molds and I will never recover.
 ## June 4th, 2022
 ### Prosciutto and Veggie Pizza
 ![Desktop View](/assets/img/tabs/food/pizza2.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
-<br>
-
-
-
-## May 25th, 2022
-### Miso Salmon Nori Wraps
-![Desktop View](/assets/img/tabs/food/salmon.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
 
 
