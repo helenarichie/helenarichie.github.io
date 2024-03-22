@@ -17,8 +17,8 @@ In all cases, for large (\\( a\grtsim0.1~{\mu\text{m}} \\)) grains, we find that
 
 Here, we see a \\(100~\text{pc}\\) radius cloud in our slow wind model. In this simulation, the mixed phase of gas (which forms as a result of mixing between the cool cloud and the hot wind) is able to cool extremely efficiently (\\(t_\text{cool,mix}\sim40~\text{kyr}\\)). This is short compared to the shear time (\\(t_\text{shear}=r_\text{cl}/v_\text{w}\\)), which is around \\(200~\text{kyr}\\).
 
-![Cloud Survival](/assets/img/posts/cloud_surv.png){: width="589" height="357" style="max-width: 40%" .normal}
+![Cloud Survival](/assets/img/posts/cloud_surv.png){: width="589" height="357" style="max-width: 40%" .low}
 
 This ended up being true _even_ when dust is completely exposed to the hot wind (i.e. experiences zero cloud shielding). The total fraction of dust that survives depends on the ability of the mixed phase of gas (which forms at the interface of the cool cloud and hot wind) to rapidly cool and condense onto the cloud.
 
-![Cloud Survival](/assets/img/posts/cloud_dest.png){: width="589" height="357" style="max-width: 40%" .normal}
+![Cloud Survival](/assets/img/posts/cloud_dest.png){: width="650" height="357" style="max-width: 40%" .low}
