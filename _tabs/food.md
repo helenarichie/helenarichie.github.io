@@ -6,6 +6,29 @@ order: 7
 *Just some pics of food I made that spark joy!*
 
 
+## November 23rd, 2023
+### Brown sugar cake with raspberry Swiss buttercream
+![Desktop View](/assets/img/tabs/food/raspberry_cake2.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
+## March 19th, 2023
+### Pasta and Fennel Salad
+![Desktop View](/assets/img/tabs/food/salads.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+## March 19th, 2023
+### Almond Macarons
+![Desktop View](/assets/img/tabs/food/macaron.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+
+
 ## January 15th, 2023
 ### Leftover raspberry jam
 ![Desktop View](/assets/img/tabs/food/raspberry_jam.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
