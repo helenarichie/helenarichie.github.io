@@ -11,7 +11,7 @@ math:       true                      # Does this post contain math?
 
 [My first paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240303711R/abstract) on dust evolution in outflows is out! In this paper, we used idealized simulations of individual dusty clouds in hot galactic winds to understand how dust evolves due to sputtering in these environments. We ran a suite of simulations to explore how different factors, such as cloud evolution and dust grain size, affect dust survival. In these simulations, we varied cloud size, wind speed, wind temperature, cloud overdensity, and dust grain size. 
 
-In all cases, for large (\\( a\grtsim0.1~{\mu\text{m}} \\)) grains, we find that a majority of dust survives. 
+In all cases, for large (\\( a\gtrsim0.1~{\mu\text{m}} \\)) grains, we find that a majority of dust survives. 
 
 <div style="padding:23.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/919794739?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="survived_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
