@@ -13,7 +13,11 @@ math:       true                      # Does this post contain math?
 
 In all cases, for large (\\( a\gtrsim0.1~{\mu\text{m}} \\)) grains, we find that a majority of dust survives. Below is a movie of a large (\\(r_\text{cl}=100~\text{pc}\\)) cloud in a slow (\\(500~\text{km}\,\text{s}^{-1}\\)) wind.
 
+
+
 <div style="padding:22.89% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="survived_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
 
 In this simulation, the clouds traverses nearly 15 kpc in roughly 80 Myr and exhibits essentially no dust sputtering. The timescale for sputtering in the hot wind is around 10 Myr. Here, dust survival is a direct result of long-term shielding within the cool cloud, where the sputtering time is much longer. 
 
