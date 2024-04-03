@@ -12,6 +12,17 @@ order: 7
 <br>
 
 
+## November 22nd, 2023
+### Dinner Rolls
+![Desktop View](/assets/img/tabs/food/paella.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
+
+## October 2nd, 2023
+### Paella
+![Desktop View](/assets/img/tabs/food/paella.jpg){: width="589" height="357" style="max-width: 40%" .normal}
+<br>
+
 
 ## July 28th, 2023
 ### Chocolate Chip Cookies
