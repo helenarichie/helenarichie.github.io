@@ -1,6 +1,6 @@
 ---
 title: Movies
-icon: fa-solid fa-play
+icon: fa-solid fa-film
 order: 3
 math: true
 ---
