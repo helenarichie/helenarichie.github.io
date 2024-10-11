@@ -27,6 +27,12 @@ The mixed phase of gas (which forms as a result of mixing between the cool cloud
 
 In this scenario, the mixed phase gas can cool and accrete onto the cloud's tail before the momentum it gains from the hot phase carries it away from the cloud, as illustrated in the above cartoon (credit: Matthew Abbruzzo).
 
-Extremely efficient cloud shielding enabled majority dust survival in the survived cloud case, but a majority of dust ended up surviving _even_ when it was completely exposed to the hot wind. We saw this when we repeated the above simulation for a cloud in the destruction regime, defined by \\(t_\text{cool, mix} > 7~t_\text{shear} \\).
+Extremely efficient cloud shielding enabled majority dust survival in the survived cloud case, but a majority of dust ended up surviving _even_ when it was completely exposed to the hot wind. We saw this when we repeated the above simulation for a cloud in the destruction regime, defined by \\(t_\text{cool, mix} \gg t_\text{shear} \\).
+
+
+<div style="padding:32.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="destroyed_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Several factors are responsible for this cloud's destrution--it has a smaller radius (5 pc), it is accelerated by a faster wind (\\(10^3~\text{km}\,\text{s}^{-1}\\)), and the higher mixed-phase temperature results in a longer cooling time (\\(t_\text{cool,mix}\sim160~\text{kyr}\\)). The smaller cloud radius and faster wind velocity drive down the shear time, so the mixed cloud material moves away from the cloud before it can cool, and it eventually gets heated to the wind temperature.
 
 ![Cloud Survival](/assets/img/posts/cloud_dest.png){: width="750" height="357" style="max-width: 60%" .low}
+
