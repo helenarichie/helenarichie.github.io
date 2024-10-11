@@ -19,12 +19,14 @@ In all cases, for large (\\( a\gtrsim0.1~{\mu\text{m}} \\)) grains, we find that
 
 
 
-In this simulation, the clouds traverses nearly 15 kpc in roughly 80 Myr and exhibits essentially no dust sputtering. The timescale for sputtering in the hot wind is around 10 Myr. Here, dust survival is a direct result of long-term shielding within the cool cloud, where the sputtering time is much longer. 
+In this simulation, the clouds traverses nearly 15 kpc in roughly 80 Myr and exhibits essentially no dust sputtering. The timescale for sputtering in the hot wind is short compared to the simulation lenght--around 10 Myr. Here, dust survival is a direct result of long-term shielding within the cool cloud, where the sputtering time is much longer. 
 
-In this simulation, the mixed phase of gas (which forms as a result of mixing between the cool cloud and the hot wind) is able to cool extremely efficiently (\\(t_\text{cool,mix}\sim40~\text{kyr}\\)). This is short compared to the dynamical timescales for cloud-wind mixing that govern the cloud's evolution. In particular, the shear time (\\(t_\text{shear}=r_\text{cl}/v_\text{w}\\)) is is around \\(200~\text{kyr}\\). [Abruzzo et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230703228A/abstract) showed that clouds that satisfy the criterion \\(t_\text{cool, mix} < 7~t_\text{shear} \\) 
+The mixed phase of gas (which forms as a result of mixing between the cool cloud and the hot wind) has a temperature of \\(\sim10^5~\text{K}\\), allowing it to cool extremely efficiently (\\(t_\text{cool,mix}\sim40~\text{kyr}\\)). This is short compared to the dynamical timescales for cloud-wind mixing that govern the cloud's evolution. In particular, the shear time (\\(t_\text{shear}=r_\text{cl}/v_\text{w}\\)) is is around \\(200~\text{kyr}\\). [Abruzzo et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230703228A/abstract) showed that clouds that satisfy the criterion \\(t_\text{cool, mix} < 7~t_\text{shear} \\) can survive for long periods.
 
 ![Cloud Survival](/assets/img/posts/cloud_surv.png){: width="589" height="357" style="max-width: 40%" .low}
 
-This ended up being true _even_ when dust is completely exposed to the hot wind (i.e. experiences zero cloud shielding). The total fraction of dust that survives depends on the ability of the mixed phase of gas (which forms at the interface of the cool cloud and hot wind) to rapidly cool and condense onto the cloud.
+In this scenario, the mixed phase gas can cool and accrete onto the cloud's tail before the momentum it gains from the hot phase carries it away from the cloud, as illustrated in the above cartoon (credit: Matthew Abbruzzo).
+
+Extremely efficient cloud shielding enabled majority dust survival in the survived cloud case, but a majority of dust ended up surviving _even_ when it was completely exposed to the hot wind. We saw this when we repeated the above simulation for a cloud in the destruction regime, defined by \\(t_\text{cool, mix} > 7~t_\text{shear} \\).
 
 ![Cloud Survival](/assets/img/posts/cloud_dest.png){: width="750" height="357" style="max-width: 60%" .low}
