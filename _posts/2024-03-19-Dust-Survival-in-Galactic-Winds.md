@@ -9,7 +9,7 @@ toc:        true                       # Table of Contents?
 math:       true                      # Does this post contain math?
 ---
 
-[My first paper](https://ui.adsabs.harvard.edu/abs/2024arXiv240303711R/abstract) on dust evolution in outflows is out! In this paper, we used idealized simulations of individual dusty clouds in hot galactic winds to understand how sputtering affects dust in these environments. We ran a suite of simulations to explore how different factors, such as cloud evolution and dust grain size, affect dust survival. In these simulations, we varied cloud size, wind speed, wind temperature, cloud overdensity, and dust grain size. 
+This post is a summary of [Richie et al. 2024](https://ui.adsabs.harvard.edu/abs/2024arXiv240303711R/abstract), my first paper on dust evolution in galactic outflows. In this paper, we used idealized simulations of individual dusty clouds in hot galactic winds to understand how sputtering affects dust in these environments. We ran a suite of simulations to explore how different factors, such as cloud evolution and dust grain size, affect dust survival. In these simulations, we varied cloud size, wind speed, wind temperature, cloud overdensity, and dust grain size. 
 
 In all cases, for large (\\( a\gtrsim0.1~{\mu\text{m}} \\)) grains, we find that a majority of dust survives. Below is a movie of a large (\\(r_\text{cl}=100~\text{pc}\\)) cloud in a slow (\\(500~\text{km}\,\text{s}^{-1}\\)) wind.
 
@@ -25,14 +25,17 @@ The mixed phase of gas (which forms as a result of mixing between the cool cloud
 
 ![Cloud Survival](/assets/img/posts/cloud_surv.png){: width="589" height="357" style="max-width: 40%" .low}
 
-In this scenario, the mixed phase gas can cool and accrete onto the cloud's tail before the momentum it gains from the hot phase carries it away from the cloud, as illustrated in the above cartoon (credit: Matthew Abbruzzo).
+In this scenario, the mixed phase gas can cool and accrete onto the cloud's tail before the momentum it gains from the hot phase carries it away from the cloud, as illustrated in the above cartoon (credit: Matthew Abruzzo).
 
 Extremely efficient cloud shielding enabled majority dust survival in the survived cloud case, but a majority of dust ended up surviving _even_ when it was completely exposed to the hot wind. We saw this when we repeated the above simulation for a cloud in the destruction regime, defined by \\(t_\text{cool, mix} \gg t_\text{shear} \\).
 
 
+
 <div style="padding:32.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="destroyed_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-Several factors are responsible for this cloud's destrution--it has a smaller radius (5 pc), it is accelerated by a faster wind (\\(10^3~\text{km}\,\text{s}^{-1}\\)), and the higher mixed-phase temperature results in a longer cooling time (\\(t_\text{cool,mix}\sim160~\text{kyr}\\)). The smaller cloud radius and faster wind velocity drive down the shear time, so the mixed cloud material moves away from the cloud before it can cool, and it eventually gets heated to the wind temperature.
+
+
+Several factors are responsible for this cloud's destrution--it has a smaller radius (5 pc), it is accelerated by a faster wind (\\(10^3~\text{km}\,\text{s}^{-1}\\)), and the higher mixed-phase temperature results in a longer cooling time (\\(t_\text{cool,mix}\sim160~\text{kyr}\\)). The smaller cloud radius and faster wind velocity drive down the shear time, so the mixed cloud material moves away from the cloud before it can cool, and it eventually gets heated to the wind temperature (illustrated in the below cartoon, credit: Matthew Abruzzo).
 
 ![Cloud Survival](/assets/img/posts/cloud_dest.png){: width="750" height="357" style="max-width: 60%" .low}
 
