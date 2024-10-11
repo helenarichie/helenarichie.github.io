@@ -83,7 +83,6 @@ I got a pizza oven.
 ### Taro ice cream
 ![Desktop View](/assets/img/tabs/food/taro.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I highly recommend the KitchenAid ice cream attachment.
 
 
 
@@ -127,7 +126,7 @@ I highly recommend the KitchenAid ice cream attachment.
 ![Desktop View](/assets/img/tabs/food/salsa.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/tacos.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Habaneros from our garden!
+Habaneros from the garden!
 
 
 
@@ -171,22 +170,14 @@ Habaneros from our garden!
 ### Thumbprints
 ![Desktop View](/assets/img/tabs/food/thumbprint_wedding.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Wedding cookie table duties.
-
-
-
-## June 28th, 2022
-### Army of Onigiri Soldiers
-![Desktop View](/assets/img/tabs/food/onigirisoldiers.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
-<br>
+Cookie table duties.
 
 
 
 ## June 5th, 2022
-### Kimchi Carbonara (first attempt)
+### Kimchi Carbonara
 ![Desktop View](/assets/img/tabs/food/kimchicarbonara.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Inspired by Cobra's kimchi carbonara. Used miso and pork fat for the carbonara. More kimchi next time.
 
 
 
@@ -209,7 +200,6 @@ Inspired by Cobra's kimchi carbonara. Used miso and pork fat for the carbonara. 
 ### More Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mezzaluna2.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I never get tired of how cute these are.
 
 
 
@@ -218,7 +208,6 @@ I never get tired of how cute these are.
 ![Desktop View](/assets/img/tabs/food/sourdough3.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough3a.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I was starting to think I was hot shit at this point in my sourdough journey, but subsequent loaves have humbled me.
 
 
 
@@ -233,7 +222,6 @@ I was starting to think I was hot shit at this point in my sourdough journey, bu
 ### Blueberry Pie
 ![Desktop View](/assets/img/tabs/food/pie.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Homemade pie crust is my natural enemy, but this was still delicious.
 
 
 
@@ -257,7 +245,6 @@ Oyster, shiitake, and baby bella mushrooms.
 ### Carbonara With Homemade Linguine
 ![Desktop View](/assets/img/tabs/food/carbonara.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Copied Kenji and used the leftover egg white to make a whiskey sour.
 
 
 
@@ -267,7 +254,6 @@ Copied Kenji and used the leftover egg white to make a whiskey sour.
 ![Desktop View](/assets/img/tabs/food/lasagna.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/lasagnapasta.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Came so close to making the perfect lasagna from scratch, but flopped. I'll probably never make this again!
 
 
 
@@ -276,7 +262,6 @@ Came so close to making the perfect lasagna from scratch, but flopped. I'll prob
 ![Desktop View](/assets/img/tabs/food/sourdough2a.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 ![Desktop View](/assets/img/tabs/food/sourdough2b.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Made this with a blend of whole wheat and white bread flour and it was pretty good. The ear was so beautiful, too!
 
 
 
@@ -284,7 +269,6 @@ Made this with a blend of whole wheat and white bread flour and it was pretty go
 ### Sourdough Bread
 ![Desktop View](/assets/img/tabs/food/sourdough1.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-This was my first loaf where I had good oven spring. I was so happy!
 
 
 
@@ -313,7 +297,6 @@ This was my first loaf where I had good oven spring. I was so happy!
 ### Ribeye Steak, Steak Fries, and Asparagus With Hollandaise
 ![Desktop View](/assets/img/tabs/food/ribeye.JPEG){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-I felt like I was going to die after I ate this.
 
 
 
@@ -321,7 +304,6 @@ I felt like I was going to die after I ate this.
 ### Turkey Salami Sandwiches on Homemade Sourdough
 ![Desktop View](/assets/img/tabs/food/sandwiches.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Didn't cook any of this besides the bread but they're just my favorite treat for car camping and I need to share that!
 
 
 
@@ -335,4 +317,4 @@ Didn't cook any of this besides the bread but they're just my favorite treat for
 ### Mushroom Mezzalune
 ![Desktop View](/assets/img/tabs/food/mezzaluna1.jpeg){: width="589" height="357" style="max-width: 40%" .normal}
 <br>
-Mezzalune filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot, made with fresh, homemade pasta. Cute!
+Filled with a blend of baby bella mushroom, ricotta, parmesan, and shallot.
