@@ -1,5 +1,5 @@
 ---
-title:      Dust in Galaxy Outflow Simulation s      # Title
+title:      New Dust in Galaxy Outflow Simulations!      # Title
 author:     Helena Richie              # Author Name
 date:       2024-10-09 12:00:42 -0500  # Date
 categories: [Research, Dust]     # Catagories, no more than 2
