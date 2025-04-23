@@ -28,7 +28,7 @@
 #   type: calendar
 #   icon: 'fa fa-calendar'
 #   url:  'https://calendar.google.com/calendar/embed?src=helenarichie%40gmail.com&ctz=America%2FNew_York' 
-# -
-#   type: strava
-#   icon: 'fab fa-strava'
-#   url : 'https://www.strava.com/athletes/89858405'
+-
+  type: strava
+  icon: 'fab fa-strava'
+  url : 'https://www.strava.com/athletes/89858405'
