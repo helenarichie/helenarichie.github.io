@@ -27,7 +27,7 @@
 
 -
   type: cv
-  icon: 'fas fa-circle-user'
+  icon: 'fas fa-user-circle'
   url:  'https://github.com/helenarichie/helenarichie.github.io/blob/0cf498b1176ea51c476a01d08b988896b9910c22/assets/img/tabs/CV.pdf'  
 # -
 #   type: calendar
