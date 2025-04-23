@@ -26,8 +26,10 @@
   url:  'https://ui.adsabs.harvard.edu/public-libraries/G_kWOidETKmIrqgef1xO1A'
 -
   type: cv
-  icon: 'fab fa-orcid'
+  icon: 'fas fa-file'
   url:  'https://helenarichie.github.io/assets/img/tabs/CV.pdf'  
+
+# fas fa-user-circle
 # -
 #   type: calendar
 #   icon: 'fa fa-calendar'
