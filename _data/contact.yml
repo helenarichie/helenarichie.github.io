@@ -23,7 +23,12 @@
 -
   type: orcid
   icon: 'fab fa-orcid'
-  url:  'https://ui.adsabs.harvard.edu/public-libraries/G_kWOidETKmIrqgef1xO1A'     
+  url:  'https://ui.adsabs.harvard.edu/public-libraries/G_kWOidETKmIrqgef1xO1A'
+
+-
+  type: cv
+  icon: 'fas fa-circle-user'
+  url:  'https://github.com/helenarichie/helenarichie.github.io/blob/main/assets/img/tabs/CV.pdf'  
 # -
 #   type: calendar
 #   icon: 'fa fa-calendar'
