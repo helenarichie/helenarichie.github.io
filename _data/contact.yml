@@ -24,7 +24,6 @@
   type: orcid
   icon: 'fab fa-orcid'
   url:  'https://ui.adsabs.harvard.edu/public-libraries/G_kWOidETKmIrqgef1xO1A'
-
 -
   type: cv
   icon: 'fas fa-user-circle'
