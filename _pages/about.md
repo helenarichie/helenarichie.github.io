@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>helenarichie@pitt.edu</p>
     <p>Allen 300 Desk #1</p>
     <p>3941 O'Hara St</p>
     <p>Pittsburgh, PA 15260</p>
