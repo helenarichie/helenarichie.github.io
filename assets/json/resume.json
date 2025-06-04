@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Helena M. Richie",
+    "label": "Physics Ph.D. Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "helenarichie@gmail.com",
+    "phone": "+1(412)-992-7743",
+    "url": "https://helenarichie.github.io",
+    "summary": "A computational astrophysicist studying the evolution of galaxies and dust.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "3721 Melwood Avenue",
+      "postalCode": "PA 15213",
+      "city": "Pittsburgh",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "helenarichie",
+        "url": "https://github.com/helenarichie"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Physics & Astronomy, University of Pittsburgh",
+      "position": "Ph.D. Canddiate",
+      "url": "https://www.physicsandastronomy.pitt.edu/",
+      "startDate": "2020-09-01",
+      "endDate": "2026-05-01",
+      "summary": "I work with Evan Schneider on using high performance computing to create high-resolution simuluations of galactic outflows and dust.",
+      "highlights": ["Galaxy Evolution"]
     }
   ],
   "volunteer": [
@@ -47,15 +47,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Pittsburgh, Pittsburgh, Pennsylvania, US",
+      "location": "Pittsburgh, Pennsylvania, US",
+      "url": "https://www.pitt.edu/",
+      "area": "Physics & Astronomy, Mathematics",
+      "studyType": "B.Sc.",
+      "startDate": "2016-09-01",
+      "endDate": "2020-05-01"
     }
   ],
   "awards": [
@@ -147,18 +145,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
     }
   ],
   "interests": [
