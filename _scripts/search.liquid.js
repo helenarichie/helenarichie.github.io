@@ -227,6 +227,10 @@ ninja.data = [
           {%- assign social_id = "social-semanticscholar" -%}
           {%- assign social_title = "Semantic Scholar" -%}
           {%- capture social_url %}"https://www.semanticscholar.org/author/{{ social[1] }}"{% endcapture -%}
+        {%- when "ads_library" -%}
+          {%- assign social_id = "social-ads" -%}
+          {%- assign social_title = "NASA ADS" -%}
+          {%- capture social_url %}"https://ui.adsabs.harvard.edu/public-libraries/{{ social[1] }}"{% endcapture -%}
         {%- when "spotify_id" -%}
           {%- assign social_id = "social-spotify" -%}
           {%- assign social_title = "Spotify" -%}
