@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Richie]
+  first_name: [Helena, M.]
 
   style: apa
   locale: en
@@ -638,6 +638,6 @@ jsonresume:
   - awards
   - certificates
   - skills
-  - languages
+  # - languages
   - interests
-  - references
+  # - references
