@@ -469,6 +469,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-ads',
+        title: 'NASA ADS',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ui.adsabs.harvard.edu/public-libraries/G_kWOidETKmIrqgef1xO1A", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
