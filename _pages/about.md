@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in the <a href='https://www.physicsandastronomy.pitt.edu/'>Department of Physics & Astronomy</a> at the University of Pittsburgh
+subtitle: Ph.D. Candidate in the <a href='https://www.physicsandastronomy.pitt.edu/'>Department of Physics & Astronomy</a> at the University of Pittsburgh.
 
 profile:
   align: right
