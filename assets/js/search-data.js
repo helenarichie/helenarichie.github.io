@@ -423,9 +423,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-dust-evolution-in-simulated-multi-phase-galactic-outflows",
+          title: 'Dust Evolution in Simulated Multi-phase Galactic Outflows',
+          description: "Large-scale, high-resolution simulations of dusty galactic outflows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
