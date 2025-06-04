@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
+title: Cloud-Wind Simulations
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/cloud-wind.png
 importance: 2
 category: work
 giscus_comments: true
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/cloud-wind.png
     ---
 
 <div class="row">
