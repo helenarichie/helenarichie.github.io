@@ -4,7 +4,7 @@ title: Galaxy Simulations
 description: Large-scale, high-resolution simulations of dusty galactic outflows
 img: assets/img/nuclear-burst.png
 importance: 1
-category: research
+category: work
 related_publications: true
 ---
 

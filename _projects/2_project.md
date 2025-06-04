@@ -4,7 +4,7 @@ title: Cloud-Wind Simulations
 description: a project with a background image and giscus comments
 img: assets/img/cloud-wind.png
 importance: 2
-category: research
+category: work
 giscus_comments: false
 ---
 
@@ -36,7 +36,7 @@ Extremely efficient cloud shielding enabled near-total dust survival in the surv
 
 Several factors are responsible for this cloud's destruction--it has a smaller radius (5 pc), it is accelerated by a faster wind (\\(10^3~\text{km}\,\text{s}^{-1}\\)), and the higher mixed-phase temperature results in a longer cooling time (\\(t_\text{cool,mix}\sim160~\text{kyr}\\)). The smaller cloud radius and faster wind velocity drive down the shear time, so the mixed cloud material moves away from the cloud before it can cool, and it eventually gets heated to the wind temperature (illustrated in the below cartoon, credit: Matthew Abruzzo).
 
-![Cloud Destruction](/assets/img/posts/cloud_dest.png){: width="750" height="357" style="max-width: 60%" .low}
+![Cloud Destruction](assets/img/posts/cloud_dest.png){: width="750" height="357" style="max-width: 60%" .low}
 
 By the end of the destroyed cloud simulation, the cloud is almost completely mixed into the wind, but \\(~80\%\\) of the dust remains intact, having traveled \\(0.5~\text{kpc}\\). In this case, dust survival can be explained by the rapid wind speed. Once the dust is transferred from the cloud into the hot gas, it moves at the wind speed away from the galaxy, where the wind is at its hottest and densest. Further away from the galaxy, sputtering times in the hot phase lengthen as the wind drops in density and temperature as it expands adiabatically.
 
