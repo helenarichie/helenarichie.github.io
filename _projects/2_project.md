@@ -56,6 +56,7 @@ By the end of the destroyed cloud simulation, the cloud is almost completely mix
 
 <div class="row justify-content-sm-center">
     {% include figure.liquid loading="eager" path="assets/img/sputtering_contours.jpg" class="img-fluid rounded z-depth-1" %}
+</div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
