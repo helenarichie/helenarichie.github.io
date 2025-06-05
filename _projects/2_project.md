@@ -13,9 +13,7 @@ This post is a summary of [Richie et al. 2024](https://ui.adsabs.harvard.edu/abs
 In all cases, for large ($$ a\gtrsim0.1~{\mu\text{m}} $$) grains, we find that a majority of dust survives. Below is a movie of a large ($$ r_\text{cl}=100~\text{pc} $$) cloud in a slow ($$ 500~\text{km}\,\text{s}^{-1} $$) wind.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
