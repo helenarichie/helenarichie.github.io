@@ -12,7 +12,7 @@ This post is a summary of [Richie et al. 2024](https://ui.adsabs.harvard.edu/abs
 
 In all cases, for large ($$ a\gtrsim0.1~{\mu\text{m}} $$) grains, we find that a majority of dust survives. Below is a movie of a large ($$ r_\text{cl}=100~\text{pc} $$) cloud in a slow ($$ 500~\text{km}\,\text{s}^{-1} $$) wind.
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-lg-center">
     {% include video.liquid path="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
@@ -34,7 +34,7 @@ In this scenario, the mixed-phase gas can cool and accrete onto the cloud's tail
 
 Extremely efficient cloud shielding enabled near-total dust survival in the survived cloud case, but a majority of dust ended up surviving _even_ when it was completely exposed to the hot wind. We saw this when we repeated the above simulation for a cloud in the destruction regime, defined by $$ t_\text{cool, mix} \gg t_\text{shear} $$.
 
-<div class="row justify-content-md-center">
+<div class="row justify-content-lg-center">
         {% include video.liquid path="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
@@ -50,7 +50,7 @@ Several factors are responsible for this cloud's destruction--it has a smaller r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-By the end of the destroyed cloud simulation, the cloud is almost completely mixed into the wind, but $$ ~80\% $$ of the dust remains intact, having traveled $$ 0.5~\text{kpc} $$. In this case, dust survival can be explained by the rapid wind speed. Once the dust is transferred from the cloud into the hot gas, it moves at the wind speed away from the galaxy, where the wind is at its hottest and densest. Further away from the galaxy, sputtering times in the hot phase lengthen as the wind drops in density and temperature as it expands adiabatically.
+By the end of the destroyed cloud simulation, the cloud is almost completely mixed into the wind, but $$ \sim80\% $$ of the dust remains intact, having traveled $$ 0.5~\text{kpc} $$. In this case, dust survival can be explained by the rapid wind speed. Once the dust is transferred from the cloud into the hot gas, it moves at the wind speed away from the galaxy, where the wind is at its hottest and densest. Further away from the galaxy, sputtering times in the hot phase lengthen as the wind drops in density and temperature as it expands adiabatically.
 
 <div class="row justify-content-sm-center">
     {% include figure.liquid loading="eager" path="assets/img/sputtering_contours.jpg" class="img-fluid rounded z-depth-1" %}
