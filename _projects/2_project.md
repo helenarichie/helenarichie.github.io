@@ -23,7 +23,7 @@ In this simulation, the cloud traverses nearly 15 kpc in roughly 80 Myr and exhi
 
 The mixed phase of gas (which forms as a result of mixing between the cool cloud and the hot wind) has a temperature of $$ \sim10^5~\text{K} $$, allowing it to cool extremely efficiently ($$ t_\text{cool,mix}\sim40~\text{kyr} $$). This is short compared to the dynamical timescales for cloud-wind mixing that govern the cloud's evolution. In particular, the shear time $$ t_\text{shear}=r_\text{cl}/v_\text{w} $$ is is around $$ 200~\text{kyr} $$. [Abruzzo et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230703228A/abstract) showed that clouds that satisfy the criterion $$ t_\text{cool, mix} < 7~t_\text{shear} $$ can survive for long periods.
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-center">
     <div class="col-md-6 offset-md-3">
     {% include figure.liquid loading="eager" path="assets/img/cloud_surv.png" class="img-fluid rounded z-depth-1" %}
     </div>
