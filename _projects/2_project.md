@@ -69,7 +69,7 @@ By the end of the destroyed cloud simulation, the cloud is almost completely mix
 
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col-sm">
     {% include figure.liquid loading="eager" path="assets/img/sputtering_contours.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 <div class="caption">
@@ -77,6 +77,6 @@ By the end of the destroyed cloud simulation, the cloud is almost completely mix
 </div>
 
 
-The above figure shows the sputtering times for ($$ a=0.1~{\mu\text{m}} $$) grains as a function of density and temperature. Overlaid are the densities and temperatures of the hot, cool, and mixed phases of an outflow at various distances away from the galactic midplane, taken from a theoretical model of a starburst-driven galactic outflow ([Schneider et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...43S/abstractt)). This shows that the only region of the outflow where the wind is hot and dense enough to sputter dust on timescales that are short compared to the outflow dynamical time ( $$ \sim10~\text{Myr} $$ ) is roughly $$ r\lesssim1~\text{kpc} $$. So, for large dust grains, cloud shielding is not necessary to enable dust survival.
+The above figure shows the sputtering times for ($$ a=0.1~{\mu\text{m}} $$) grains as a function of density and temperature. Overlaid are the densities and temperatures of the hot, cool, and mixed phases of an outflow at various distances away from the galactic midplane, taken from a theoretical model of a starburst-driven galactic outflow ([Schneider et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...43S/abstractt)). This shows that the only region of the outflow where the wind is hot and dense enough to sputter dust on timescales that are short compared to the outflow dynamical time ($$ \sim10~\text{Myr} $$) is roughly $$ r\lesssim1~\text{kpc} $$. So, for large dust grains, cloud shielding is not necessary to enable dust survival.
 
 These results provide a viable explanation for the vast amounts of dust observed in the CGMs of galaxies and beyond. In the future, we plan to apply this model to simulations of entire galaxies with self-consistently driven outflows to understand dust survival in non-idealized environments.
