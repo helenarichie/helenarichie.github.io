@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in the <a href='https://www.physicsandastronomy.pitt.edu/'>Department of Physics & Astronomy</a> at the University of Pittsburgh.
+subtitle: Ph.D. Candidate at the University of Pittsburgh
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>helenarichie@pitt.edu</p>
+    <p><a href='mailto:helenarichie@pitt.edu/'>helenarichie@pitt.edu</a></p>
     <p>Allen 300 Desk #1</p>
     <p>3941 O'Hara St</p>
     <p>Pittsburgh, PA 15260</p>
@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a sixth-year Ph.D. candidate in the [Department of Physics & Astronomy](https://www.physicsandastronomy.pitt.edu/) at the University of Pittsburgh, working with [Prof. Evan Schneider](https://evaneschneider.org/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work focuses on using simulations to study the evolution of dust and galaxies. Specfically, I'm using [Cholla](https://github.com/cholla-hydro/cholla), a GPU-based hydrodynamics code, to create high-resolution simulations of dusty, galactic outflows with the goal of understanding the source and nature of dust in the circumgalactic medium.
