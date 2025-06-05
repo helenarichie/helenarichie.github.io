@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href='mailto:helenarichie@pitt.edu/'>helenarichie@pitt.edu</a></p>
+    <p><a href='mailto:helenarichie@pitt.edu'>helenarichie@pitt.edu</a></p>
     <p>Allen 300 Desk #1</p>
     <p>3941 O'Hara St</p>
     <p>Pittsburgh, PA 15260</p>
