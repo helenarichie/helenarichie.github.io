@@ -2,7 +2,6 @@
 layout: page
 title: Cloud-Wind Simulations
 description: a project testing the ability for dust to survive in individual cool clouds
-I ran a suite of dusty cloud-wind tunnel simulations
 img: assets/img/cloud-wind.png
 importance: 2
 category: research
@@ -20,7 +19,7 @@ In all cases, for large ($$a\gtrsim0.1~{\mu\text{m}}$$) grains, we find that a m
 
 In this simulation, the cloud traverses nearly 15 kpc in roughly 80 Myr and exhibits essentially no dust sputtering. The timescale for sputtering in the hot wind is short compared to the simulation length--around 10 Myr. Here, dust survival is a direct result of long-term shielding within the cool cloud, where the sputtering time is much longer. 
 
-The mixed phase of gas (which forms as a result of mixing between the cool cloud and the hot wind) has a temperature of $$\sim10^5~\text{K}$$, allowing it to cool extremely efficiently ($$t_\text{cool,mix}\sim$$40 kyr). This is short compared to the dynamical timescales for cloud-wind mixing that govern the cloud's evolution. In particular, the shear time $$t_\text{shear}=r_\text{cl}/v_\text{w}$$ is is around 200 kyr. [Abruzzo et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230703228A/abstract) showed that clouds that satisfy the criterion $$t_\text{cool, mix} < 7~t_\text{shear}$$ can survive for long periods.
+The mixed phase of gas (which forms as a result of mixing between the cool cloud and the hot wind) has a temperature of $$\sim10^5~\text{K}$$, allowing it to cool extremely efficiently ($$t_\text{cool,mix}\sim$$ 40 kyr). This is short compared to the dynamical timescales for cloud-wind mixing that govern the cloud's evolution. In particular, the shear time $$t_\text{shear}=r_\text{cl}/v_\text{w}$$ is is around 200 kyr. [Abruzzo et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230703228A/abstract) showed that clouds that satisfy the criterion $$t_\text{cool, mix} < 7~t_\text{shear}$$ can survive for long periods.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
@@ -41,7 +40,7 @@ In this scenario, the mixed-phase gas can cool and accrete onto the cloud's tail
     Destroyed cloud simulation.
 </div>
 
-Several factors are responsible for this cloud's destruction--it has a smaller radius (5 pc), it is accelerated by a faster wind ($$10^3~\text{km}\,\text{s}^{-1}$$), and the higher mixed-phase temperature results in a longer cooling time ($$t_\text{cool,mix}\sim$$160 kyr). The smaller cloud radius and faster wind velocity drive down the shear time, so the mixed cloud material moves away from the cloud before it can cool, and it eventually gets heated to the wind temperature.
+Several factors are responsible for this cloud's destruction--it has a smaller radius (5 pc), it is accelerated by a faster wind ($$10^3~\text{km}\,\text{s}^{-1}$$), and the higher mixed-phase temperature results in a longer cooling time ($$t_\text{cool,mix}\sim$$ 160 kyr). The smaller cloud radius and faster wind velocity drive down the shear time, so the mixed cloud material moves away from the cloud before it can cool, and it eventually gets heated to the wind temperature.
 
 By the end of the destroyed cloud simulation, the cloud is almost completely mixed into the wind, but $$ \sim80\% $$ of the dust remains intact, having traveled 0.5 kpc. In this case, dust survival can be explained by the rapid wind speed. Once the dust is transferred from the cloud into the hot gas, it moves at the wind speed away from the galaxy, where the wind is at its hottest and densest. Further away from the galaxy, sputtering times in the hot phase lengthen as the wind drops in density and temperature as it expands adiabatically.
 
