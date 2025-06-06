@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "education": [
     {
       "name": "Department of Physics & Astronomy, University of Pittsburgh",
       "position": "Ph.D. Canddiate",
@@ -31,21 +31,7 @@
       "endDate": "2026-05-01",
       "summary": "I work with Evan Schneider on using high performance computing to create high-resolution simuluations of galactic outflows and dust.",
       "highlights": ["Galaxy Evolution"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
+    },
     {
       "institution": "University of Pittsburgh, Pittsburgh, Pennsylvania, US",
       "location": "Pittsburgh, PA, US",
@@ -58,11 +44,39 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "PITT PACC Fellowship",
+      "date": "2024",
+      "awarder": "University of Pittsburgh Dept. Physics & Astronomy"
+    },
+    {
+      "title": "Outstanding Oral Presentation, Grad Expo",
+      "date": "2024",
+      "awarder": "University of Pittsburgh A&S GSO"
+    },
+    {
+      "title": "Arts & Sciences Predoctoral Fellowship",
+      "date": "2021",
+      "awarder": "University of Pittsburgh"
+    },
+    {
+      "title": "NASA Pennsylvania Space Grant",
+      "date": "2017",
+      "awarder": "University of Pittsburgh Dept. Physics & Astronomy"
+    },
+    {
+      "title": "NASA Pennsylvania Space Grant",
+      "date": "2018",
+      "awarder": "University of Pittsburgh Dept. Physics & Astronomy"
+    },
+    {
+      "title": "NASA Pennsylvania Space Grant",
+      "date": "2019",
+      "awarder": "University of Pittsburgh Dept. Physics & Astronomy"
+    },
+    {
+      "title": "NASA Pennsylvania Space Grant",
+      "date": "2020",
+      "awarder": "University of Pittsburgh Dept. Physics & Astronomy"
     }
   ],
   "publications": [
@@ -90,27 +104,58 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++",
+        "Python",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Packages & APIs",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "CUDA",
+        "HIP",
+        "MPI",
+        "OpenMP",
+        "NumPy",
+        "Matplotlib"
+      ]
+    },
+    {
+      "name": "Software Tools",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Clang Tools",
+        "Make",
+        "HDF5",
+        "FITS",
+        "Slurm",
+        "Git"
+      ]
+    },
+    {
+      "name": "HPC Systems Used",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "OLCF: Summit, Andes, Crusher, & Frontier",
+        "ALCF: Theta",
+        "University Clusters"
       ]
     }
   ],
-  "projects": [
+  "volunteer": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ]
 }
