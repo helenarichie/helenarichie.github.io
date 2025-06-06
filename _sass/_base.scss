@@ -2,6 +2,11 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+pretty_rectangle {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
 // Typography
 
 p,
