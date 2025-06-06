@@ -22,7 +22,7 @@ nav_order: 3
 </div>
 
 ### nuclear-burst disk-halo interface
-<div style="padding:94.64% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1084727261?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px; overflow: hidden;" title="nuclear-burst disk-halo interface"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:94.64% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1084727261?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position: absolute; top: 0; left: 0; width: 50%; height: 100%; border-radius: 10px; overflow: hidden;" title="nuclear-burst disk-halo interface"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <div class="caption">
     Gas (top) and 0.001 micron dust (bottom) density projections at the disk-halo interface of the nuclear-burst simulation.
 </div>
