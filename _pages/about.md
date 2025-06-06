@@ -32,4 +32,4 @@ I'm a sixth-year Ph.D. candidate in the [Department of Physics & Astronomy](http
 
 My work focuses on using simulations to study the evolution of dust and galaxies. Specfically, I'm using [Cholla](https://github.com/cholla-hydro/cholla), a GPU-based hydrodynamics code, to create high-resolution simulations of dusty, galactic outflows with the goal of understanding the source and nature of dust in the circumgalactic medium.
 
-Here, you can find a [list of my publications](https://helenarichie.github.io/publications/) and [CV](https://helenarichie.github.io/cv/), along with some [posts about my research projects](https://helenarichie.github.io/projects/). Movies of my simulations can be found here and on [Vimeo](https://vimeo.com/user113587748).
+Here, you can find a [list of my publications](https://helenarichie.github.io/publications/) and [CV](https://helenarichie.github.io/cv/), along with some [posts about my research projects](https://helenarichie.github.io/projects/). Movies of my simulations can be found [here](https://helenarichie.github.io/movies/) and on [Vimeo](https://vimeo.com/user113587748).
