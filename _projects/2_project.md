@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Cloud-Wind Simulations
-description: a project with a background image and giscus comments
+description: a project testing the ability for dust to survive in individual cool clouds
+I ran a suite of dusty cloud-wind tunnel simulations
 img: assets/img/cloud-wind.png
 importance: 2
 category: research
