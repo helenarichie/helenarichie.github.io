@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-movies",
           title: "movies",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Simulation movies. Please email me if you&#39;d like access to the full-quality versions!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/movies/";
