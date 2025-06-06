@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "",
+          description: "my recent research projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -418,12 +418,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-galaxy-simulations",
           title: 'Galaxy Simulations',
-          description: "Large-scale, high-resolution simulations of dusty galactic outflows",
+          description: "large-scale, high-resolution simulations of dusty galactic outflows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cloud-wind-simulations",
           title: 'Cloud-Wind Simulations',
-          description: "a project testing the ability for dust to survive in individual cool clouds",
+          description: "a project testing the ability for dust to survive in cool clouds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
