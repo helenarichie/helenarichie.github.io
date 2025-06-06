@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-movies",
           title: "movies",
-          description: "Simulation movies. Please email me if you&#39;d like access to the full-quality versions!",
+          description: "Movies of my simulations. Please email me if you&#39;d like access to the full-quality versions!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/movies/";
@@ -421,9 +421,9 @@ ninja.data = [{
           description: "Large-scale, high-resolution simulations of dusty galactic outflows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-cloud-wind-simulations",
-          title: 'Cloud-Wind Simulations',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
