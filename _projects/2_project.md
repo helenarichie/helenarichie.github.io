@@ -12,7 +12,7 @@ This post is a summary of [Richie et al. 2024](https://ui.adsabs.harvard.edu/abs
 
 In all cases, for large ($$a\gtrsim0.1~{\mu\text{m}}$$) grains, we find that a majority of dust survives. Below is a movie of a large ($$ r_\text{cl}=100~\text{pc} $$) cloud in a slow ($$500~\text{km}\,\text{s}^{-1}$$) wind.
 
-<div style="padding:22.89% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="survived_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:22.89% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;border-radius: 10px; overflow: hidden;" title="survived_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <div class="caption">
     Survived cloud simulation.
 </div>
@@ -35,7 +35,7 @@ The mixed phase of gas (which forms as a result of mixing between the cool cloud
 
 In this scenario, the mixed-phase gas can cool and accrete onto the cloud's tail before the momentum it gains from the hot phase carries it away from the cloud. Extremely efficient cloud shielding enabled near-total dust survival in the survived cloud case, but a majority of dust ended up surviving _even_ when it was completely exposed to the hot wind. We saw this when we repeated the above simulation for a cloud in the destruction regime, defined by $$t_\text{cool, mix} \gg t_\text{shear}$$.
 
-<div style="padding:32.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="destroyed_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:32.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px; overflow: hidden;" title="destroyed_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <div class="caption">
     Destroyed cloud simulation.
 </div>
