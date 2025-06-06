@@ -17,7 +17,6 @@ In all cases, for large ($$a\gtrsim0.1~{\mu\text{m}}$$) grains, we find that a m
     Survived cloud simulation.
 </div>
 
-
 In this simulation, the cloud traverses nearly 15 kpc in roughly 80 Myr and exhibits essentially no dust sputtering. The timescale for sputtering in the hot wind is short compared to the simulation length--around 10 Myr. Here, dust survival is a direct result of long-term shielding within the cool cloud, where the sputtering time is much longer. 
 
 The mixed phase of gas (which forms as a result of mixing between the cool cloud and the hot wind) has a temperature of $$\sim10^5~\text{K}$$, allowing it to cool extremely efficiently ($$t_\text{cool,mix}\sim$$40 kyr). This is short compared to the dynamical timescales for cloud-wind mixing that govern the cloud's evolution. In particular, the shear time $$t_\text{shear}=r_\text{cl}/v_\text{w}$$ is is around 200 kyr. [Abruzzo et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230703228A/abstract) showed that clouds that satisfy the criterion $$t_\text{cool, mix} < 7~t_\text{shear}$$ can survive for long periods.
@@ -46,6 +45,9 @@ Several factors are responsible for this cloud's destruction--it has a smaller r
 By the end of the destroyed cloud simulation, the cloud is almost completely mixed into the wind, but $$ \sim80\% $$ of the dust remains intact, having traveled 0.5 kpc. In this case, dust survival can be explained by the rapid wind speed. Once the dust is transferred from the cloud into the hot gas, it moves at the wind speed away from the galaxy, where the wind is at its hottest and densest. Further away from the galaxy, sputtering times in the hot phase lengthen as the wind drops in density and temperature as it expands adiabatically.
 
 ![Sputtering Contours](/assets/img/sputtering_contours.jpg){: width="750" height="357" style="max-width: 60%" .low}
+<div class="caption">
+    Sputtering times for ($$a=0.1~{\mu\text{m}}$$) grains as a function of gas density and temperature.
+</div>
 
 The above figure shows the sputtering times for ($$a=0.1~{\mu\text{m}}$$) grains as a function of density and temperature. Overlaid are the densities and temperatures of the hot, cool, and mixed phases of an outflow at various distances away from the galactic midplane, taken from a theoretical model of a starburst-driven galactic outflow ([Schneider et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...43S/abstract)). This shows that the only region of the outflow where the wind is hot and dense enough to sputter dust on timescales that are short compared to the outflow dynamical time ($$\sim$$10 Myr) is roughly $$r\lesssim$$1 kpc. So, for large dust grains, cloud shielding is not necessary to enable dust survival.
 
