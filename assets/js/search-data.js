@@ -421,9 +421,9 @@ ninja.data = [{
           description: "Large-scale, high-resolution simulations of dusty galactic outflows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-cloud-wind-simulations",
+          title: 'Cloud-Wind Simulations',
+          description: "a project testing the ability for dust to survive in individual cool clouds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
