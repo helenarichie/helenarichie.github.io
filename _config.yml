@@ -628,7 +628,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: cv
-    json: https://helenarichie.github.io/assets/pdf/cv.pdf # it can also be an url
+    json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
