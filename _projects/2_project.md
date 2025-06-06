@@ -47,7 +47,7 @@ By the end of the destroyed cloud simulation, the cloud is almost completely mix
 
 ![Sputtering Contours](/assets/img/sputtering_contours.jpg){: width="750" height="357" style="max-width: 60%" .low}
 <div class="caption">
-    Sputtering times for ($$a=0.1~{\mu\text{m}}$$) grains as a function of gas density and temperature.
+    Sputtering times for 0.1 micron grains as a function of gas density and temperature. The x's show where the measured values of the CGOLS outflow lie in this phase space.
 </div>
 
 The above figure shows the sputtering times for ($$a=0.1~{\mu\text{m}}$$) grains as a function of density and temperature. Overlaid are the densities and temperatures of the hot, cool, and mixed phases of an outflow at various distances away from the galactic midplane, taken from a theoretical model of a starburst-driven galactic outflow ([Schneider et al. 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...895...43S/abstract)). This shows that the only region of the outflow where the wind is hot and dense enough to sputter dust on timescales that are short compared to the outflow dynamical time ($$\sim$$10 Myr) is roughly $$r\lesssim$$1 kpc. So, for large dust grains, cloud shielding is not necessary to enable dust survival.

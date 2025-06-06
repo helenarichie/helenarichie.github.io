@@ -32,17 +32,17 @@ nav_order: 3
 ### Destroyed Cloud
 <div style="padding:32.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="destroyed_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <div class="caption">
-    Destroyed cloud ($$t_\text{cool,mix}>>t_\text{shear}$$) simulation.
+    The mixed-phase cooling time is much longer than the shear time.
 </div>
 
 ### Survived Cloud
 <div style="padding:22.89% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="survived_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <div class="caption">
-    Survived cloud ($$t_\text{cool,mix}<<t_\text{shear}$$) simulation.
+    The mixed-phase cooling time is short compared to the shear time.
 </div>
 
 ### Disrupted Cloud
 <div style="padding:23.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018747362?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="disrupted_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <div class="caption">
-    Disrupted cloud ($$t_\text{cool,mix}~t_\text{shear}$$) simulation.
+    The mixed-phase cooling time is comparable to the shear time.
 </div>
