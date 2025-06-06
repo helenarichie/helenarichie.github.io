@@ -4,7 +4,7 @@ title: Cloud-Wind Simulations
 description: a project with a background image and giscus comments
 img: assets/img/cloud-wind.png
 importance: 2
-category: work
+category: research
 giscus_comments: false
 ---
 
@@ -12,7 +12,7 @@ This post is a summary of [Richie et al. 2024](https://ui.adsabs.harvard.edu/abs
 
 In all cases, for large ($$a\gtrsim0.1~{\mu\text{m}}$$) grains, we find that a majority of dust survives. Below is a movie of a large ($$ r_\text{cl}=100~\text{pc} $$) cloud in a slow ($$500~\text{km}\,\text{s}^{-1}$$) wind.
 
-{% include video.liquid path="https://player.vimeo.com/video/927225139?h=a7e07f3c89" class="img-fluid rounded z-depth-1" %}
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/927225139?h=a7e07f3c89" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 In this simulation, the cloud traverses nearly 15 kpc in roughly 80 Myr and exhibits essentially no dust sputtering. The timescale for sputtering in the hot wind is short compared to the simulation length--around 10 Myr. Here, dust survival is a direct result of long-term shielding within the cool cloud, where the sputtering time is much longer. 
 
