@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cloud-Wind Simulations
-description: a project testing the ability for dust to survive in individual cool clouds
+description: a project testing the ability for dust to survive in cool clouds
 img: assets/img/cloud-wind.png
 importance: 2
 category: research

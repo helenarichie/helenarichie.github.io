@@ -1,42 +1,21 @@
 ---
 layout: page
 title: Galaxy Simulations
-description: Large-scale, high-resolution simulations of dusty galactic outflows
+description: large-scale, high-resolution simulations of dusty galactic outflows
 img: assets/img/nuclear-burst.png
 importance: 1
 category: research
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/nuclear-burst.png
-    ---
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+### high-z model
+<div style="padding:49.38% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037395367?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="high_z"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="caption">
+    Evolution of 1, 0.1, 0.01, and 0.001 micron radius dust grains (from left to right) under sputtering in a multi-phase galactic outflow. The galaxy has a star formation rate of 20 solar masses per year, with clusters distribuetd throughout the disk at a scale radius of 800 pc.
 </div>
-```
 
-{% endraw %}
+### nuclear-burst model
+<div style="padding:49.38% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037618258?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="m82"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="caption">
+    Evolution of 1, 0.1, 0.01, and 0.001 micron radius dust grains (from left to right) under sputtering in a multi-phase galactic outflow. The galaxy has a star formation rate of 5 solar masses per year and centrally concentrated star clusters, distrbuted at a scale radius of 300 pc in the disk.
+</div>
