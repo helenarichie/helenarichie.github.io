@@ -44,7 +44,9 @@ Several factors are responsible for this cloud's destruction--it has a smaller r
 
 By the end of the destroyed cloud simulation, the cloud is almost completely mixed into the wind, but $$ \sim80\% $$ of the dust remains intact, having traveled 0.5 kpc. In this case, dust survival can be explained by the rapid wind speed. Once the dust is transferred from the cloud into the hot gas, it moves at the wind speed away from the galaxy, where the wind is at its hottest and densest. Further away from the galaxy, sputtering times in the hot phase lengthen as the wind drops in density and temperature as it expands adiabatically.
 
-![Sputtering Contours](/assets/img/sputtering_contours.jpg){: width="750" height="357" style="max-width: 60%" .low}
+<div class="row justify-content-sm-center">
+    {% include figure.liquid path="assets/img/sputtering_contours.jpg" title="sputtering contours" class="img-fluid rounded z-depth-1" %}
+</div>
 <div class="caption">
     Sputtering times for 0.1 micron grains as a function of gas density and temperature. The x's show where the measured values of the CGOLS outflow lie in this phase space.
 </div>
