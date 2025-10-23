@@ -426,6 +426,11 @@ ninja.data = [{
           description: "a project testing the ability of dust to survive in cool clouds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-pah-emission-spectra",
+          title: 'PAH Emission Spectra',
+          description: "a new method for modeling PAH heating and emission in arbitrary radiation environments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
