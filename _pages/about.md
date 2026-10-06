@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics Ph.D. Candidate at the University of Pittsburgh
+subtitle: Flatiron Research Fellow at <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'>Flatiron Institute CCA</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href='mailto:helenarichie@pitt.edu'>helenarichie@pitt.edu</a></p>
-    <p>Allen 300 Desk #1</p>
-    <p>3941 O'Hara St</p>
-    <p>Pittsburgh, PA 15260</p>
+    <p><a href='mailto:hrichie@flatironinstitute.org'>hrichie@flatironinstitute.org</a></p>
+    <p>Center for Computational Astrophysics</p>
+    <p>162 Fifth Avenue</p>
+    <p>New York, NY 10010</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a sixth-year Ph.D. candidate in the [Department of Physics & Astronomy](https://www.physicsandastronomy.pitt.edu/) at the University of Pittsburgh, working with [Prof. Evan Schneider](https://evaneschneider.org/).
+I'm a Flatiron Research Fellow in the Galaxy Formation group at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) (CCA) at the Flatiron Institute. Before joining the CCA in 2026, I earned my Ph.D. in physics from the University of Pittsburgh, where I worked with [Prof. Evan Schneider](https://evaneschneider.org/).
 
-My work focuses on using simulations to study the evolution of dust and galaxies. Specfically, I'm using [Cholla](https://github.com/cholla-hydro/cholla), a GPU-based hydrodynamics code, to create high-resolution simulations of dusty, galactic outflows with the goal of understanding the source and nature of dust in the circumgalactic medium.
+My research focuses on understanding the survival and evolution of dust and polycyclic aromatic hydrocarbons (PAHs) in the circumgalactic medium. I use [Cholla](https://github.com/cholla-hydro/cholla), a GPU-based hydrodynamics code, to run high-resolution simulations of dust evolution in multi-phase galactic outflows driven by stellar feedback. I'm also interested in modeling dust and PAH emission to better understand observations of dusty outflows, and I developed [pah_spec](https://github.com/helenarichie/pah_spec), a Python tool for computing PAH emission spectra in arbitrary radiation fields.
 
 Here, you can find a [list of my publications](https://helenarichie.github.io/publications/) and [CV](https://helenarichie.github.io/cv/), along with some [posts about my research projects](https://helenarichie.github.io/projects/). Movies of my simulations can be found [here](https://helenarichie.github.io/movies/) and on [Vimeo](https://vimeo.com/user113587748).
