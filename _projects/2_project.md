@@ -12,7 +12,7 @@ This post is a summary of [Richie et al. 2024](https://ui.adsabs.harvard.edu/abs
 
 In all cases, for large ($$a\gtrsim0.1~{\mu\text{m}}$$) grains, we find that a majority of dust survives. Below is a movie of a large ($$ r_\text{cl}=100~\text{pc} $$) cloud in a slow ($$500~\text{km}\,\text{s}^{-1}$$) wind.
 
-<div style="padding:22.89% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;border-radius: 10px; overflow: hidden;" title="survived_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:22.89% 0 0 0;position:relative;"><iframe loading="lazy" src="https://player.vimeo.com/video/927225139?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;border-radius: 10px; overflow: hidden;" title="survived_cloud"></iframe></div>
 <div class="caption">
     Survived cloud simulation.
 </div>
@@ -35,7 +35,7 @@ The mixed phase of gas (which forms as a result of mixing between the cool cloud
 
 In this scenario, the mixed-phase gas can cool and accrete onto the cloud's tail before the momentum it gains from the hot phase carries it away from the cloud. Extremely efficient cloud shielding enabled near-total dust survival in the survived cloud case, but a majority of dust ended up surviving _even_ when it was completely exposed to the hot wind. We saw this when we repeated the above simulation for a cloud in the destruction regime, defined by $$t_\text{cool, mix} \gg t_\text{shear}$$.
 
-<div style="padding:32.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px; overflow: hidden;" title="destroyed_cloud"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:32.32% 0 0 0;position:relative;"><iframe loading="lazy" src="https://player.vimeo.com/video/1018752642?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px; overflow: hidden;" title="destroyed_cloud"></iframe></div>
 <div class="caption">
     Destroyed cloud simulation.
 </div>
@@ -44,7 +44,11 @@ Several factors are responsible for this cloud's destruction--it has a smaller r
 
 By the end of the destroyed cloud simulation, the cloud is almost completely mixed into the wind, but $$ \sim80\% $$ of the dust remains intact, having traveled 0.5 kpc. In this case, dust survival can be explained by the rapid wind speed. Once the dust is transferred from the cloud into the hot gas, it moves at the wind speed away from the galaxy, where the wind is at its hottest and densest. Further away from the galaxy, sputtering times in the hot phase lengthen as the wind drops in density and temperature as it expands adiabatically.
 
-<img src="assets/img/sputtering_contours.jpg" alt="sputtering contours" style="position: absolute; top: 0; left: 0; width: 60%; height: 100%; border-radius: 10px; overflow: hidden;" class="center">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/sputtering_contours.jpg" title="sputtering contours" alt="sputtering contours" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
     Sputtering times for 0.1 micron grains as a function of gas density and temperature. The x's show where the measured values of the CGOLS outflow lie in this phase space.
 </div>

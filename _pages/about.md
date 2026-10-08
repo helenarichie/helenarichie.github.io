@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Flatiron Research Fellow at <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'>Flatiron Institute CCA</a>
+subtitle: Flatiron Research Fellow at the <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/'>Flatiron Institute Center for Computational Astrophysics</a>
 
 profile:
   align: right
@@ -28,8 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Flatiron Research Fellow in the Galaxy Formation group at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) (CCA) at the Flatiron Institute. Before joining the CCA in 2026, I earned my Ph.D. in physics from the University of Pittsburgh, where I worked with [Prof. Evan Schneider](https://evaneschneider.org/).
-
-My research focuses on understanding the survival and evolution of dust and polycyclic aromatic hydrocarbons (PAHs) in the circumgalactic medium. I use [Cholla](https://github.com/cholla-hydro/cholla), a GPU-based hydrodynamics code, to run high-resolution simulations of dust evolution in multi-phase galactic outflows driven by stellar feedback. I'm also interested in modeling dust and PAH emission to better understand observations of dusty outflows, and I developed [pah_spec](https://github.com/helenarichie/pah_spec), a Python tool for computing PAH emission spectra in arbitrary radiation fields.
+My research focuses on understanding the survival and evolution of dust and polycyclic aromatic hydrocarbons (PAHs) in the circumgalactic medium. I primarily work with high-resolution simulations (made using [Cholla](https://github.com/cholla-hydro/cholla), a GPU-based hydrodynamics code) of dust evolution in multi-phase galactic outflows to study these questions. I'm also interested in modeling dust and PAH emission to better understand observations of dusty outflows, and I developed [pah_spec](https://github.com/helenarichie/pah_spec), a Python tool for efficiently computing PAH emission spectra in arbitrary radiation fields.
 
 Here, you can find a [list of my publications](https://helenarichie.github.io/publications/) and [CV](https://helenarichie.github.io/cv/), along with some [posts about my research projects](https://helenarichie.github.io/projects/). Movies of my simulations can be found [here](https://helenarichie.github.io/movies/) and on [Vimeo](https://vimeo.com/user113587748).

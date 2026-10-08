@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 
-Polycyclic aromatic hydrocarbons (PAHs) are the smallest carbonaceous dust grains, and their mid-infrared emission features are some of the brightest spectral features in star-forming galaxies. With JWST, we can now map PAH emission in unprecedented detail, including in the dusty outflows and circumgalactic media of nearby galaxies. Interpreting these observations requires models of how PAHs are heated and how they emit, but because PAHs are so small, a single absorbed photon can heat them to high temperatures, after which they cool by emitting in their infrared bands. Computing the resulting emission spectrum normally means solving for the full temperature distribution of each PAH, which is expensive to do for every radiation field of interest.
+Polycyclic aromatic hydrocarbons (PAHs) are small carbonaceous molecules observed in and around galaxies, with spectral emission features that can be dominant in the mid-infrared. With JWST, we can now map PAH emission in unprecedented detail, including in the dusty outflows of nearby galaxies. Interpreting these observations requires models of how PAHs are heated and how they emit. Because PAHs are so small, a single absorbed photon can heat them to high temperatures, after which they cool by emitting in their infrared bands. Computing the resulting emission spectrum normally means solving for the full temperature distribution of each PAH, which is expensive to do for every radiation field of interest.
 
 In [Richie & Hensley (2026)](https://doi.org/10.3847/1538-4357/ae7a42), we take advantage of the single-photon limit for PAH heating and emission. When photon absorptions are rare enough that each one can be treated as an independent event, the emission spectrum becomes a sum over contributions from individual absorbed photons. This means we can precompute a set of **basis spectra**, the emission produced by a PAH of a given size and charge after absorbing a photon of a given wavelength, and then simply scale and sum them to get the emission spectrum for _any_ input radiation field.
 
@@ -19,7 +19,7 @@ In [Richie & Hensley (2026)](https://doi.org/10.3847/1538-4357/ae7a42), we take 
     </div>
 </div>
 <div class="caption">
-    How the power a PAH absorbs from the radiation field sets the contribution of each basis spectrum to the integrated emission spectrum. Each basis spectrum is the emission following the absorption of a photon at a single wavelength, so weighting each one by the power absorbed at that wavelength and summing them gives the total emission spectrum.
+    An illustration of how basis spectra scaled to the input power of the <a href="https://ui.adsabs.harvard.edu/abs/1983A%26A...128..212M/abstract">Mathis, Mezger, and Panagia (1983)</a> Milky Way radiation field contribute to the integrated emission spectra for a 5&nbsp;Å PAH. The resulting spectrum agrees with a full multi-photon calculation to within a few percent.
 </div>
 
 This approach agrees with spectra computed with full multi-photon heating to within $$\approx10\%$$ over the 3–20 $$\mu\text{m}$$ range for radiation field intensities $$U<100$$. Because generating a spectrum is fast, it's easy to explore how PAH emission responds to the shape of the radiation field. For example, we find that the 3.3/11.2 $$\mu\text{m}$$ band ratio depends strongly on the hardness of the radiation field, which is important to account for when using band ratios to infer PAH sizes.

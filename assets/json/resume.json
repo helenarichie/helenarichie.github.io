@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Helena M. Richie",
-    "label": "Physics Ph.D. Candidate",
+    "label": "Flatiron Research Fellow, Center for Computational Astrophysics, Flatiron Institute",
     "image": "",
-    "email": "helenarichie@gmail.com",
+    "email": "hrichie@flatironinstitute.org",
     "phone": "+1(412)-992-7743",
     "url": "https://helenarichie.github.io",
-    "summary": "A computational astrophysicist studying the evolution of galaxies and dust.",
+    "summary": "Computational astrophysicist",
     "location": {
-      "address": "3721 Melwood Avenue",
-      "postalCode": "PA 15213",
-      "city": "Pittsburgh",
+      "address": "162 Fifth Avenue",
+      "postalCode": "10010",
+      "city": "New York",
       "countryCode": "US",
-      "region": "Pennsylvania"
+      "region": "New York"
     },
     "profiles": [
       {
