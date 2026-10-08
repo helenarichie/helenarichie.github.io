@@ -416,8 +416,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-galaxy-simulations",
-          title: 'Galaxy Simulations',
+          section: "News",},{id: "projects-galactic-outflow-simulations",
+          title: 'Galactic Outflow Simulations',
           description: "large-scale, high-resolution simulations of dusty galactic outflows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -436,7 +436,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%65%6C%65%6E%61%72%69%63%68%69%65@%70%69%74%74.%65%64%75", "_blank");
+          window.open("mailto:%68%72%69%63%68%69%65@%66%6C%61%74%69%72%6F%6E%69%6E%73%74%69%74%75%74%65.%6F%72%67", "_blank");
         },
       },{
         id: 'social-github',
